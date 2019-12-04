@@ -1,35 +1,154 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
+<div class="site-footer">
+    <div class="grid-container large">
+      <div class="subsite-footer">
+        <div class="grid-x grid-margin-x grid-padding-x large-padding-collapse large-margin-collapse">
+          <div class="large-4 small-order-2 large-order-1 cell">
+            <div class="contact-card">
+              <h3>{{ site.title }}</h3>
+              <strong>Email:</strong> <a href="mailto:specialevents@ucsc.edu" class="whitelink">specialevents@ucsc.edu</a><br>
+              <strong>Phone:</strong> (831)123-4567<br>
+              <strong>Fax:</strong> (831)987-6543
+            </div>
+            <div class="nav-social">
+              <ul>
+                <li><a href="https://twitter.com/ucsc" target="_blank">
+                    <i class="fab fa-twitter"></i></a></li>
+                <li><a href="https://www.instagram.com/ucsc/" target="_blank">
+                    <i class="fab fa-instagram"></i></a></li>
+                <li><a href="https://www.facebook.com/ucsantacruz" target="_blank">
+                    <i class="fab fa-facebook-square"></i></a></li>
+                <li><a href="https://youtube.com/ucsantacruz" target="_blank">
+                    <i class="fab fa-youtube"></i></a></li>
+                <li><a href="https://www.linkedin.com/school/ucsc/" target="_blank">
+                <i class="fab fa-linkedin"></i></a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="large-8 small-order-2 large-order-2 cell">
+            <div class="toggle-trigger" data-toggle="quick-1">
+              <h5 class="underline"><i class="fas fa-plus hide-for-large"></i> Quick Links
+              </h5>
+            </div>
+            <div id="quick-1" class="show-for-large" data-toggler=".show-for-large">
+              <ul class="menu">
+                <li><a href="{{ site.baseurl }}/events/" aria-label="">Past Events</a></li>
+                <li><a href="{{ site.baseurl }}/help-in-planning/" aria-label="">Help in Planning</a></li>
+                <li><a href="{{ site.baseurl }}/help-in-planning/contact.html" aria-label="">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+      <div class="global-footer">
+        <div class="grid-x grid-margin-x grid-padding-x large-padding-collapse large-margin-collapse">
+          <div class="cell large-4 show-for-large">
+            <img class="white-ucsc-logo" src="{{ site.baseurl }}/assets/images/uc-santa-cruz-reverse.svg" />
+            <p class="address">1156 High Street, Santa Cruz, CA 95064</p>
+          </div>
 
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+          <div class="cell large-8">
+            <div class="toggle-trigger" data-toggle="engage">
+              <h5 class="underline">Engage <span class="thin">with UCSC</span> <i class="fas fa-plus hide-for-large"></i></h5>
+            </div>
+
+            <div id="engage" class="show-for-large" data-toggler=".show-for-large">
+             <ul class="menu horizontal">
+                <li><a href="https://www.ucsc.edu/feedback/index.html">Site Feedback</a></li>
+                <li><a href="https://www.ucsc.edu/about/employment.html">Employment</a></li>
+                <li><a href="https://www.ucsc.edu/quickstart/community/all-volunteer-opportunities.html">Volunteer</a></li>
+                <li><a href="https://oes.ucsc.edu">Emergency Information</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      <div class="grid-x grid-margin-x text-center mt-25">
+        <div class="cell large-4 hide-for-large">
+          <img class="white-ucsc-logo" src="{{ site.baseurl }}/assets/images/uc-santa-cruz-reverse.svg" />
+          <p class="address">
+            1156 High Street, Santa Cruz, CA 95064
+          </p>
+        </div>
+        <div class="nav-global cell">
+            <ul class="primary-set">
+                <li><a href="https://academicaffairs.ucsc.edu/accreditation/">Accreditation</a></li>
+                <li><a href="https://diversity.ucsc.edu/eeo-aa/images/non-discrimination-policy.pdf">Non-Discrimination Policy</a></li>
+                <li><a href="https://its.ucsc.edu/terms/">Privacy Policy &amp; Terms of Use</a></li>
+                <li><a href="https://safe.ucsc.edu">Sexual Violence Prevention &amp; Response</a></li>
+            </ul>
+            <p>&copy;2019 Regents of the University of California.<br>All Rights Reserved.</p>
+        </div>
       </div>
     </div>
-
   </div>
+</div>
+<div class="global-search-container off-canvas position-top align-center" id="global-search" data-off-canvas>
+  <div class="global-search">
+    <a href="javascript:void(0)" class="close-modal" data-toggle="global-search">
+      <i class="fas fa-close"></i>
+    </a>
+    <h2 class="mt-25">Search UCSC:</h2>
+    <form action="{{ site.baseurl }}/search/index.html" method="get" id="sitesearch">
+        <div class="input-group">
+            <input class="input-group-field" type="search" placeholder="Search this site" id="searchInput" name="query">
+            <div class="input-group-button">
+                    <a class="button secondary" href="javascript:;" onclick="document.getElementById('sitesearch').submit();"><i class="fas fa-search"></i> <span class="show-for-large">Search</span></a>
+            </div>
+        </div>
+    </form>
+    <div class="footer-links">
+        Other ways to search: <a href="https://www.ucsc.edu/tools/people.html" aria-label="">People</a> | <a href="https://www.ucsc.edu/tools/azindex.html" aria-label="">A-Z Index</a> | <a href="https://www.ucsc.edu/tools/calendars.html" aria-label="">Calendars</a>
+    </div>
+  </div>
+</div>
 
-</footer>
+<script src="//cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+
+<script>
+var wow = new WOW();
+wow.init();
+</script>
+
+<script src="{{ site.baseurl }}/assets/js/app.js"></script>
+<script src="https://use.fontawesome.com/facf9fa52c.js"></script>
+
+<script>
+$(window).on('load resize', function () {
+    //document.getElementById("width_px").innerHTML = window.innerWidth;
+    //document.getElementById("width_ems").innerHTML = window.innerWidth / parseFloat($("body").css("font-size"));
+    var viewportWidth = window.innerWidth / parseFloat($("body").css("font-size"));
+
+    var breakpointSize = function(){
+        if (viewportWidth < 25) { console.log("Breakpoint Size is small") } else
+        if (viewportWidth < 40) { console.log("Breakpoint Size is medium") } else
+        if (viewportWidth < 64) { console.log("Breakpoint Size is large") } else
+        if (viewportWidth < 75) { console.log("Breakpoint Size is xlarge") } else
+        if (viewportWidth < 90) { console.log("Breakpoint Size is xxlarge") } else
+        console.log("Breakpoint Size is xxxlarge")
+    }
+    console.log("Viewport width is = " + viewportWidth + "rems");
+    console.log("---------------");
+    breakpointSize();
+});
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5RFHNC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5RFHNC');</script>
+<!-- End Google Tag Manager -->
+<!-- Siteimprove -->
+<script type="text/javascript">
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_8343.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+<!-- end Siteimprove -->
