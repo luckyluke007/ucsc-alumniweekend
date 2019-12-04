@@ -1,0 +1,38 @@
+{% if page.billboard.image != '' %}
+  <div class="hero-viewport inner-page">
+    <div class="hero-container">
+      <div id="hero" class="hero hero-text-right">
+        <div class="angle"></div>
+        <img src="{{ page.billboard.image }}" alt="{{ page.billboard.alt-text }}" />
+        <div class="hero-text">
+          <h2 class="hero-header">{{ page.title }} {{ page.billboard.year }}</h2>
+          <div class="tags">
+            <div class="topics-title"><a href="#0" class="topic btn-link light">{{ page.billboard.day }}</a> / </div>
+            <div class="topics-title">{{ page.billboard.month }} {{ page.billboard.date }}</div>
+          </div>
+            <p><a class="button primary expanded" href="{{ page.register-url }}">Register Now</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+
+{% if page.billboard.image != '' %}
+  <div class="hero-viewport inner-page-standard wave-pattern blue">
+    <div class="grid-container large">
+      <div class="hero-container">
+        <div id="hero" class="hero hero-text-left">
+          <img src="{{ page.billboard.image-2 }}" alt="{{ page.billboard.alt-text }}" />
+          <div class="hero-text">
+            <a href="#0">
+              <h1 class="hero-header underline">{{ page.title }} {{ page.billboard.year }}</h1>
+              <p class="hero-body">{{ page.billboard.day }}, {{ page.billboard.month }} {{ page.billboard.date }}</p>
+               <p><a class="button primary expanded" href="{{ page.register-url }}">Register Now</a></p>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
