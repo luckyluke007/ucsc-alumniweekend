@@ -19,6 +19,12 @@ plugins:
 source: ./source
 destination: ./build
 
+# Collections AW by year
+collections:
+  alumniweekend:
+    output: true
+    permalink: /:collection/:path
+
 # Build Settings
 markdown: kramdown
 kramdown:
