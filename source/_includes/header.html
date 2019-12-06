@@ -28,6 +28,8 @@
       </div>
       <!-- end Special Events -->
       <div class="global-links">
+        {% if alumniweekend.category != '' %}
+        {% assign pagenav = page.category %}
         <ul class="vertical menu">
           <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1" aria-label=""><span>MyUCSC</span></a></li>
           <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
