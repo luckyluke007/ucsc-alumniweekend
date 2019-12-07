@@ -1,8 +1,9 @@
 ---
 title: Volunteer
-layout: default
+layout: page-left-navigation
 
 category: aw-2020
+order: 3
 ---
 
 ## {{ page.title }}

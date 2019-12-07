@@ -1,0 +1,14 @@
+<div id="page-menu">
+  <ul class="vertical menu">
+    {% assign awnav == page.category %}
+    {% for item in site %}
+      <li>
+        {% if awnav == site.alumniweekend.category %}
+        <ul class="menu vertical nested">
+    			<li><a href="{{ site.baseurl }}{{ page.url }}" aria-label="">{{ page.title }}</a></li>
+        </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

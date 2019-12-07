@@ -1,7 +1,9 @@
 ---
 title: Place to Visit
-layout: default
+layout: page-left-navigation
+
 category: aw-2020
+order: 2
 ---
 
 ## {{ page.title }}
