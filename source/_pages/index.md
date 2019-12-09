@@ -1,6 +1,6 @@
 ---
 layout: front-page
-title: Alumni Weekend 2020
+title: Alumni Weekend
 
 category: aw-2020
 order: 1
