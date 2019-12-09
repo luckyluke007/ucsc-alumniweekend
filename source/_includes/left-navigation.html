@@ -1,14 +1,23 @@
 <div id="page-menu">
   <ul class="vertical menu">
     {% assign awnav == page.category %}
-    {% for item in site %}
+      {% if page.category != '' %}
       <li>
-        {% if awnav == site.alumniweekend.category %}
+        {% for page in site.pages %}
+        {% if awnav == site.page.category  %}
+        <a href="{{ site.baseurl }}{{ page.url }}" aria-label="">{{ page.title }}</a>
+        {% endif %}
+        {% endfor %}
+        {% if alumniweekend.category != '' %}
         <ul class="menu vertical nested">
-    			<li><a href="{{ site.baseurl }}{{ page.url }}" aria-label="">{{ page.title }}</a></li>
+          {% for item in site.alumniweekend %}
+            {% if awnav == site.alumniweekend.category %}
+      			<li><a href="{{ site.baseurl }}{{ item.url }}" aria-label="">{{ item.title }}</a></li>
+            {% endif %}
+          {% endfor %}
         </ul>
         {% endif %}
       </li>
-    {% endfor %}
+    {% endif %}
   </ul>
 </div>
