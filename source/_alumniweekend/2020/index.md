@@ -3,7 +3,6 @@ layout: front-page
 title: Alumni Weekend
 category: aw-2020
 order: 1
-
 billboard:
   image: /assets/images/billboard/2020/homepage-billboard.jpg
   image-2: /assets/images/billboard/2020/homepage-billboard-v2.jpg

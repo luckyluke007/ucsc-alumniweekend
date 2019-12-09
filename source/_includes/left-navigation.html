@@ -1,22 +1,20 @@
-{% assign awnav == page.category %}
-  {% for page in site.pages %}
-    <div id="page-menu">
-      <ul class="vertical menu">
-        <li>
-            {% if awnav == site.pages.category and page.order <= 1 %}
-              <a href="{{ site.baseurl }}{{ page.url }}" aria-label="">{{ page.title }}</a>
-            {% endif %}
-          {% if alumniweekend.category != '' %}
-          <ul class="menu vertical nested">
-            {% for item in site.alumniweekend %}
-              {% if awnav == site.alumniweekend.category and page.order >= 1 %}
-        			<li><a href="{{ site.baseurl }}{{ item.url }}" aria-label="">{{ item.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-          {% endif %}
-        </li>
-      </ul>
-    </div>
-{% endfor %}
+{% assign alumniweekendnav = page.category %}
+{% if page.category != '' %}
+<div id="page-menu">
+  <ul class="vertical menu">
+    {% for alumniweekend in site.alumniweekend %}
+      <li class="">
+        {% if alumniweekend.category == alumniweekendnav and alumniweekend.order <= 1 %}
+          <a class="section-title" href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a>
+        {% endif %}
+        {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
+        <ul class="menu vertical nested">
+          <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+        </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
 

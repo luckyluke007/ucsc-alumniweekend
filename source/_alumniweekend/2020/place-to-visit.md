@@ -1,7 +1,6 @@
 ---
 title: Place to Visit
 layout: page-left-navigation
-
 category: aw-2020
 order: 2
 ---
