@@ -31,9 +31,14 @@
             </div>
             <div id="quick-1" class="show-for-large" data-toggler=".show-for-large">
               <ul class="menu">
-                <li><a href="{{ site.baseurl }}" aria-label="">Link 1</a></li>
-              <li><a href="{{ site.baseurl }}" aria-label="">Link 2</a></li>
-              <li><a href="{{ site.baseurl }}" aria-label="">Link 3</a></li>
+              {% assign alumniweekendnav = page.category %}
+              {% if page.category != '' %}
+                {% for alumniweekend in site.alumniweekend %}
+                  {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
+                    <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
               </ul>
             </div>
           </div>
