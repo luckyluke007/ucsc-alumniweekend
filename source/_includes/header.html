@@ -19,13 +19,16 @@
       </div>
       <!-- Special Events mobile -->
       <!-- Subsite Menu-->
+      {% if alumniweekend.category != '' %}
+      {% assign sitenav = site.category %}
       <div class="primary-links lower-divider">
         <ul class="menu">
-          <li><a href="{{ site.baseurl }}" aria-label="">Link 1</a></li>
-              <li><a href="{{ site.baseurl }}" aria-label="">Link 2</a></li>
-              <li><a href="{{ site.baseurl }}" aria-label="">Link 3</a></li>
+          {% for site in sitenav %}
+          <li><a href="{{ site.baseurl }}" aria-label="">{{ page.title }}</a></li>
+          {% endfor %}
         </ul>
       </div>
+      {% endif %}
       <!-- end Special Events -->
       <div class="global-links">
         <ul class="vertical menu">
@@ -33,6 +36,7 @@
           <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
           <li><a href="https://www.ucsc.edu/tools/people.html" aria-label=""><span>Directories</span></a></li>
         </ul>
+
       </div>
     </div>
   </div>
@@ -113,13 +117,16 @@
               </a>
             </div>
           </div>
+          {% if alumniweekend.category != '' %}
+          {% assign sitenav = site.category %}
           <div class="cell auto">
             <ul class="menu">
-              <li><a href="{{ site.baseurl }}" aria-label="">Link 1</a></li>
-              <li><a href="{{ site.baseurl }}" aria-label="">Link 2</a></li>
-              <li><a href="{{ site.baseurl }}" aria-label="">Link 3</a></li>
+              {% for page in sitenav %}
+                <li><a href="{{ site.baseurl }}" aria-label=""> {{ page.title }}</a></li>
+              {% endfor %}
             </ul>
           </div>
+          {% endif %}
         </div>
       </div>
     </div>
