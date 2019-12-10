@@ -19,16 +19,18 @@
       </div>
       <!-- Special Events mobile -->
       <!-- Subsite Menu-->
-      {% if alumniweekend.category != '' %}
-      {% assign sitenav = site.category %}
       <div class="primary-links lower-divider">
         <ul class="menu">
-          {% for site in sitenav %}
-          <li><a href="{{ site.baseurl }}" aria-label="">{{ page.title }}</a></li>
-          {% endfor %}
+          {% assign alumniweekendnav = page.category %}
+          {% if page.category != '' %}
+            {% for alumniweekend in site.alumniweekend %}
+              {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
+                <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
         </ul>
       </div>
-      {% endif %}
       <!-- end Special Events -->
       <div class="global-links">
         <ul class="vertical menu">
@@ -117,16 +119,19 @@
               </a>
             </div>
           </div>
-          {% if alumniweekend.category != '' %}
-          {% assign sitenav = site.category %}
+
           <div class="cell auto">
             <ul class="menu">
-              {% for page in sitenav %}
-                <li><a href="{{ site.baseurl }}" aria-label=""> {{ page.title }}</a></li>
-              {% endfor %}
+              {% assign alumniweekendnav = page.category %}
+              {% if page.category != '' %}
+                {% for alumniweekend in site.alumniweekend %}
+                  {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
+                    <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
             </ul>
           </div>
-          {% endif %}
         </div>
       </div>
     </div>

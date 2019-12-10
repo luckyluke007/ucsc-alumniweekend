@@ -1,10 +1,8 @@
 ---
 layout: front-page
-title: Alumni Weekend 2020
-
+title: Alumni Weekend
 category: aw-2020
 order: 1
-
 billboard:
   image: /assets/images/billboard/2020/homepage-billboard.jpg
   image-2: /assets/images/billboard/2020/homepage-billboard-v2.jpg
@@ -14,7 +12,110 @@ billboard:
   month: April
   date: 3-5
   year: 2020
-  register-url: "#"
-permalink: /
+  register-url: '#'
+
+sponsors:
+  platinum: '/assets/images/sponsors/iu-v2.jpg'
+  
+permalink: '/'
 ---
+
+<section class="heading">
+    <h2 class="underline">Thank you to our sponsors</h2><br/>
+    <h3>Platinum</h3>
+</section>
+
+<div class="grid-container large mt-25">
+  <div class="grid-x grid-margin-x">
+    <div class="cell large-4">
+      <div class="closing-blocks">
+        <a href="https://magazine.ucsc.edu/">
+            <div class="image">
+            <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+            </div>
+        </a>
+      </div>
+    </div>
+    <div class="cell large-4">
+      <div class="closing-blocks">
+        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
+          <div class="image">
+              <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="cell large-4">
+      <div class="closing-blocks">
+        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
+          <div class="image">
+             <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<section class="heading">
+    <h3>Gold</h3>
+</section>
+
+<div class="grid-container large mt-25">
+  <div class="grid-x grid-margin-x">
+    <div class="cell large-3">
+      <div class="closing-blocks">
+        <a href="https://magazine.ucsc.edu/">
+            <div class="image">
+            <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+            </div>
+        </a>
+      </div>
+    </div>
+    <div class="cell large-3">
+      <div class="closing-blocks">
+        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
+          <div class="image">
+              <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="cell large-3">
+      <div class="closing-blocks">
+        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
+          <div class="image">
+             <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+          </div>
+        </a>
+      </div>
+    </div>
+    <div class="cell large-3">
+      <div class="closing-blocks">
+        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
+          <div class="image">
+             <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<section class="heading">
+    <h3>Bronze</h3>
+</section>
+
+<div class="grid-container large mt-25">
+  <div class="button-list align-center">
+    <a class="button" href="#" target="_blank"><strong>Company Name</strong></a>
+    <a class="button" href="#" target="_blank"><strong>Company Name 2</strong></a>
+    <a class="button" href="#" target="_blank"><strong>Company Name 3</strong></a>
+    <a class="button" href="javascript:void(0)" target="_blank"><strong>Company Name 4</strong></a>
+  </div>
+</div>
+<p></p>
+
 
