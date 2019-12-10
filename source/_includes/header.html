@@ -22,13 +22,13 @@
       <div class="primary-links lower-divider">
         <ul class="menu">
           {% assign alumniweekendnav = page.category %}
-          {% if page.category != '' %}
-            {% for alumniweekend in site.alumniweekend %}
-              {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
-                <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
-              {% endif %}
-            {% endfor %}
-          {% endif %}
+            {% if page.category != '' %}
+              {% for alumniweekend in site.alumniweekend %}
+                {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
+                  <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            {% endif %}
         </ul>
       </div>
       <!-- end Special Events -->
@@ -123,12 +123,14 @@
           <div class="cell auto">
             <ul class="menu">
               {% assign alumniweekendnav = page.category %}
-              {% if page.category != '' %}
-                {% for alumniweekend in site.alumniweekend %}
-                  {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
-                    <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
-                  {% endif %}
-                {% endfor %}
+              {% if page.layout != 'page-left-navigation' %}
+                {% if page.category != '' %}
+                  {% for alumniweekend in site.alumniweekend %}
+                    {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
+                      <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+                    {% endif %}
+                  {% endfor %}
+                {% endif %}
               {% endif %}
             </ul>
           </div>
