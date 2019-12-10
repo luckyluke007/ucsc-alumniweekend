@@ -14,6 +14,5 @@ billboard:
   year: 2020
   register-url: "#"
 
-permalink: '/'
+redirect_to: '/'
 ---
-
