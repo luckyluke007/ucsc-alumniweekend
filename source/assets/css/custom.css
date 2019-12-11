@@ -71,6 +71,12 @@ a.whitelink:focus {
 .skipnav a { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
 .skipnav a:focus, .skipnav a:active { position: static; left: 0; width: auto; height: auto; overflow: visible; text-decoration: underline; }
 
+@media screen and (min-width: 64em) {
+  .generic-card-list .generic-card {
+    width: calc(33%);
+    margin: 0;
+  }
+}
 
 /*End location address */
 /* min-width 641px, medium screens */
