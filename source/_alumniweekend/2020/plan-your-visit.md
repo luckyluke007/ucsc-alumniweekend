@@ -20,7 +20,9 @@ plan:
   - headline: Directions to campus
     description: Hop in the car—several major highways run to Santa Cruz. Or come by plane—the San Francisco and San Jose international airports, as well as Monterey Regional Airport, are all nearby.
     image: /assets/images/ucsc-map-300x252.gif
-    link: https://www.ucsc.edu/visit/maps-directions.html
+    link: /alumniweekend/2020/directions.html
+
+nav: yes
     
 ---
 {: .underline}

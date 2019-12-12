@@ -1,6 +1,9 @@
 ---
-title: Plan Your Visit
+title: Places to Stay
 layout: page-left-navigation
+
+category: aw-2020
+nav: no
 ---
 {: .underline}
 ## {{ page.title }}
