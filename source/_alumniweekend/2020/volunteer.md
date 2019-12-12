@@ -3,7 +3,7 @@ title: Volunteer
 layout: page-left-navigation
 category: aw-2020
 nav: yes
-order: 3
+order: 6
 ---
 {: .underline}
 ## {{ page.title }}

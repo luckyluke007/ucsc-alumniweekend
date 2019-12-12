@@ -2,7 +2,7 @@
 title: Plan Your Visit
 layout: page-left-navigation
 category: aw-2020
-order: 2
+order: 5
 
 plan:
   - headline: Places to stay

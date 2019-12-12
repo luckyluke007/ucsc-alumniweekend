@@ -3,7 +3,6 @@ title: Parking Information
 layout: page-left-navigation
 
 category: aw-2020
-nav: no
 ---
 {: .underline}
 ## {{ page.title }}

@@ -2,19 +2,23 @@
 {% if page.category != '' %}
 <div id="page-menu">
   <ul class="vertical menu">
-    {% for alumniweekend in site.alumniweekend %}
-      <li>
+    <li>
+      {% for alumniweekend in site.alumniweekend %}
         {% if alumniweekend.category == alumniweekendnav and alumniweekend.order <= 1 %}
           <a class="section-title" href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">Home</a>
         {% endif %}
-        {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
-        <ul class="menu vertical nested">
-          <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">{{ alumniweekend.title }}</a></li>
-        </ul>
-        {% endif %}
-      </li>
-    {% endfor %}
-    <li><a class="section-title" href="#" aria-label="Register Now">Register Now</a></li>
+      {% endfor %}
+      {% if alumniweekend.order != 1 %}
+      <ul class="menu vertical nested">
+        {% for alumniweekend in site.alumniweekend %}
+          {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
+            <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">{{ alumniweekend.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </li>
+  <li><a class="section-title" href="#" aria-label="Register Now">Register Now</a></li>
   </ul>
 </div>
 {% endif %}

@@ -2,10 +2,7 @@
 title: FAQ
 layout: page-left-navigation
 category: aw-2020
-order: 2
-
-nav: yes
-    
+order: 3
 ---
 {: .underline}
 ## {{ page.title }}
