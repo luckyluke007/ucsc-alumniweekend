@@ -34,7 +34,7 @@
               {% assign alumniweekendnav = page.category %}
               {% if page.category != '' %}
                 {% for alumniweekend in site.alumniweekend %}
-                  {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 1 %}
+                  {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
                     <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
                   {% endif %}
                 {% endfor %}
