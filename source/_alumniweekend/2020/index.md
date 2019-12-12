@@ -14,5 +14,7 @@ billboard:
   year: 2020
   register-url: "#"
 
+nav: yes
+
 redirect_to: '/'
 ---
