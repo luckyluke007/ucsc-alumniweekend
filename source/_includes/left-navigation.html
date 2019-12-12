@@ -5,7 +5,7 @@
     {% for alumniweekend in site.alumniweekend %}
       <li>
         {% if alumniweekend.category == alumniweekendnav and alumniweekend.order <= 1 %}
-          <a class="section-title" href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">{{ alumniweekend.title }}</a>
+          <a class="section-title" href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">Home</a>
         {% endif %}
         {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
         <ul class="menu vertical nested">
