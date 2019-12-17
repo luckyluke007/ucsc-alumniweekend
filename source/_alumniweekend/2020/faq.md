@@ -7,6 +7,8 @@ order: 3
 {: .underline}
 ## {{ page.title }}
 
+### Hotel Paradox
+![](/assets/images/2020/faq.jpg){:class="img-right-50"}
 ### General questions 
 
 **Q: Will there be a centralized registration?**
