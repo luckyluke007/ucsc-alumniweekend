@@ -1,6 +1,6 @@
 ---
 title: Directions to Campus
-layout: page-left-navigation
+layout: page
 
 category: aw-2020
 ---

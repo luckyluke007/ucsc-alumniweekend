@@ -1,6 +1,6 @@
 ---
 title: FAQ
-layout: page-left-navigation
+layout: page
 category: aw-2020
 order: 3
 ---
