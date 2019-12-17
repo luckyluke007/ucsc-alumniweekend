@@ -8,7 +8,7 @@ order: 3
 ## {{ page.title }}
 
 ### Hotel Paradox
-![](/assets/images/2020/faq.jpg){:class="img-right-50"}
+![Alumni and researchers conversed at an event](/assets/images/2020/faq.jpg){:class="img-right-50"}
 ### General questions 
 
 **Q: Will there be a centralized registration?**
