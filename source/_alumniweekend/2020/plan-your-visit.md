@@ -1,6 +1,6 @@
 ---
 title: Plan Your Visit
-layout: page-left-navigation
+layout: page
 category: aw-2020
 order: 5
 

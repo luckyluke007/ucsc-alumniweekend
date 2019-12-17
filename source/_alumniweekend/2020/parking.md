@@ -1,6 +1,6 @@
 ---
 title: Parking Information
-layout: page-left-navigation
+layout: page
 
 category: aw-2020
 ---

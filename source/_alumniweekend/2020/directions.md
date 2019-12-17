@@ -1,12 +1,14 @@
 ---
 title: Directions to Campus
-layout: page-left-navigation
+layout: page
 
 category: aw-2020
 ---
 {: .underline}
 ## {{ page.title }}
 
+### Hotel Paradox
+![Sign map at Alumni Weekend](/assets/images/2020/directions.jpg){:class="img-right-50"}
 **From Southern and Central California:**
 Take Route 101 north to Route 156 west to Route 1 north. Then follow Route 1 north to Santa Cruz.
 
