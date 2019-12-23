@@ -15,6 +15,4 @@ billboard:
   register-url: "#"
 
 nav: yes
-
-redirect_to: '/'
 ---

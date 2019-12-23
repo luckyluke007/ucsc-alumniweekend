@@ -115,7 +115,6 @@ DEPENDENCIES
   jekyll (~> 3.8)
   jekyll-assets (~> 3.0)
   jekyll-feed (~> 0.6)
-  jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
   mini_magick
