@@ -1,6 +1,6 @@
 ---
-title: Events List
-layout: page-left-navigation
+title: Events Listing
+layout: page
 category: aw-2020
 order: 2
 ---
