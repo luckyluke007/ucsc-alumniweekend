@@ -1,8 +1,0 @@
-<ifModule mod_headers.c>
-    Header set Connection keep-alive
-</ifModule>
-
-RewriteEngine on
-
-Redirect 301 /alumniweekend/2020/events https://events.ucsc.edu
-Redirect 301 /alumniweekend/2020/ /
