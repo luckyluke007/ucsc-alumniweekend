@@ -14,7 +14,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-assets
-  - jekyll-redirect-from
 
 # Structure configuration
 source: ./source
@@ -31,7 +30,7 @@ markdown: kramdown
 kramdown:
   auto_ids: false
 
-include: ['_pages']
+include: ['_pages','.htaccess']
 
 defaults:
   - scope:
