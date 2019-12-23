@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/alumniweekend/2020/events"
+  to = "https://events.ucsc.edu"
+  status = 301
