@@ -1,5 +1,6 @@
 ---
 title: FAQ
+description: 'You have questions about Alumni Weekend 2020. We have all the answer'
 layout: page
 category: aw-2020
 order: 3
@@ -7,7 +8,6 @@ order: 3
 {: .underline}
 ## {{ page.title }}
 
-### Hotel Paradox
 ![Alumni and researchers conversed at an event](/assets/images/2020/faq.jpg){:class="img-right-50"}
 ### General questions 
 
