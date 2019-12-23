@@ -1,5 +1,6 @@
 ---
 title: Volunteer
+description: 'Join us for Alumni Weekend 2018! Friday, April 27–Sunday, April 29. With so many fun events happening, we don’t want any Slugs to miss out!'
 layout: page
 category: aw-2020
 nav: yes

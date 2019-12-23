@@ -1,5 +1,6 @@
 ---
 title: Places to Stay
+description: 'Lodgin deals and discounts for Alumni Weekend 2020'
 layout: page
 
 category: aw-2020
