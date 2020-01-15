@@ -33,7 +33,7 @@ Guests can also make their reservations on-line by using the following instructi
 **Corporate ID number:** 9885701
 **Code:** L3
 
-**Phone Reservation:** (800) 774-1500 or [book online](https://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html) (Please give the representative the corporate ID number and code above for the UC Santa Cruz discounted room rate)
+**Phone Reservation:** (800) 774-1500 (Please give the representative the corporate ID number and code above for the UC Santa Cruz discounted room rate)
 
 
 ---
@@ -59,7 +59,7 @@ A Santa Cruz favorite for surfing, sunsets and the freshest seafood, the Dream I
 **Rate:** $269 - $319 mention the **UCSC Group rate**.
 *Due to spring break, the Dream Inn sells out quickly. All dates are subject to availability.
 
-**Phone Reservation:** (844) 291-9681 or [book online](https://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html)
+**Phone Reservation:** (844) 593-0142
 
 ---
 
