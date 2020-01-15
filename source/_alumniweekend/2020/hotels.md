@@ -15,9 +15,9 @@ category: aw-2020
 
 Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz.
 
-**Phone Reservation:** (831) 425-7200 or [book online](https://www.marriott.com/event-reservations/reservation-link.mi?id=1548978791300&key=GRP&app=resvlink)
+**Rate:** $203 and ask for the UCSC Alumni Weekend room block 2020. **All reservation must be made by February 21, 2020**
 
-**Rate:** $169 UCSC Alumni Weekend room block rate. Room blocks expire 3/30/19
+**Phone Reservation:** (844) 236-8186 or [book online](https://www.marriott.com/events/start.mi?id=1579052459854&key=GRP)
 
 ---
 
@@ -30,9 +30,11 @@ Just 10 minutes from downtown Santa Cruz, with a full range of amenties. Special
 
 Guests can also make their reservations on-line by using the following instructions:
 
-**Phone Reservation:** (831) 440-1000 or [book online](https://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html)
+**Corporate ID number:** 9885701
+**Code:** L3
 
-**Rate:** $209 mention the UC Santa Cruz **ALUMNI**. Room blocks expire 4/1/19
+**Phone Reservation:** (800) 774-1500 or [book online](https://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html) (Please give the representative the corporate ID number and code above for the UC Santa Cruz discounted room rate)
+
 
 ---
 
@@ -54,9 +56,10 @@ Overlooking the Monterey Bay, this informal, contemporary hotel is a 10-minute w
 
 A Santa Cruz favorite for surfing, sunsets and the freshest seafood, the Dream Inn is a beloved local landmark on the historic Beach Boardwalk. Effortlessly captivating longtime guests with its colorful retro-chic style while delighting newcomers who appreciate modern services and amenities.
 
-**Phone Reservation:** (844) 291-9681 or [book online](https://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html)
+**Rate:** $269 - $319 mention the **UCSC Group rate**.
+*Due to spring break, the Dream Inn sells out quickly. All dates are subject to availability.
 
-**Rate:** $269 mention the **UCSC individual rate**.
+**Phone Reservation:** (844) 291-9681 or [book online](https://www3.hilton.com/en/hotels/california/hilton-santa-cruz-scotts-valley-SJCSVHF/index.html)
 
 ---
 
