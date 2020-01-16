@@ -4,6 +4,7 @@ description: 'Join us for Alumni Weekend 2018! Friday, April 27–Sunday, April 
 layout: page
 category: aw-2020
 nav: yes
+published: false
 ---
 {: .underline}
 ## {{ page.title }}
