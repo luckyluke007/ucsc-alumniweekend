@@ -31,6 +31,7 @@ Just 10 minutes from downtown Santa Cruz, with a full range of amenties. Special
 Guests can also make their reservations on-line by using the following instructions:
 
 **Corporate ID number:** 9885701
+
 **Code:** L3
 
 **Phone Reservation:** (800) 774-1500 (Please give the representative the corporate ID number and code above for the UC Santa Cruz discounted room rate)
