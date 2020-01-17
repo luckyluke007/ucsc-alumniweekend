@@ -13,11 +13,15 @@ order: 3
 
 **Q: Will there be a centralized registration?**
 
-A: Yes! This year we’re hosting central registration in Quarry Plaza all day on Saturday, April 27. Starting at 9 a.m. we’ll have registration packets with your weekend’s itinerary, maps, information tables, music, snacks, and easy access to all our great events. Right outside the Bay Tree Bookstore (which is offering a 20 percent discount for alumni all weekend), we’ll be running extra shuttles for ease of access all day until we wrap up around 3 p.m. to get ready for the wine and craft beer reception in the Quarry Amphitheatre at 4 p.m.
+A: No, there will be no centralized registration. We will have an info booth and various campus partners tabling in Quarry Plaza from 10am-2pm on Saturday, April 4. 
 
-**Q: Do I need a paper ticket?**
+**Q: Do I need a ticket?**
 
-A: No, your name will be on a guest list for each event you have pre-registered to attend. You should also have everything you need in either the registration packet that was mailed to you or that you have picked up at central registration.
+A: No, your name will be on a guest list for each event you have pre-registered to attend.
+
+**Q: Will the Bay Tree Bookstore be open on Saturday?**
+
+A: Yes! The bookstore will be open between 10am-3pm, and is offering a 20 percent discount for alumni all weekend!
 
 **Q: Will there be photos after the event?**
 
@@ -33,7 +37,7 @@ A: An interactive campus map and printable maps can be found here. You can also 
 
 **Q: What is the parking situation?**
 
-A: Please see our Parking Information page. Parking is complimentary in most lots across campus all day on Saturday, April 27. 
+A: [Please see our Parking Information page](/alumniweekend/2020/parking). Parking is complimentary only in select lots on campus during the weekend on Saturday and Sunday. 
 
 **Q: Why are some locations listed as TBD (to be determined)?**
 
@@ -47,25 +51,13 @@ A: Please contact the Special Events Office directly to make arrangements for sp
 
 ### Lunch and beer and wine reception
 
-**Q: What is the lunch seating format? Is it assigned? Will I be able to sit with my friends/family?**
+**Q: What are the lunch options?**
 
-A: This year we’re offering an artisanal carry-out lunch. Come by central registration and pick up your pre-paid artisanal carry-out lunch and grab a table in Quarry Plaza or head to your favorite spot on campus for lunch in the sun. There are also a ton of fun and interesting events over the lunch hour, and you are welcome to grab your lunch and go. Lunch can be purchased individually or as a group/family. See our registration page for details.
-
-**Q: Will there be a vegetarian option for lunch?**
-
-A: Yes. And vegan and gluten-free too!
-
-**Q: Will there be live music?**
-
-A: Yes, there will be live music throughout the day. During the weekend, several events on campus will provide music to accompany their activities, and we always have amazing local bands for our featured events, as well!
+A: Alumni are welcome to eat at all open dining halls for $8/per person on Saturday. Open dining halls include: Porter Dining Hall, College 9/10 Dining Hall, Cowell Dining Hall Alumni can also grab a lunch special at Cafe Iveta in the Quarry Plaza. 
 
 **Q: Do I need to be 21 to attend the wine reception?**
 
 A: No, but you must be 21 to be served alcohol. Nonalcoholic beverages will also be available. 
-
-**Q: Will we have to walk on the grass at the wine reception?**
-
-A: No, this will be hosted in our newly renovated Quarry Amphitheatre, which has a hard earthen floor.
 
 ---
 

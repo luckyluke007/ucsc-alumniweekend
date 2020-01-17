@@ -8,36 +8,11 @@ category: aw-2020
 {: .underline}
 ## {{ page.title }}
 
-We are happy to offer complimentary parking in most lots across campus on Saturday, April 27, and Sunday, April 28. 
+Parking will be complimentary on Saturday and Sunday in the East Remote Lot, Hahn Lot, and Core West. Regular fees and permitting requirements are in effect in all lots as posted. [Please see the TAPS website for the most up-to-date lot information](https://taps.ucsc.edu/parking/index.html). 
 
-Complimentary parking does not apply to the following: 
+Continuous loop shuttling will be available on Saturday, April 4, 2020 from 10am-7pm.
 
-- University vehicle spaces
-- Outside of marked spaces
-- In commercial vehicle zones
-- At loading docks
-- In spaces specially designated for specific people
-- In medical permit spots without a valid medical permit
-- In “O” permit spaces, or in ADA marked spaces without the proper placard
-- Lots
-    - 103A
-    - 108
-    - 152
-    - 153
-    - 154
-    - 155
-    - 164
-    - 165
-    - 166
-    - 167
-    - 143
-    - 145
-    - 147
+Our very own Slug Taxis will be zipping around campus all day Saturday to get you where you need to be in a jiffy. 
 
-Continuous loop shuttling will be available on Saturday, April 27, from 10 a.m.–9 p.m.
-
-Our very own Slug Taxis will be zipping around campus all day Saturday to get you where you need to be in a jiffy.
-
-Please note: Shuttle service will be unavailable on Sunday.
 
 

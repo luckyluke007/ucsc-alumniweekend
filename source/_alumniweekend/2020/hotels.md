@@ -61,15 +61,3 @@ A Santa Cruz favorite for surfing, sunsets and the freshest seafood, the Dream I
 *Due to spring break, the Dream Inn sells out quickly. All dates are subject to availability.
 
 **Phone Reservation:** (844) 593-0142
-
----
-
-### Mission Inn and Suites
-![Mission Inn and Suites Santa Cruz hotel](/assets/images/hotels/mission-inn.jpg){:class="img-full"}
-
-**2250 Mission St, Santa Cruz, CA 95060**
-
-Located minutes from the beach, municipal wharf, the Santa Cruz Beach Boardwalk, downtown shopping, tennis, golf, running paths, historic home tours, redwood forests, and UC Santa Cruz, the Mission Inn makes it easy to enjoy the best of Santa Cruz and the Monterey Bay.
-
-**Phone Reservation:** (831) 425-5455
-
