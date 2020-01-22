@@ -19,7 +19,7 @@ sponsors:
   
 permalink: '/'
 ---
-
+<!--
 <section class="heading">
     <h2 class="underline">Thank you to our sponsors</h2><br/>
     <h3>Platinum</h3>
@@ -69,5 +69,5 @@ permalink: '/'
   </div>
 </div>
 <p></p>
-
+-->
 
