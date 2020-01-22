@@ -65,4 +65,4 @@ A: No, but you must be 21 to be served alcohol. Nonalcoholic beverages will also
 
 **Q: How does my business become an official Alumni Weekend sponsor?**
 
-A: Thank you for your interest in supporting Alumni Weekend, please visit our sponsorship information page here.
+A: Thank you for your interest in supporting Alumni Weekend, [please visit our sponsorship information page here](/alumniweekend/2020/sponsorship).
