@@ -19,37 +19,19 @@ sponsors:
   
 permalink: '/'
 ---
-
+<!--
 <section class="heading">
     <h2 class="underline">Thank you to our sponsors</h2><br/>
     <h3>Platinum</h3>
 </section>
 
 <div class="grid-container large mt-25">
-  <div class="grid-x grid-margin-x">
-    <div class="cell large-4">
-      <div class="closing-blocks">
-        <a href="https://magazine.ucsc.edu/">
-            <div class="image">
-            <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
-            </div>
-        </a>
-      </div>
-    </div>
+  <div class="grid-x grid-margin-x align-center">
     <div class="cell large-4">
       <div class="closing-blocks">
         <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
           <div class="image">
               <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
-          </div>
-        </a>
-      </div>
-    </div>
-    <div class="cell large-4">
-      <div class="closing-blocks">
-        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
-          <div class="image">
-             <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
           </div>
         </a>
       </div>
@@ -63,34 +45,7 @@ permalink: '/'
 </section>
 
 <div class="grid-container large mt-25">
-  <div class="grid-x grid-margin-x">
-    <div class="cell large-3">
-      <div class="closing-blocks">
-        <a href="https://magazine.ucsc.edu/">
-            <div class="image">
-            <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
-            </div>
-        </a>
-      </div>
-    </div>
-    <div class="cell large-3">
-      <div class="closing-blocks">
-        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
-          <div class="image">
-              <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
-          </div>
-        </a>
-      </div>
-    </div>
-    <div class="cell large-3">
-      <div class="closing-blocks">
-        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
-          <div class="image">
-             <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
-          </div>
-        </a>
-      </div>
-    </div>
+  <div class="grid-x grid-margin-x align-center">
     <div class="cell large-3">
       <div class="closing-blocks">
         <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
@@ -110,12 +65,9 @@ permalink: '/'
 
 <div class="grid-container large mt-25">
   <div class="button-list align-center">
-    <a class="button" href="#" target="_blank"><strong>Company Name</strong></a>
-    <a class="button" href="#" target="_blank"><strong>Company Name 2</strong></a>
-    <a class="button" href="#" target="_blank"><strong>Company Name 3</strong></a>
-    <a class="button" href="javascript:void(0)" target="_blank"><strong>Company Name 4</strong></a>
+    <a href="#" target="_blank"><strong>Company Name 3</strong></a>
   </div>
 </div>
 <p></p>
-
+-->
 
