@@ -13,7 +13,7 @@ Join us as we welcome Margaret Atwood to UC Santa Cruz on April 5, 2020 where sh
 
 Atwood’s other novels include the Giller and Booker Prize-shortlisted *Oryx and Crake*, as well as *Alias Grace*, *The Robber Bride*, *Cat’s Eye*, and Booker winner *The Blind Assassin*. 
 
-We’ll connect Atwood’s talk to the new Deep Read community on campus and off with weeks of digital programming preceding her visit, along with a new course focusing on her work, salons in LA and NYC, and a salon featuring three UC Santa Cruz scholars discussing the novel through the lens of feminist studies, engineering, and anthropology.
+We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deepread/) community on campus and off with weeks of digital programming preceding her visit, along with a new course focusing on her work, salons in LA and NYC, and a salon featuring three UC Santa Cruz scholars discussing the novel through the lens of feminist studies, engineering, and anthropology.
 
 <section class="content-centered">
   <div class="grid-container large">
@@ -24,7 +24,7 @@ We’ll connect Atwood’s talk to the new Deep Read community on campus and off
 ---
 <div class="content-centered">
 <strong>Where</strong><br />
-Quarry Amphitheater, UC Santa Cruz
+[Quarry Amphitheater, UC Santa Cruz](https://map.concept3d.com/?id=882#!m/234920)
 </div>
 ---
 <div class="content-centered">
