@@ -9,16 +9,16 @@ category: aw-2020
 
 ![Margaret Atwood](/atwood/images/atwood-banner.jpg){:class="img-full"}
 
-Join us as we welcome Margaret Atwood to UC Santa Cruz on April 5, 2020 where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of Rad American Women A-Z.
+Join us as we welcome Margaret Atwood to UC Santa Cruz on April 5, 2020 where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of *Rad American Women A-Z*.
 
-Atwood’s other novels include the Giller and Booker Prize-shortlisted Oryx and Crake, as well as Alias Grace, The Robber Bride, Cat’s Eye, and Booker winner The Blind Assassin. 
+Atwood’s other novels include the Giller and Booker Prize-shortlisted *Oryx and Crake*, as well as *Alias Grace*, *The Robber Bride*, *Cat’s Eye*, and Booker winner *The Blind Assassin*. 
 
 We’ll connect Atwood’s talk to the new Deep Read community on campus and off with weeks of digital programming preceding her visit, along with a new course focusing on her work, salons in LA and NYC, and a salon featuring three UC Santa Cruz scholars discussing the novel through the lens of feminist studies, engineering, and anthropology.
 
 <section class="content-centered">
   <div class="grid-container large">
     <p><a class="button primary" href="javascript:void(0)">Buy Tickets</a></p>
-    <p>Admission is $30. Free tickets are available to the first 500 UCSC students to</p>
+    <p>Admission is $30. *Free tickets are available to the first 500 UCSC students to sign up*</p>
   </div>
 </section>
 ---
