@@ -20,6 +20,26 @@ sponsors:
   
 permalink: '/'
 ---
+
+<section class="content-w-media left haltered blue">
+  <div class="grid-container large">
+    <div class="inner">
+      <div class="content">
+          <h2 class="underline"><a href="#">Margaret Atwood at UC Santa Cruz</a></h2>
+          <h5 style="font-weight: 500">Date: April 5, 2020</h5>
+          <p>Join us as we welcome Margaret Atwood to UC Santa Cruz on April 5, 2020 where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of Rad American Women A-Z.</p>
+          <div class="content-foot-links">
+            <a class="btn-link" href="/atwood">Event Info</a>
+            <a class="button primary expanded" href="#">Buy Ticket</a>
+          </div>
+      </div>
+      <div class="media">
+          <img src="atwood/images/atwood-homepage.jpg" alt="Margaret Atwood">
+      </div>
+    </div>
+  </div>
+</section>
+
 <!--
 <section class="heading">
     <h2 class="underline">Thank you to our sponsors</h2><br/>
