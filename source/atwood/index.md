@@ -24,7 +24,7 @@ We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deep
 ---
 <div class="content-centered">
 <strong>Where</strong><br />
-[Quarry Amphitheater, UC Santa Cruz](https://map.concept3d.com/?id=882#!m/234920)
+<a href="https://map.concept3d.com/?id=882#!m/234920">Quarry Amphitheater, UC Santa Cruz</a>
 </div>
 ---
 <div class="content-centered">
