@@ -1,5 +1,5 @@
 ---
-title: Sponsorship Info
+title: Be a sponsor
 description: 'Alumni Weekend presents a great opportunity for businesses to be seen as a partner of the university and its broad alumni population.'
 layout: page
 category: aw-2020
