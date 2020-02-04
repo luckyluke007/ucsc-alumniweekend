@@ -5,6 +5,7 @@ description: UC Santa Cruz Alumni Weekend 2020, April 3-5.
 category: aw-2020
 order: 1
 billboard:
+  subtitle: Reconnect, reignite, remember
   image: /assets/images/billboard/2020/homepage-billboard.jpg
   image-2: /assets/images/billboard/2020/homepage-billboard-v2.jpg
   alt-text: "Friday-Sunday, Alumni Weekend April 3-5, 2020"
