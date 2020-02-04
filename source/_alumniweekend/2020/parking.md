@@ -1,5 +1,5 @@
 ---
-title: Parking Information
+title: Parking information
 description: 'General parking information for Alumni Weekend 2020'
 layout: page
 
