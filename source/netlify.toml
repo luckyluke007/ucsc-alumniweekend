@@ -18,8 +18,6 @@
   to = "/"
   status = 200
 
-# 20 populate pages redirect
-
 [[redirects]]
   from = "/schedule/"
   to = "https://calendar.ucsc.edu/alumni_weekend"
