@@ -1,5 +1,5 @@
 ---
-title: Join the Fun
+title: Join the fun
 description: "Join the fun at Alumni Weekend: Be a volunteer or be a sponsor"
 layout: page
 category: aw-2020
