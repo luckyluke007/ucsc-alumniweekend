@@ -9,6 +9,11 @@
   status = 200
 
 [[redirects]]
+  from = "/alumniweekend/index.html"
+  to = "/"
+  status = 200
+
+[[redirects]]
   from = "/alumniweekend/"
   to = "/"
   status = 200
