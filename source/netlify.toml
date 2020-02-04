@@ -6,14 +6,17 @@
 [[redirects]]
   from = "/alumniweekend/2020/"
   to = "/"
-  status = 200
+  status = 301
+
+[[redirects]]
+  from = "/alumniweekend/2020"
+  to = "/"
+  status = 301
 
 [[redirects]]
   from = "/alumniweekend/"
   to = "/"
   status = 200
-
-# 20 populate pages redirect
 
 [[redirects]]
   from = "/schedule/"
