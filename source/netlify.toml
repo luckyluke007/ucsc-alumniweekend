@@ -6,7 +6,12 @@
 [[redirects]]
   from = "/alumniweekend/2020/"
   to = "/"
-  status = 200
+  status = 301
+
+[[redirects]]
+  from = "/alumniweekend/2020"
+  to = "/"
+  status = 301
 
 [[redirects]]
   from = "/alumniweekend/"
