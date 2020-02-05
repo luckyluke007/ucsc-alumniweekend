@@ -17,7 +17,22 @@ billboard:
   register-url: '#'
 
 sponsors:
-  platinum: '/assets/images/sponsors/iu-v2.jpg'
+  - platinum:
+    - img: '/assets/images/sponsors/iu-v2.jpg'
+      url: '#'
+      alt: 'Test'
+  - gold: 
+    - img: '/assets/images/sponsors/iu-v2.jpg'
+      url: '#'
+      alt: 'Test'
+  - bronze: 
+    - img: '/assets/images/sponsors/iu-v2.jpg'
+      url: '#'
+      alt: 'Test'
+  - inkind:
+    - img: '/assets/images/sponsors/iu-v2.jpg'
+      url: '#'
+      alt: 'Test'
   
 permalink: '/'
 ---
@@ -28,7 +43,7 @@ permalink: '/'
       <div class="content">
           <h2 class="underline"><a href="/atwood">Margaret Atwood at UC Santa Cruz</a></h2>
           <h5 style="font-weight: 500">Date: April 5, 2020</h5>
-          <p>Join us as we welcome award-winning author Margaret Atwood—whose books include The Handmaid's Tale and its brand-new sequel, The Testaments— to campus on Sunday, April 5, for an on-stage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
+          <p>Join us as we welcome award-winning author Margaret Atwood—whose books include *The Handmaid's Tale* and its brand-new sequel, *The Testaments*— to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
           <div class="content-foot-links">
             <a class="btn-link" href="/atwood">Event Info</a>
             <a class="button primary expanded" href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1467">Buy Tickets</a>
@@ -43,23 +58,31 @@ permalink: '/'
 
 <!--
 <section class="heading">
-    <h2 class="underline">Thank you to our sponsors</h2><br/>
+  <h2 class="underline">Thank you to our sponsors</h2>
+</section>
+
+
+{% if page.sponsors.platinum.img != '' %}
+<section class="heading">
     <h3>Platinum</h3>
 </section>
 
 <div class="grid-container large mt-25">
   <div class="grid-x grid-margin-x align-center">
+    {% for platinum in page.sponsors.platinums %}
     <div class="cell large-4">
       <div class="closing-blocks">
-        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
+        <a href="{{ platinum.url }}">
           <div class="image">
-              <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
+              <img src="{{ page.sponsors.platinum.img }}" alt="{{ platinum.alt }}">
           </div>
         </a>
       </div>
     </div>
+    {% endfor %}
   </div>
 </div>
+{% endif %}
 
 
 <section class="heading">
@@ -92,4 +115,3 @@ permalink: '/'
 </div>
 <p></p>
 -->
-
