@@ -16,23 +16,32 @@ billboard:
   year: 2020
   register-url: '#'
 
-sponsors:
-  - platinum:
-    - img: '/assets/images/sponsors/iu-v2.jpg'
-      url: '#'
-      alt: 'Test'
-  - gold: 
-    - img: '/assets/images/sponsors/iu-v2.jpg'
-      url: '#'
-      alt: 'Test'
-  - bronze: 
-    - img: '/assets/images/sponsors/iu-v2.jpg'
-      url: '#'
-      alt: 'Test'
-  - inkind:
-    - img: '/assets/images/sponsors/iu-v2.jpg'
-      url: '#'
-      alt: 'Test'
+
+platinum: 
+gold: 
+  - img: '/assets/images/sponsors/2020/bay-federal-credit-union.gif'
+    url: 'https://www.bayfed.com/'
+    alt: 'Bay Federal Credit Union: Making a real difference'
+bronze: 
+  - img: '/assets/images/sponsors/2020/sc-economic-development.gif'
+    url: 'https://choosesantacruz.com/'
+    alt: 'Santa Cruz Economic Development'
+inkind:
+  - img: '/assets/images/sponsors/2020/sc-sentinel.gif'
+    url: 'https://www.santacruzsentinel.com'
+    alt: 'Santa Cruz Sentinel'
+  - img: '/assets/images/sponsors/2020/sc-coffee-roasting.gif'
+    url: 'https://www.santacruzcoffee.com'
+    alt: 'Santa Cruz Coffee Roasting Company'
+  - img: '/assets/images/sponsors/2020/woodstock.gif'
+    url: 'https://woodstockscruz.com'
+    alt: "Woodstock's Pizza"
+  - img: '/assets/images/sponsors/2020/pacific-cookie-company.gif'
+    url: 'https://www.pacificcookie.com'
+    alt: 'Pacific Cookie Company'
+  - img: '/assets/images/sponsors/2020/lifeaid.gif'
+    url: 'https://www.lifeaidbevco.com'
+    alt: 'LifeAid: The Functional Beverage Company'
   
 permalink: '/'
 ---
@@ -56,62 +65,99 @@ permalink: '/'
   </div>
 </section>
 
-<!--
+
 <section class="heading">
   <h2 class="underline">Thank you to our sponsors</h2>
 </section>
 
-
-{% if page.sponsors.platinum.img != '' %}
+{% if page.platinum != null %}
 <section class="heading">
-    <h3>Platinum</h3>
+    <h3>Platinum Sponsors</h3>
 </section>
-
 <div class="grid-container large mt-25">
   <div class="grid-x grid-margin-x align-center">
-    {% for platinum in page.sponsors.platinums %}
-    <div class="cell large-4">
-      <div class="closing-blocks">
-        <a href="{{ platinum.url }}">
-          <div class="image">
-              <img src="{{ page.sponsors.platinum.img }}" alt="{{ platinum.alt }}">
-          </div>
-        </a>
+    {% for platinum in page.platinum %}
+      <div class="cell large-5">
+        <div class="closing-blocks">
+          <a href="{{ platinum.url }}">
+            <div class="image">
+              <img src="{{ platinum.img }}" alt="{{ platinum.alt }}">
+            </div>
+          </a>
+        </div>
       </div>
-    </div>
     {% endfor %}
   </div>
 </div>
 {% endif %}
 
 
+{% if page.gold != null %}
 <section class="heading">
-    <h3>Gold</h3>
+    <h3>Gold Sponsor</h3>
 </section>
 
 <div class="grid-container large mt-25">
   <div class="grid-x grid-margin-x align-center">
-    <div class="cell large-3">
-      <div class="closing-blocks">
-        <a href="https://soundcloud.com/ucsantacruz/sets/storycruz">
-          <div class="image">
-             <img src="/assets/images/sponsors/iu-v2.jpg" alt="Alumni Association">
-          </div>
-        </a>
+    {% for gold in page.gold %}
+      <div class="cell large-4">
+        <div class="closing-blocks">
+          <a href="{{ gold.url }}">
+            <div class="image">
+              <img src="{{ gold.img }}" alt="{{ gold.alt }}">
+            </div>
+          </a>
+        </div>
       </div>
-    </div>
+    {% endfor %}
   </div>
 </div>
+{% endif %}
 
-
+{% if page.bronze != null %}
 <section class="heading">
-    <h3>Bronze</h3>
+    <h3>Bronze Sponsor</h3>
 </section>
 
 <div class="grid-container large mt-25">
-  <div class="button-list align-center">
-    <a href="#" target="_blank"><strong>Company Name 3</strong></a>
+  <div class="grid-x grid-margin-x align-center">
+   {% for bronze in page.bronze %}
+      <div class="cell large-3">
+        <div class="closing-blocks">
+          <a href="{{ bronze.url }}">
+            <div class="image">
+              <img src="{{ bronze.img }}" alt="{{ bronze.alt }}">
+            </div>
+          </a>
+        </div>
+      </div>
+    {% endfor %}
   </div>
 </div>
 <p></p>
--->
+{% endif %}
+
+
+{% if page.inkind != null %}
+<section class="heading">
+    <h3>Inkind Sponsors</h3>
+</section>
+
+<div class="grid-container large mt-25">
+  <div class="grid-x grid-margin-x align-center">
+    {% for inkind in page.inkind %}
+      <div class="cell large-2">
+        <div class="closing-blocks">
+          <a href="{{ inkind.url }}">
+            <div class="image">
+              <img src="{{ inkind.img }}" alt="{{ inkind.alt }}">
+            </div>
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+<p></p>
+{% endif %}
+
