@@ -140,7 +140,7 @@ permalink: '/'
 
 {% if page.inkind != null %}
 <section class="heading">
-    <h3>Inkind Sponsors</h3>
+    <h3>In-kind Sponsors</h3>
 </section>
 
 <div class="grid-container large mt-25">
