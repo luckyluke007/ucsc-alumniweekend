@@ -15,34 +15,6 @@ billboard:
   date: 3–5
   year: 2020
   register-url: '#'
-
-
-platinum: 
-gold: 
-  - img: '/assets/images/sponsors/2020/bay-federal-credit-union.gif'
-    url: 'https://www.bayfed.com/'
-    alt: 'Bay Federal Credit Union: Making a real difference'
-bronze: 
-  - img: '/assets/images/sponsors/2020/sc-economic-development.gif'
-    url: 'https://choosesantacruz.com/'
-    alt: 'Santa Cruz Economic Development'
-inkind:
-  - img: '/assets/images/sponsors/2020/sc-sentinel.gif'
-    url: 'https://www.santacruzsentinel.com'
-    alt: 'Santa Cruz Sentinel'
-  - img: '/assets/images/sponsors/2020/sc-coffee-roasting.gif'
-    url: 'https://www.santacruzcoffee.com'
-    alt: 'Santa Cruz Coffee Roasting Company'
-  - img: '/assets/images/sponsors/2020/woodstock.gif'
-    url: 'https://woodstockscruz.com'
-    alt: "Woodstock's Pizza"
-  - img: '/assets/images/sponsors/2020/pacific-cookie-company.gif'
-    url: 'https://www.pacificcookie.com'
-    alt: 'Pacific Cookie Company'
-  - img: '/assets/images/sponsors/2020/lifeaid.gif'
-    url: 'https://www.lifeaidbevco.com'
-    alt: 'LifeAid: The Functional Beverage Company'
-  
 permalink: '/'
 ---
 
@@ -70,13 +42,13 @@ permalink: '/'
   <h2 class="underline">Thank you to our sponsors</h2>
 </section>
 
-{% if page.platinum != null %}
+{% if site.data.sponsors-2020.platinum != null %}
 <section class="heading">
     <h3>Platinum Sponsors</h3>
 </section>
 <div class="grid-container large mt-25">
   <div class="grid-x grid-margin-x align-center">
-    {% for platinum in page.platinum %}
+    {% for platinum in site.data.sponsors-2020.platinum %}
       <div class="cell large-5">
         <div class="closing-blocks">
           <a href="{{ platinum.url }}">
@@ -92,14 +64,14 @@ permalink: '/'
 {% endif %}
 
 
-{% if page.gold != null %}
+{% if site.data.sponsors-2020.gold != null %}
 <section class="heading">
     <h3>Gold Sponsor</h3>
 </section>
 
 <div class="grid-container large mt-25">
   <div class="grid-x grid-margin-x align-center">
-    {% for gold in page.gold %}
+    {% for gold in site.data.sponsors-2020.gold %}
       <div class="cell large-4">
         <div class="closing-blocks">
           <a href="{{ gold.url }}">
@@ -114,14 +86,14 @@ permalink: '/'
 </div>
 {% endif %}
 
-{% if page.bronze != null %}
+{% if site.data.sponsors-2020.bronze != null %}
 <section class="heading">
     <h3>Bronze Sponsor</h3>
 </section>
 
 <div class="grid-container large mt-25">
   <div class="grid-x grid-margin-x align-center">
-   {% for bronze in page.bronze %}
+   {% for bronze in site.data.sponsors-2020.bronze %}
       <div class="cell large-3">
         <div class="closing-blocks">
           <a href="{{ bronze.url }}">
@@ -138,14 +110,14 @@ permalink: '/'
 {% endif %}
 
 
-{% if page.inkind != null %}
+{% if site.data.sponsors-2020.inkind != null %}
 <section class="heading">
     <h3>In-kind Sponsors</h3>
 </section>
 
 <div class="grid-container large mt-25">
   <div class="grid-x grid-margin-x align-center">
-    {% for inkind in page.inkind %}
+    {% for inkind in site.data.sponsors-2020.inkind %}
       <div class="cell large-2">
         <div class="closing-blocks">
           <a href="{{ inkind.url }}">

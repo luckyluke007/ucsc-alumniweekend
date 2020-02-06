@@ -1,0 +1,25 @@
+platinum:
+gold:
+  - img: '/assets/images/sponsors/2020/bay-federal-credit-union.gif'
+    url: 'https://www.bayfed.com/'
+    alt: 'Bay Federal Credit Union: Making a real difference'
+bronze:
+  - img: '/assets/images/sponsors/2020/sc-economic-development.gif'
+    url: 'https://choosesantacruz.com/'
+    alt: 'Santa Cruz Economic Development'
+inkind:
+  - img: '/assets/images/sponsors/2020/sc-sentinel.gif'
+    url: 'https://www.santacruzsentinel.com'
+    alt: 'Santa Cruz Sentinel'
+  - img: '/assets/images/sponsors/2020/sc-coffee-roasting.gif'
+    url: 'https://www.santacruzcoffee.com'
+    alt: 'Santa Cruz Coffee Roasting Company'
+  - img: '/assets/images/sponsors/2020/woodstock.gif'
+    url: 'https://woodstockscruz.com'
+    alt: "Woodstock's Pizza"
+  - img: '/assets/images/sponsors/2020/pacific-cookie-company.gif'
+    url: 'https://www.pacificcookie.com'
+    alt: 'Pacific Cookie Company'
+  - img: '/assets/images/sponsors/2020/lifeaid.gif'
+    url: 'https://www.lifeaidbevco.com'
+    alt: 'LifeAid: The Functional Beverage Company'
