@@ -21,7 +21,7 @@ A: No, your name will be on a guest list for each event you have pre-registered 
 
 **Q: Will the Bay Tree Bookstore be open?**
 
-A: Yes! The bookstore will be open Saturday between 10 a.m. – 3 p.m., and Sunday 1 – 5:30 p.m. and is offering a 20% discount for alumni all weekend!
+A: Yes! The bookstore will be open Saturday between 10 a.m. – 4 p.m., and Sunday 2 – 5:30 p.m. and is offering a 20% discount for alumni all weekend!
 
 **Q: Will there be photos after the event?**
 
