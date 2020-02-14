@@ -32,3 +32,12 @@ inkind:
   - img: '/assets/images/sponsors/2020/artisans-agency.gif'
     url: 'https://www.artisanssantacruz.com'
     alt: 'Artisans Agency'
+  - img: '/assets/images/sponsors/2020/mission-hill.gif'
+    url: 'https://www.missionhillcreamery.com/'
+    alt: 'Mission Hill Creamery'
+  - img: '/assets/images/sponsors/2020/dna-lab.gif'
+    url: 'http://dnascomedylab.com/'
+    alt: "DNA's Comedy Lab"
+  - img: '/assets/images/sponsors/2020/cruzio.gif'
+    url: 'https://cruzio.com/'
+    alt: 'Cruzio Internet'
