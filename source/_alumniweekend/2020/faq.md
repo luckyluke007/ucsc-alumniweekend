@@ -49,7 +49,7 @@ A: Please contact the Special Events Office directly to make arrangements for sp
 
 **Q: What are the lunch options?**
 
-A: Alumni are welcome to eat at all open dining halls for $8 per person on Saturday. Open dining halls include Porter Dining Hall, College Nine/Ten Dining Hall, and Cowell Dining Hall. Alumni can also grab a lunch special at Cafe Iveta in Quarry Plaza. 
+A: Alumni are welcome to eat at all open dining halls for $8.75 per person on Saturday. Open dining halls include Porter Dining Hall, College Nine/Ten Dining Hall, and Cowell Dining Hall. Alumni can also grab a lunch special at Cafe Iveta in Quarry Plaza. 
 
 **Q: Do I need to be 21 to attend the wine reception?**
 
