@@ -14,7 +14,7 @@ published: true
 After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020. All of your friends here at UC Santa Cruz will miss seeing you at Alumni Weekend 2020. Watch this space for new dates!
 
 Information regarding registration refunds will be emailed to ticket holders. 
-Some individual events planned for April 3–-5 may still take place;, others may be livestreamed. Visit [calendar.ucsc.edu](https://calendar.ucsc.edu/) for updates.
+Some individual events planned for April 3–5 may still take place; others may be livestreamed. Visit [calendar.ucsc.edu](https://calendar.ucsc.edu/) for updates.
 
 Our priority is the health and safety of our alumni, guests, students, and staff. We appreciate your patience and understanding as we respond to these developments. 
 
