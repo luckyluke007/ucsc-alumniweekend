@@ -1,38 +1,44 @@
 ---
-title: Be a sponsor
-description: 'Alumni Weekend presents a great opportunity for businesses to be seen as a partner of the university and its broad alumni population.'
-layout: page
+layout: front-page
+title: Alumni Weekend
+description: UC Santa Cruz Alumni Weekend 2020, April 3-5.
 category: aw-2020
-order: 4
-nav: yes
+order: 1
+billboard:
+  subtitle: Reconnect, reignite, remember
+  image: /assets/images/billboard/2020/homepage-billboard.jpg
+  image-2: /assets/images/billboard/2020/homepage-billboard-v2.jpg
+  alt-text: "Friday-Sunday, Alumni Weekend April 3-5, 2020"
+  hero-title: Alumni Weekend
+  day: Friday–Sunday
+  month: April
+  date: 3–5
+  year: 2020
+  register-url: '#'
+permalink: '/'
 
 published: false
 ---
 
-## How to be an Alumni Weekend sponsor
+<section class="content-w-media left haltered blue">
+  <div class="grid-container large">
+    <div class="inner">
+      <div class="content">
+          <h2 class="underline"><a href="/atwood">Margaret Atwood at UC Santa Cruz</a></h2>
+          <h5 style="font-weight: 500">Date: April 5, 2020</h5>
+          <p>Join us as we welcome award-winning author Margaret Atwood—whose books include <em>The Handmaid's Tale</em> and its brand-new sequel, <em>The Testaments</em>— to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
+          <div class="content-foot-links">
+            <a class="btn-link" href="/atwood">Event Info</a>
+            <a class="button primary expanded" href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1467">Buy Tickets</a>
+          </div>
+      </div>
+      <div class="media">
+          <img src="atwood/images/atwood-homepage.jpg" alt="Margaret Atwood">
+      </div>
+    </div>
+  </div>
+</section>
 
-**[Register to be a sponsor](https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=3959&cid=7946)**
-
-
-### Why get involved?
-
-Alumni Weekend presents a great opportunity for businesses to be seen as a partner of the university and its broad alumni population. With more than 1,000 attendees and 60-plus events throughout the three-day celebration, Alumni Weekend is a perfect time to be part of the occasion with the campus and the community. 
-
-### Marketing benefits
-
-Alumni Weekend successfully draws alumni back to campus through marketing promotion and cobranding opportunities in print, radio, mailing, and email (which reaches our 110,000-plus alumni base). Many of our past alumni attendees have stated in surveys that their preferred way to engage with the campus is through Alumni Weekend. 
-
-### Join us!
-
-In short, Alumni Weekend continues to be a key moment to celebrate our alumni. It is the one time of year the Banana Slug family and the community come together to enjoy a unique, festive, and stimulating experience. With increasing attendance, continued support, and wonderful collaboration between the campus and Santa Cruz communities, we invite you to be our partner and celebrate with us all weekend long!
-
-
-Contact:
-
-**Alexandra Sibille**<br/>
-Assistant director of business development<br/>
-**Email:** [asibille@ucsc.edu](mailto:asibille@ucsc.edu)<br/>
-**Phone:** (831) 332-6620<br/>
 
 <section class="heading">
   <h2 class="underline">Thank you to our sponsors</h2>
@@ -128,3 +134,4 @@ Assistant director of business development<br/>
 </div>
 <p></p>
 {% endif %}
+

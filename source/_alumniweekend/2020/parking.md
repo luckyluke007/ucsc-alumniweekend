@@ -4,6 +4,8 @@ description: 'General parking information for Alumni Weekend 2020'
 layout: page
 
 category: aw-2020
+
+published: false
 ---
 {: .underline}
 ## {{ page.title }}

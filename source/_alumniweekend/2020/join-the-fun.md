@@ -13,6 +13,7 @@ plan:
     description: Alumni Weekend presents a great opportunity for businesses to be seen as a partner of the university and its broad alumni population.
     image: /assets/images/2020/signatures.jpg
     link: /alumniweekend/2020/parking.html
+
 published: false
 ---
 {: .underline}
