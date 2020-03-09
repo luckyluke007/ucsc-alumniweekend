@@ -1,22 +1,24 @@
 ---
-layout: front-page
-title: Alumni Weekend
-description: UC Santa Cruz Alumni Weekend 2020, April 3-5.
+title: Alumni Weekend 2020 is postponed
+description: 'Important message: After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020. All of your friends here at UC Santa Cruz will miss seeing you at Alumni Weekend 2020. Watch this space for new dates!'
+layout: page
+
 category: aw-2020
-order: 1
-billboard:
-  subtitle: Reconnect, reignite, remember
-  image: /assets/images/billboard/2020/homepage-billboard.jpg
-  image-2: /assets/images/billboard/2020/homepage-billboard-v2.jpg
-  alt-text: "Friday-Sunday, Alumni Weekend April 3-5, 2020"
-  hero-title: Alumni Weekend
-  day: Friday–Sunday
-  month: April
-  date: 3–5
-  year: 2020
-  register-url: '#'
 permalink: '/'
+
+published: true
 ---
+{: .underline}
+## {{ page.title }}
+
+After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020. All of your friends here at UC Santa Cruz will miss seeing you at Alumni Weekend 2020. Watch this space for new dates!
+
+Information regarding registration refunds will be emailed to ticket holders. 
+Some individual events planned for April 3–-5 may still take place;, others may be livestreamed. Visit [calendar.ucsc.edu](https://calendar.ucsc.edu/) for updates.
+
+Our priority is the health and safety of our alumni, guests, students, and staff. We appreciate your patience and understanding as we respond to these developments. 
+
+Fiat Slug!
 
 <section class="content-w-media left haltered blue">
   <div class="grid-container large">
@@ -36,7 +38,6 @@ permalink: '/'
     </div>
   </div>
 </section>
-
 
 <section class="heading">
   <h2 class="underline">Thank you to our sponsors</h2>
@@ -132,4 +133,3 @@ permalink: '/'
 </div>
 <p></p>
 {% endif %}
-

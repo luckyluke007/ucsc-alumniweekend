@@ -4,6 +4,8 @@ description: 'You have questions about Alumni Weekend 2020. We have all the answ
 layout: page
 category: aw-2020
 order: 3
+
+published: false
 ---
 {: .underline}
 ## {{ page.title }}

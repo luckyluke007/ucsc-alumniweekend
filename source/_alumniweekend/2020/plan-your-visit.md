@@ -24,6 +24,8 @@ plan:
     link: /alumniweekend/2020/directions
 
 nav: yes
+
+published: false
     
 ---
 {: .underline}
