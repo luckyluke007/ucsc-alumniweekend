@@ -11,7 +11,7 @@ published: true
 {: .underline}
 ## {{ page.title }}
 
-After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020. All of your friends here at UC Santa Cruz will miss seeing you at Alumni Weekend 2020. Watch this space for new dates!
+After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020 to a future date. All of your friends here at UC Santa Cruz will miss seeing you this spring, but watch this space for new dates!
 
 Information regarding registration refunds will be emailed to ticket holders. 
 Some individual events planned for April 3–5 may still take place; others may be livestreamed. Visit [calendar.ucsc.edu](https://calendar.ucsc.edu/) for updates.
@@ -24,9 +24,10 @@ Fiat Slug!
   <div class="grid-container large">
     <div class="inner">
       <div class="content">
+          <p><strong>This event is still scheduled to go on</strong></p>
           <h2 class="underline"><a href="/atwood">Margaret Atwood at UC Santa Cruz</a></h2>
           <h5 style="font-weight: 500">Date: April 5, 2020</h5>
-          <p>Join us as we welcome award-winning author Margaret Atwood—whose books include <em>The Handmaid's Tale</em> and its brand-new sequel, <em>The Testaments</em>— to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
+          <p>Join us as we welcome award-winning author Margaret Atwood—whose books include <em>The Handmaid's Tale</em> and its brand-new sequel, <em>The Testaments</em>—to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
           <div class="content-foot-links">
             <a class="btn-link" href="/atwood">Event Info</a>
             <a class="button primary expanded" href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1467">Buy Tickets</a>

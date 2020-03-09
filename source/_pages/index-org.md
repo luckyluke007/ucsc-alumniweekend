@@ -15,7 +15,6 @@ billboard:
   date: 3–5
   year: 2020
   register-url: '#'
-permalink: '/'
 
 published: false
 ---
@@ -26,7 +25,7 @@ published: false
       <div class="content">
           <h2 class="underline"><a href="/atwood">Margaret Atwood at UC Santa Cruz</a></h2>
           <h5 style="font-weight: 500">Date: April 5, 2020</h5>
-          <p>Join us as we welcome award-winning author Margaret Atwood—whose books include <em>The Handmaid's Tale</em> and its brand-new sequel, <em>The Testaments</em>— to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
+          <p>Join us as we welcome award-winning author Margaret Atwood—whose books include <em>The Handmaid's Tale</em> and its brand-new sequel, <em>The Testaments</em>—to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
           <div class="content-foot-links">
             <a class="btn-link" href="/atwood">Event Info</a>
             <a class="button primary expanded" href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1467">Buy Tickets</a>
