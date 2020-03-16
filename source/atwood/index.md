@@ -30,7 +30,7 @@ We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deep
 <div class="content-centered">
 <strong>When</strong><br/>
 <p>TBD<br/>
-<em class="small">Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
+<em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
 The Peggy Downes Baskin Ethics Lecture & Alumni Weekend Keynote<br/>
 Gates open at 3:30pm
 </div>
