@@ -2,98 +2,118 @@
   from = "/alumniweekend/2020/events"
   to = "https://calendar.ucsc.edu/alumni_weekend"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/alumniweekend/2020/"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/alumniweekend/2020"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/alumniweekend/"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/schedule/"
   to = "https://calendar.ucsc.edu/alumni_weekend"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/parking-information-2019/"
   to = "/alumniweekend/2020/parking"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/plan-your-visit-2019/"
   to = "/alumniweekend/2020/plan-your-visit"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/faq-2019/"
   to = "/alumniweekend/2020/faq"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/join-the-fun/"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/places-to-stay-2019/"
   to = "/alumniweekend/2020/hotels"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/sponsorship-information-2019/"
   to = "/alumniweekend/2020/sponsorship"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/sessions/campus-5k-fun-run/"
   to = "https://calendar.ucsc.edu/event/fourth_annual_fun_run#.XjSn4y2ZPUI"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/alumniweekend.ucsc.edu"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/plan-your-visit/aw-special-deals/"
   to = "/alumniweekend/2020/plan-your-visit"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/plan-your-visit/aw-special-deals/"
   to = "/alumniweekend/2020/plan-your-visit"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/sessions/crown-steam-reception/"
   to = "https://calendar.ucsc.edu/event/annual_all_crownie_celebration_dinner#.XjSq1i2ZPUI"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/volunteer-2019/"
   to = "/"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/directions-to-campus-2019/"
   to = "/alumniweekend/2020/directions"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/other-events-around-town/"
   to = "https://events.ucsc.edu"
   status = 301
+  force = true
 
 [[redirects]]
   from = "/schedule/alumniweekend.ucsc.edu"
   to = "https://calendar.ucsc.edu/alumni_weekend"
   status = 301
+  force = true
