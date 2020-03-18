@@ -15,6 +15,14 @@ Atwood’s other novels include the Giller and Booker Prize-shortlisted *Oryx an
 
 We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deepread/) community on campus and off with weeks of digital programming preceding her visit, along with a new course focusing on her work, salons in LA and NYC, and a salon featuring three UC Santa Cruz scholars discussing the novel through the lens of feminist studies, engineering, and anthropology.
 
+<div class="content-centered">
+<strong>When</strong><br/>
+<p>TBD<br/>
+<em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
+The Peggy Downes Baskin Ethics Lecture & Alumni Weekend Keynote<br/>
+Gates open at 3:30pm
+</div>
+---
 <section class="content-centered">
   <div class="grid-container large">
     <p>Admission is $30. *Free tickets are available to the first 500 UCSC students to sign up*</p>
