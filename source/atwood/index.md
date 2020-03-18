@@ -19,27 +19,6 @@ We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deep
 <strong>When</strong><br/>
 <p>TBD<br/>
 <em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
-The Peggy Downes Baskin Ethics Lecture & Alumni Weekend Keynote<br/>
-Gates open at 3:30pm
-</div>
----
-<section class="content-centered">
-  <div class="grid-container large">
-    <p>Admission is $30. *Free tickets are available to the first 500 UCSC students to sign up*</p>
-  </div>
-</section>
----
-<div class="content-centered">
-<strong>Where</strong><br />
-<a href="https://map.concept3d.com/?id=882#!m/234920">Quarry Amphitheater, UC Santa Cruz</a>
-</div>
----
-<div class="content-centered">
-<strong>When</strong><br/>
-<p>TBD<br/>
-<em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
-The Peggy Downes Baskin Ethics Lecture & Alumni Weekend Keynote<br/>
-Gates open at 3:30pm
 </div>
 ---
 Complimentary parking for the lecture will be available at the East Remote Lot ([campus parking map here](https://map.concept3d.com/?id=882#!m/370261)), a 20 minute walk away from the Quarry Amphitheater. Additional complimentary parking will be available at the Core West Parking Structure. Loop busses will also be available to shuttle folks to the Bay Tree Bookstore stop from both locations. If you require ADA parking accommodation, please reach out to Special Events at [specialevents@ucsc.edu](mailto:specialevents@ucsc.edu]) or 831.459.5003
