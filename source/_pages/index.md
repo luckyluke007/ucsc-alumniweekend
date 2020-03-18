@@ -29,7 +29,6 @@ Fiat Slug!
           <p>Join us as we welcome award-winning author Margaret Atwood—whose books include <em>The Handmaid's Tale</em> and its brand-new sequel, <em>The Testaments</em>—to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
           <div class="content-foot-links">
             <a class="btn-link" href="/atwood">Event Info</a>
-            <a class="button primary expanded" href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1467">Buy Tickets</a>
           </div>
       </div>
       <div class="media">

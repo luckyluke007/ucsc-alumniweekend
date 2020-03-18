@@ -17,7 +17,6 @@ We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deep
 
 <section class="content-centered">
   <div class="grid-container large">
-    <p><a class="button primary" href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1467">Buy Tickets</a></p>
     <p>Admission is $30. *Free tickets are available to the first 500 UCSC students to sign up*</p>
   </div>
 </section>
