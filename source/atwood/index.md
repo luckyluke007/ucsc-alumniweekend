@@ -17,7 +17,7 @@ We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deep
 
 <div class="content-centered">
 <strong>When</strong><br/>
-<p>TBD<br/>
+<p>Postponed, check back for date<br/>
 <em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
 </div>
 ---
