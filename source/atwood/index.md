@@ -1,6 +1,6 @@
 ---
 title: Margaret Atwood at UC Santa Cruz
-description: 'Join us as we welcome Margaret Atwood to UC Santa Cruz on April 5, 2020'
+description: 'The Deep Read: Margaret Atwood Live September 22'
 layout: page
 category: aw-2020    
 ---
@@ -9,16 +9,13 @@ category: aw-2020
 
 ![Margaret Atwood](/atwood/images/atwood-banner.jpg){:class="img-full"}
 
-Join us as we welcome Margaret Atwood to UC Santa Cruz on April 5, 2020 where she’ll be in conversation with author Kate Schatz (Stevenson ‘03, Creative Writing), the New York Times-bestselling author of *Rad American Women A-Z*.
+Margaret Atwood will join the UC Santa Cruz community for a free, live, virtual event on Tuesday September 22 at 4:30 PM PT. Part of The Humanities Institute’s Deep Read Program, this event culminates months of in-depth programming and community engagement focused on Atwood’s latest Booker Prize-winning novel, The Testaments, a sequel to her 1985 classic The Handmaid’s Tale.
 
-Atwood’s other novels include the Giller and Booker Prize-shortlisted *Oryx and Crake*, as well as *Alias Grace*, *The Robber Bride*, *Cat’s Eye*, and Booker winner *The Blind Assassin*. 
+<a class="button primary expanded" href="https://ucsc.zoom.us/webinar/register/WN_WsEKH61QQgCCDt67v_Vh6A">RSVP Today</a>
 
-We’ll connect Atwood’s talk to the new [Deep Read](https://thi.ucsc.edu/deepread/) community on campus and off with weeks of digital programming preceding her visit, along with a new course focusing on her work, salons in LA and NYC, and a salon featuring three UC Santa Cruz scholars discussing the novel through the lens of feminist studies, engineering, and anthropology.
+The 2020 Peggy Downes Baskin Ethics Lecture will feature Atwood in conversation with Kate Schatz (Stevenson ‘01, Creative Writing), the New York Times-bestselling author of Rad American Women A-Z . 
 
-<div class="content-centered">
-<strong>When</strong><br/>
-<p>Postponed, check back for date<br/>
-<em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></p>
-</div>
----
-Complimentary parking for the lecture will be available at the East Remote Lot ([campus parking map here](https://map.concept3d.com/?id=882#!m/370261)), a 20 minute walk away from the Quarry Amphitheater. Additional complimentary parking will be available at the Core West Parking Structure. Loop busses will also be available to shuttle folks to the Bay Tree Bookstore stop from both locations. If you require ADA parking accommodation, please reach out to Special Events at [specialevents@ucsc.edu](mailto:specialevents@ucsc.edu]) or 831.459.5003
+William “Bro” Adams (Ph.D. History of Consciousness ’82), Chair of the National Endowment for the Humanities from 2014 to 2017, will be the event MC.
+
+
+

@@ -1,34 +1,34 @@
 ---
-title: Alumni Weekend 2020 is postponed
-description: 'Important message: After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020. All of your friends here at UC Santa Cruz will miss seeing you at Alumni Weekend 2020. Watch this space for new dates!'
-layout: page
-
+layout: front-page
+title: Alumni Weekend
+description: UC Santa Cruz Alumni Weekend 2020, April 3-5.
 category: aw-2020
-permalink: '/'
+order: 1
+billboard:
+  subtitle: Reconnect, reignite, remember
+  image: /assets/images/billboard/2020/homepage-billboard.jpg
+  image-2: /assets/images/billboard/2020/homepage-billboard-v2.jpg
+  alt-text: "Friday-Sunday, Alumni Weekend April 3-5, 2020"
+  hero-title: Alumni Weekend
+  day: Friday–Sunday
+  month: April
+  date: 3–5
+  year: 2020
+  register-url: '#'
 
-published: true
+published: false
 ---
-{: .underline}
-## {{ page.title }}
-
-After a thorough review of the impacts of the coronavirus, we’ve decided to reschedule Alumni Weekend 2020 to a future date. All of your friends here at UC Santa Cruz will miss seeing you this spring, but watch this space for new dates!
-
-Information regarding registration refunds will be emailed to ticket holders. 
-Some individual events planned for April 3–5 may still take place; others may be livestreamed. Visit [calendar.ucsc.edu](https://calendar.ucsc.edu/) for updates.
-
-Our priority is the health and safety of our alumni, guests, students, and staff. We appreciate your patience and understanding as we respond to these developments. 
-
-Fiat Slug!
 
 <section class="content-w-media left haltered blue">
   <div class="grid-container large">
     <div class="inner">
       <div class="content">
           <h2 class="underline"><a href="/atwood">Margaret Atwood at UC Santa Cruz</a></h2>
-          <h5 style="font-weight: 500">Date: TBD <br /> <em class="small">*Due to ongoing COVID-19 public health measures, this event will no longer be held on April 5. Please check back for updates.</em></h5>
+          <h5 style="font-weight: 500">Date: April 5, 2020</h5>
           <p>Join us as we welcome award-winning author Margaret Atwood—whose books include <em>The Handmaid's Tale</em> and its brand-new sequel, <em>The Testaments</em>—to campus on Sunday, April 5, for an onstage discussion with alumna and bestselling author Kate Schatz as part of the Baskin Ethics Lecture series.</p>
           <div class="content-foot-links">
             <a class="btn-link" href="/atwood">Event Info</a>
+            <a class="button primary expanded" href="https://ucsctickets.universitytickets.com/w/event.aspx?id=1467">Buy Tickets</a>
           </div>
       </div>
       <div class="media">
@@ -37,6 +37,7 @@ Fiat Slug!
     </div>
   </div>
 </section>
+
 
 <section class="heading">
   <h2 class="underline">Thank you to our sponsors</h2>
@@ -132,3 +133,4 @@ Fiat Slug!
 </div>
 <p></p>
 {% endif %}
+
