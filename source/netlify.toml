@@ -5,13 +5,13 @@
   force = true
 
 [[redirects]]
-  from = "/alumniweekend/2020/"
+  from = "/alumniweekend/2021"
   to = "/"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/alumniweekend/2020"
+  from = "/alumniweekend/2021"
   to = "/"
   status = 301
   force = true
