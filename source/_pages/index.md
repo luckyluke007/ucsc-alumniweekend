@@ -1,16 +1,11 @@
 ---
-title: Alumni Weekend 2021
-description: 'Stay tuned for news about our virtual gather in April 2021.'
-layout: page
-
-category: aw-2021
+layout: blank
 permalink: '/'
-
-published: true
 ---
-{: .underline}
-## {{ page.title }}
 
-Stay tuned for news about our virtual gather in April 2021.
+<div class="container-2021">
+  <img src="https://alumniweekend.ucsc.edu/assets/images/2021/alumni-weekend-2021.png">
+  Stay tuned for news about our virtual gather in April 2021.
+</div>
 
 

@@ -1,7 +1,7 @@
 ---
 title: Alumni Weekend 2021
 description: 'Stay tuned for news about our virtual gather in April 2021.'
-layout: page
+layout: default
 
 category: aw-2021
 
