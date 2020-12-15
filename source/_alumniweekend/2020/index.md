@@ -4,7 +4,6 @@ description: 'Important message: After a thorough review of the impacts of the c
 layout: page
 
 category: aw-2020
-permalink: '/'
 
 published: true
 ---
