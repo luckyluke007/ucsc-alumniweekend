@@ -25,7 +25,7 @@ plan:
 
 nav: yes
 
-published: false
+published: true
     
 ---
 {: .underline}

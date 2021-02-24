@@ -5,7 +5,7 @@ layout: page
 
 category: aw-2020
 
-published: false
+published: true
 ---
 {: .underline}
 ## {{ page.title }}
