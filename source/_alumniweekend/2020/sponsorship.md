@@ -6,7 +6,7 @@ category: aw-2020
 order: 4
 nav: yes
 
-published: false
+published: true
 ---
 
 ## How to be an Alumni Weekend sponsor

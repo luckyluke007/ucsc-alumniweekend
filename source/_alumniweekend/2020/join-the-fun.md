@@ -14,7 +14,7 @@ plan:
     image: /assets/images/2020/signatures.jpg
     link: /alumniweekend/2020/parking.html
 
-published: false
+published: true
 ---
 {: .underline}
 ## {{ page.title }}
