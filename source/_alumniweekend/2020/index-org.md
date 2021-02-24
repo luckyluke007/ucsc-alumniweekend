@@ -2,6 +2,7 @@
 layout: front-page
 title: Alumni Weekend
 description: UC Santa Cruz Alumni Weekend 2020, April 3-5.
+category: aw-2020
 billboard:
   subtitle: Reconnect, reignite, remember
   image: /assets/images/billboard/2020/homepage-billboard.jpg
