@@ -6,6 +6,7 @@ category: aw-2020
 order: 2
 
 published: true
+search: exclude
 ---
 {: .underline}
 ## {{ page.title }}

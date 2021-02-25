@@ -7,6 +7,7 @@ order: 4
 nav: yes
 
 published: true
+search: exclude
 ---
 
 ## How to be an Alumni Weekend sponsor

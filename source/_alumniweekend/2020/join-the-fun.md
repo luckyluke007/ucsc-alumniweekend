@@ -15,6 +15,7 @@ plan:
     link: /alumniweekend/2020/parking.html
 
 published: true
+search: exclude
 ---
 {: .underline}
 ## {{ page.title }}
