@@ -5,6 +5,7 @@ layout: page
 category: aw-2020
 nav: yes
 published: true
+search: exclude
 ---
 {: .underline}
 ## {{ page.title }}

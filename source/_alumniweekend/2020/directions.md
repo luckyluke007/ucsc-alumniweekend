@@ -6,6 +6,7 @@ layout: page
 category: aw-2020
 
 published: true
+search: exclude
 ---
 {: .underline}
 ## {{ page.title }}

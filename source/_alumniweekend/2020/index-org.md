@@ -16,6 +16,7 @@ billboard:
   register-url: '#'
 
 published: true
+search: exclude
 ---
 
 <section class="content-w-media left haltered blue">
