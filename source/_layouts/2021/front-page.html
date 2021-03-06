@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include 2021/head.html -%}
+
+  <body>
+
+    {%- include 2021/header.html -%}
+    {%- include 2021/billboard.html -%}
+    {%- include breadcrumb.html -%}
+
+    <section class="content-centered">
+      <div class="grid-container large">
+          <p>{{ content }}</p>
+      </div>
+    </section>
+
+    {%- include 2021/featured-events.html -%}
+
+    {%- include 2021/footer.html -%}
+
+  </body>
+
+</html>
