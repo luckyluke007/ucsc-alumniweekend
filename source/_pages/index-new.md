@@ -1,5 +1,6 @@
 ---
 layout: 2021/front-page
+permalink: /index-new.html
 
 billboard:
   subtitle: "Monday-Sunday, April 19-25"
