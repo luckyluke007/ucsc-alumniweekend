@@ -1,3 +1,13 @@
+/* REMOVE CURSOR HAND FEATURED EVENTS */
+.fade-out-siblings > * {
+  cursor: none !important;
+  pointer-events: none !important;
+}
+.button {
+  max-width: 100% !important;
+}
+/* END REMOVE */
+
 /*Location address */
 .location-address h4 small {
   color: #666 !important; }
