@@ -29,7 +29,7 @@ featured:
     url: "https://calendar.ucsc.edu/event/university_forum_the_filmmakers_voice_in_changing_media_landscape#.YEZlxi9h3OR"
   - title: 'Live reading: “The Comedy of Errors”'
     date: "2021-04-23"
-    starttime: "7:00pm"
+    starttime: "5:30pm"
     endtime: 
     image: "/assets/images/2021/comedy-errors-banner.jpg"
     description: "Watch a live reading of Shakespeare's masterful play “The Comedy of Errors” directed by theater arts professor Danny Scheie and featuring special guests, including illustrious alumni and fabulous friends."
