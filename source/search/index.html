@@ -13,7 +13,7 @@ search: exclude
 
 <script>
   window.store = {
-      {% for alumniweekend in site %}
+      {% for alumniweekend in site.alumniweekend %}
         {% unless alumniweekend.search == "exclude" %}
         "{{ alumniweekend.url | slugify }}": {
           "title": "{{ alumniweekend.title | xml_escape }}",
