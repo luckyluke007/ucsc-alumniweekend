@@ -1,8 +1,9 @@
 ---
 title: Alumni Week 2021
 layout: 2021/front-page
-permalink: /
-description: "Celebrating Alumni Week in true 2021 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
+
+category: aw-2021
+order: 1
 
 billboard:
   subtitle: "Monday-Sunday, April 19-25"
