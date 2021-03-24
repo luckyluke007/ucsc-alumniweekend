@@ -117,3 +117,9 @@
   to = "https://calendar.ucsc.edu/alumni_weekend"
   status = 301
   force = true
+
+  [[redirects]]
+    from = "/alumniweekend/2021/events"
+    to = "https://calendar.ucsc.edu/alumni_week"
+    status = 301
+    force = true

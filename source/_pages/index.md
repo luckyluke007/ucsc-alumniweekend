@@ -10,9 +10,8 @@ billboard:
   alt-text: "Alumni Week 2021 Arts"
   hero-title: "Alumni Week 2021"
   description: "Celebrating Alumni Week in true 2021 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
-  action-text: Registration opening soon
+  action-text: Register Now
   register-url: '#'
-  button-text: Register Now
 
 featured:
   - title: "Visualizing Abolition: (Re)Enacting Revolution"
