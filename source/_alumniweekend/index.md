@@ -1,5 +1,5 @@
 ---
-title: Alumni Weekend
-layout: page
+title: Alumni Week
+layout: 2021/page
 search: exclude
 ---
