@@ -14,6 +14,13 @@ billboard:
   register-url: '#'
 
 featured:
+  - title: "A conversation with Terri McCullough (Oakes '90, politics), chief of staff to Nancy Pelosi, in memory of Gabe Zimmerman (Stevenson '02, sociology)"
+    date: "2021-04-24"
+    starttime: "5:30pm"
+    endtime: "7:00pm"
+    image: "/assets/images/2021/terri-mccullough.jpg"
+    description: "Gabe Zimmerman (Stevenson '02, sociology) was U.S. Congresswoman Gabby Giffords's community outreach director."
+    url: "https://calendar.ucsc.edu/event/a_conversation_with_terri_mccullough_oakes_90_politics_chief_of_staff_to_nancy_pelosi_in_memory_of_gabe_zimmerman_stevenson_02_sociology#.YF1Y8i2cbOR"
   - title: "Visualizing Abolition: (Re)Enacting Revolution"
     date: "2021-04-20"
     starttime: "4:00pm"
