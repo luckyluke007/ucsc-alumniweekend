@@ -123,3 +123,9 @@
     to = "https://calendar.ucsc.edu/alumni_week"
     status = 301
     force = true
+
+  [[redirects]]
+    from = "/alumniweekend/2021/make-a-gift"
+    to = "https://give.communityfunded.com/o/university-of-california---santa-cruz/i/alumni-week-2021"
+    status = 301
+    force = true
