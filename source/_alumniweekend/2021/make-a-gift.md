@@ -5,7 +5,7 @@ layout: page
 category: aw-2021
 order: 4
 
-published: false
+published: true
 ---
 {: .underline}
 ## {{ page.title }}
