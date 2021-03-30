@@ -10,8 +10,6 @@ published: true
 {: .underline}
 ## {{ page.title }}
 
-{% assign eventdate = site.data.share-sessions %}
-<h3>{{ eventdate }}</h3>
 {% for event in site.data.share-sessions %}
   <div class="component-wrapper">
     <a class="events-card" href="{{ event.zoom-link }}">
