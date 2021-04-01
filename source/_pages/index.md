@@ -49,6 +49,13 @@ featured:
     image: "/assets/images/2021/kraw-banner.jpg"
     description: "New technologies are being brought to bear in criminal justice. The existence of community databases of DNA information have enabled a new approach, forensic genetic genealogy, for identifying suspects in violent crimes."
     url: "https://calendar.ucsc.edu/event/kraw_lecture_the_past_present_and_future_of_dna-based_forensics#.YFjxqy2cbOR"
+  - title: "Elephant Seals at UCSC's Año Nuevo Reserve"
+    date: "2021-04-24"
+    starttime: "10:00am"
+    endtime: "11:00am"
+    image: "/assets/images/2021/seal-male.jpg"
+    description: "Join Reserve Director Patrick Robinson for a live view of the elephant seal colony at Año Nuevo."
+    url: "https://calendar.ucsc.edu/event/elephant_seals_at_ucscs_ano_nuevo_reserve#.YGYLii2cbOS"
 ---
 
 
