@@ -129,3 +129,9 @@
     to = "https://give.communityfunded.com/o/university-of-california---santa-cruz/i/alumni-week-2021"
     status = 301
     force = true
+
+  [[redirects]]
+    from = "/alumniweekend/2021/share-sessions"
+    to = "https://calendar.ucsc.edu/banana-slug-share-sessions"
+    status = 301
+    force = true
