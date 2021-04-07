@@ -4,7 +4,6 @@ permalink: /
 description: "Celebrating Alumni Week in true 2021 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
 
 category: aw-2021
-order: 1
 
 billboard:
   subtitle: "Monday-Sunday, April 19-25"
@@ -16,7 +15,7 @@ billboard:
   register-url: '#'
 
 featured:
-  - title: "A conversation with Terri McCullough (Oakes '90, politics), chief of staff to Nancy Pelosi, in memory of Gabe Zimmerman (Stevenson '02, sociology)"
+  - title: "A conversation with Terri McCullough (Oakes '91, politics), chief of staff to Nancy Pelosi, in memory of Gabe Zimmerman (Stevenson '02, sociology)"
     date: "2021-04-24"
     starttime: "5:30pm"
     endtime: "7:00pm"
@@ -59,7 +58,6 @@ featured:
     description: "Join Reserve Director Patrick Robinson for a live view of the elephant seal colony at Año Nuevo."
     url: "https://calendar.ucsc.edu/event/elephant_seals_at_ucscs_ano_nuevo_reserve#.YGYLii2cbOS"
 ---
-
 
 
 
