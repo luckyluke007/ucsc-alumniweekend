@@ -119,7 +119,7 @@
   force = true
 
   [[redirects]]
-    from = "/alumniweekend/2021/events"
+    from = "/alumniweekend/2021/alumni-week-events"
     to = "https://calendar.ucsc.edu/alumni_week"
     status = 301
     force = true
