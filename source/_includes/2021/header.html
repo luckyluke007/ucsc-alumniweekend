@@ -21,14 +21,12 @@
       <!-- Subsite Menu-->
       <div class="primary-links lower-divider">
         <ul class="vertical menu">
-          {% assign alumniweekendnav = page.category %}
-            {% if alumniweekendnav != '' %}
-              {% for alumniweekend in site.alumniweekend %}
+          {% for alumniweekend in site.alumniweekend %}
+            {% assign alumniweekendnav = page.category %}
                 {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
                   <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
                 {% endif %}
-              {% endfor %}
-            {% endif %}
+            {% endfor %}
             <!-- <li><a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=3896&cid=7843&fid=7843&gfid=9161" aria-label="Register for Alumni Weekend">Register now</a></li>-->
         </ul>
       </div>
@@ -123,16 +121,15 @@
 
           <div class="cell auto">
             <ul class="menu">
-              {% assign alumniweekendnav = page.category %}
-              {% if page.layout != 'page-left-navigation' %}
-                {% if alumniweekendnav != '' %}
-                  {% for alumniweekend in site.alumniweekend %}
-                    {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
-                      <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
-                    {% endif %}
-                  {% endfor %}
+              {% for alumniweekend in site.alumniweekend %}
+                {% assign alumniweekendnav = alumniweekend.category %}
+                {% assign alumnipagecat = page.category %}
+                {% if page.layout != 'page-left-navigation' %}
+                  {% if alumniweekendnav == alumnipagecat and alumniweekend.order >= 2 %}
+                    <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+                  {% endif %}
                 {% endif %}
-              {% endif %}
+              {% endfor %}
               <!--<li><a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=3896&cid=7843&fid=7843&gfid=9161" aria-label="Register for Alumni Weekend">Register now</a></li>-->
             </ul>
           </div>
