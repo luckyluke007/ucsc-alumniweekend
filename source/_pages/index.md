@@ -15,7 +15,7 @@ billboard:
   register-url: '#'
 
 featured:
-  - title: "A conversation with Terri McCullough (Oakes '90, politics), chief of staff to Nancy Pelosi, in memory of Gabe Zimmerman (Stevenson '02, sociology)"
+  - title: "A conversation with Terri McCullough (Oakes '91, politics), chief of staff to Nancy Pelosi, in memory of Gabe Zimmerman (Stevenson '02, sociology)"
     date: "2021-04-24"
     starttime: "5:30pm"
     endtime: "7:00pm"
