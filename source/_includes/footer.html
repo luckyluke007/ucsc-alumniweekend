@@ -34,7 +34,7 @@
               {% if page.category != '' %}
                 {% for alumniweekend in site.alumniweekend %}
                   {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
-                    <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+                    <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">{{ alumniweekend.title }}</a></li>
                   {% endif %}
                 {% endfor %}
               {% endif %}
@@ -48,7 +48,7 @@
       <div class="global-footer">
         <div class="grid-x grid-margin-x grid-padding-x large-padding-collapse large-margin-collapse">
           <div class="cell large-4 show-for-large">
-            <img class="white-ucsc-logo" src="{{ site.baseurl }}/assets/images/uc-santa-cruz-reverse.svg" />
+            <img class="white-ucsc-logo" src="{{ site.baseurl }}/assets/images/uc-santa-cruz-reverse.svg" alt="UC Santa Cruz"/>
             <p class="address">1156 High Street, Santa Cruz, CA 95064</p>
           </div>
 
@@ -69,7 +69,7 @@
         </div>
       <div class="grid-x grid-margin-x text-center mt-25">
         <div class="cell large-4 hide-for-large">
-          <img class="white-ucsc-logo" src="{{ site.baseurl }}/assets/images/uc-santa-cruz-reverse.svg" />
+          <img class="white-ucsc-logo" src="{{ site.baseurl }}/assets/images/uc-santa-cruz-reverse.svg" alt="UC Santa Cruz" />
           <p class="address">
             1156 High Street, Santa Cruz, CA 95064
           </p>

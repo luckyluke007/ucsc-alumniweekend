@@ -35,9 +35,9 @@
       <!-- end Special Events -->
       <div class="global-links">
         <ul class="vertical menu">
-          <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1" aria-label=""><span>MyUCSC</span></a></li>
-          <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
-          <li><a href="https://www.ucsc.edu/tools/people.html" aria-label=""><span>Directories</span></a></li>
+          <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1" aria-label="MyUCSC"><span>MyUCSC</span></a></li>
+          <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label="Calendars"><span>Calendars</span></a></li>
+          <li><a href="https://www.ucsc.edu/tools/people.html" aria-label="Directories"><span>Directories</span></a></li>
         </ul>
 
       </div>
@@ -64,9 +64,9 @@
 
         <div class="global-menu">
           <ul class="menu">
-            <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO;jsessionid=110f00jrrbrh7marvjot3soxo?execution=e1s1" aria-label=""><span>MyUCSC</span></a></li>
-            <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label=""><span>Calendars</span></a></li>
-            <li><a href="https://www.ucsc.edu/tools/people.html" aria-label=""><span>Directories</span></a></li>
+            <li><a href="https://login.ucsc.edu/idp/profile/SAML2/Redirect/SSO;jsessionid=110f00jrrbrh7marvjot3soxo?execution=e1s1" aria-label="MyUCSC<"><span>MyUCSC</span></a></li>
+            <li><a href="https://www.ucsc.edu/tools/calendars.html" aria-label="Calendars"><span>Calendars</span></a></li>
+            <li><a href="https://www.ucsc.edu/tools/people.html" aria-label="Directories"><span>Directories</span></a></li>
             <li class="show-for-large search-button">
                 <a action="#0" data-toggle="global-search"><i class="fas fa-search fa-small"></i> Search</a>
             </li>
@@ -128,7 +128,7 @@
                 {% if page.category != '' %}
                   {% for alumniweekend in site.alumniweekend %}
                     {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
-                      <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
+                      <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">{{ alumniweekend.title }}</a></li>
                     {% endif %}
                   {% endfor %}
                 {% endif %}
