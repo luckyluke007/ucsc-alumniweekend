@@ -1,7 +1,7 @@
 ---
 title: FAQ
 description: 'You have questions about Alumni Week 2021. We have all the answer.'
-layout: 2021/page
+layout: page
 category: aw-2021
 order: 4
 

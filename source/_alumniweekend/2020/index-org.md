@@ -32,7 +32,7 @@ search: exclude
           </div>
       </div>
       <div class="media">
-          <img src="/atwood/images/atwood-homepage.jpg" alt="Margaret Atwood">
+          <img src="../../atwood/images/atwood-homepage.jpg" alt="Margaret Atwood">
       </div>
     </div>
   </div>
