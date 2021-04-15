@@ -1,5 +1,5 @@
 ---
-layout: 2021/front-page
+layout: front-page
 permalink: /
 description: "Celebrating Alumni Week in true 2021 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
 

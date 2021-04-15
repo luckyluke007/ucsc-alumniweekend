@@ -1,24 +1,4 @@
-<!-- {% if page.billboard.image != '' %}
-  <div class="hero-viewport inner-page">
-    <div class="hero-container">
-      <div id="hero" class="hero hero-text-right">
-        <div class="angle"></div>
-        <img src="{{ page.billboard.image }}" alt="{{ page.billboard.alt-text }}" />
-        <div class="hero-text">
-          <h2 class="hero-header">{{ page.title }} {{ page.billboard.year }}</h2>
-          <div class="tags">
-            <div class="topics-title"><a href="#0" class="topic btn-link light">{{ page.billboard.day }}</a> / </div>
-            <div class="topics-title">{{ page.billboard.month }} {{ page.billboard.date }}</div>
-          </div>
-            <p><a class="button primary expanded" href="{{ page.register-url }}">Register Now</a></p>
-        </div>
-      </div>
-    </div>
-  </div>
-{% endif %}
--->
-
-{% if page.billboard.image != '' %}
+{% if page.billboard.image != '' and page.category != "aw-2021" %}
   <div class="hero-viewport inner-page-standard wave-pattern blue">
     <div class="grid-container large">
       <div class="hero-container">
@@ -34,4 +14,23 @@
       </div>
     </div>
   </div>
+{% else %}
+  {% if page.billboard.image != '' %}
+    <div class="hero-viewport yellow">
+      <div class="hero-container">
+        <div id="hero" class="hero hero-text-right">
+          <div class="gradient-overlay"></div>
+          <img src="{{ page.billboard.image }}" alt="{{ page.billboard.alt-text }}">
+            <div class="angle transparent wow animated" style="visibility: visible;"></div>
+            <div class="hero-text">
+                <div class="category">{{ page.billboard.subtitle }}</div>
+                <h1 class="hero-header blue-text">{{ page.billboard.hero-title }}</h1>
+                <p class="hero-body">{{ page.billboard.description }}</p>
+                <a href="https://calendar.ucsc.edu/alumni_week" class="button primary secondary-blue-text"><strong>View Events Listing</strong></a>
+                <!-- <a class="button secondary" href="#">{{ page.billboard.button-text }}</a> -->
+            </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
 {% endif %}
