@@ -1,5 +1,5 @@
 ---
 title: Alumni Week
-layout: 2021/page
+layout: page
 search: exclude
 ---

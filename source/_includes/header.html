@@ -115,8 +115,12 @@
         <div class="grid-x large-padding-collapse large-margin-collapse">
           <div class="cell large-3">
             <div class="subsite-brand-container">
-              <a href="{{ site.baseurl }}/" aria-label="Return to news home page">
-                <h1>{{ site.title }}</h1>
+              <a href="{{ site.baseurl }}/" aria-label="Return to Home">
+                {% if page.category != "aw-2021" %}
+                  <h1>{{ site.title }}</h1>
+                {% else %}
+                  <h1>Alumni Week</h1>
+                {% endif %}
               </a>
             </div>
           </div>
