@@ -22,4 +22,4 @@ We created a few UCSC-inspired virtual backgrounds for you to use in Zoom.
 
 #### [Alumni Week's Poster](/assets/images/2021/aw-poster.pdf)
 
-Print Alumni Week's poster theme and decorate with pride. 
+Download and print Alumni Week's poster theme and decorate.
