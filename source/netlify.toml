@@ -135,9 +135,3 @@
   to = "https://calendar.ucsc.edu/banana-slug-share-sessions"
   status = 301
   force = true
-
-[[redirects]]
-  from = "/alumniweekend/2021/zoom-backgrounds"
-  to = "https://communications.ucsc.edu/visual-design/zoom/#alumni-week"
-  status = 301
-  force = true
