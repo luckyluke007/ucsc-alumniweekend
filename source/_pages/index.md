@@ -9,9 +9,9 @@ category: aw-2022
 ---
 <div class="wrap">
   <div class="content">
-    <a href="https://www.ucsc.edu"><img src="https://alumniweekend.ucsc.edu/assets/images/uc-santa-cruz-reverse.svg" alt="UC Santa Cruz" class="logo"></a>
+    <a href="https://www.ucsc.edu"><img src="/assets/images/uc-santa-cruz-reverse.svg" alt="UC Santa Cruz" class="logo"></a>
     <h1>Save the date for Alumni Week 2022!</h1>
-    <p>A mix of virtual and in-person events awaits you Wednesday–Sunday, April 20–24, 2022. We can’t wait to see you! Watch your inbox for more details.</p>
+    <p>A mix of virtual and in-person events awaits you <strong>Wednesday–Sunday, April 20–24, 2022</strong>. We can’t wait to see you! Watch your inbox for more details.</p>
   </div>
 </div>
 
@@ -19,7 +19,7 @@ category: aw-2022
 <style>
 body,
 html {
-  background: url("https://alumniweekend.ucsc.edu/assets/images/2022/background-2022.jpg")no-repeat #003c6c;
+  background: url("/assets/images/2022/background-2022.svg")no-repeat #003c6c;
   background-position: center center;
   background-size: cover;
   color: #fff;
