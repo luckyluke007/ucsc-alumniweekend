@@ -1,15 +1,13 @@
 ---
-layout: front-page
+layout: front-page-2022
 description: "Celebrating Alumni Week in true 2022 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
 
 category: aw-2022
 
 billboard:
-  subtitle: "Monday-Sunday, April 19-25"
-  image: /assets/images/2021/banner-image-v2.gif
-  alt-text: "Alumni Week 2021 Arts"
-  hero-title: "Alumni Week 2021"
-  description: "Celebrating Alumni Week in true 2021 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
+  date: "April 19-22, 2022"
+  hero-title: "Alumni Week 2022"
+  description: "Virtual & In Person"
   action-text: Register Now
   register-url: '#'
 
