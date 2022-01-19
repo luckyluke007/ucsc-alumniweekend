@@ -54,4 +54,3 @@ billboard:
     View more events
   </a>
 </div>
-
