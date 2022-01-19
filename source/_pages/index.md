@@ -19,7 +19,7 @@ category: aw-2022
 <style>
 body,
 html {
-  background: url("/assets/images/2022/background-2022.svg")no-repeat #003c6c;
+  background: url("/assets/images/2022/background-2022.jpg")no-repeat #003c6c;
   background-position: center center;
   background-size: cover;
   color: #fff;
