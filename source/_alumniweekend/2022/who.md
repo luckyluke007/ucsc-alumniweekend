@@ -1,18 +1,31 @@
 ---
-title: "Who's Coming"
-description: 'Celebrating Alumni Week in true 2022 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus.'
+title: Who's Coming
+description: 'You have questions about Alumni Week 2022. We have all the answer.'
 layout: page
 category: aw-2022
-order: 3
+order: 6
 
 published: true
 search: exclude
 
 ---
-
 {: .underline}
 ## {{ page.title }}
 
+### General questions 
 
+**Q: I remember Alumni Weekend in previous years, what is Alumni Week?**
 
+**A:** This year we decided to have a week-long celebration of virtual events running April 19-25. Since we will all be virtual, why not have some fun all week long?
 
+**Q: What platform will be used for all events?**
+
+**A:** We will be using Zoom for all the events hosted throughout the week. You will need to register for each event you would like to attend and you will receive an individual Zoom login via email for each event. 
+
+**Q: Will there be any events on campus?**
+
+**A:** No, all events will be virtual this year.
+
+**Q: Will all the events be recorded? How can I access them?**
+
+**A:** Most of the events throughout the week will be recorded. You will receive an email with a link where to access the videos.
