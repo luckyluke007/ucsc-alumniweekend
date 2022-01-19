@@ -5,7 +5,7 @@
         {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
         {% assign crumb-title = page.title | remove:'/index.html' | split: '/' %}
           <li><a href="/">Home</a></li>
-          {% if page.category != "aw-2021" or if page.category != "aw-2022" %}
+          {% if page.category != "aw-2021" or page.category != "aw-2022" %}
             {% for crumb in crumbs offset: 1 %}
               {% if forloop.last %}
                 &nbsp;&nbsp;/&nbsp;&nbsp; {{ page.title | replace:'-',' ' | remove:'.html' }}
