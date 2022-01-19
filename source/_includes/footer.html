@@ -34,7 +34,7 @@
             </div> -->
             <div id="quick-1" class="show-for-large" data-toggler=".show-for-large">
               <ul class="menu">
-              {% assign alumniweekendnav = page.category | sort: 'order' %}
+              {% assign alumniweekendnav = page.category %}
               {% if page.category != '' %}
                 {% for alumniweekend in site.alumniweekend %}
                   {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}

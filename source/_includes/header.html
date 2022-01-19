@@ -127,7 +127,7 @@
 
           <div class="cell auto">
             <ul class="menu">
-              {% assign alumniweekendnav = page.category | sort: 'order' %}
+              {% assign alumniweekendnav = page.category %}
               {% if page.layout != 'page-left-navigation' %}
                 {% if page.category != '' %}
                   {% for alumniweekend in site.alumniweekend %}
