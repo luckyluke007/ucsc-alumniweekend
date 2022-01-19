@@ -21,7 +21,7 @@
       <!-- Subsite Menu-->
       <div class="primary-links lower-divider">
         <ul class="vertical menu">
-          {% assign alumniweekendnav = page.category %}
+          {% assign alumniweekendnav = page.category | sort:"order" %}
             {% if page.category != '' %}
               {% for alumniweekend in site.alumniweekend %}
                 {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
