@@ -21,9 +21,9 @@
       <!-- Subsite Menu-->
       <div class="primary-links lower-divider">
         <ul class="vertical menu">
-          {% assign alumniweekendnav = page.category %}
+          {% assign alumniweekendnav = page.category | sort:"order" %}
             {% if page.category != '' %}
-              {% for alumniweekend in site.alumniweekend | sort:"order" %}
+              {% for alumniweekend in site.alumniweekend %}
                 {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
                   <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="">{{ alumniweekend.title }}</a></li>
                 {% endif %}
@@ -127,10 +127,10 @@
 
           <div class="cell auto">
             <ul class="menu">
-              {% assign alumniweekendnav = page.category %}
+              {% assign alumniweekendnav = page.category | sort:"order" %}
               {% if page.layout != 'page-left-navigation' %}
                 {% if page.category != '' %}
-                  {% for alumniweekend in site.alumniweekend | sort:"order" %}
+                  {% for alumniweekend in site.alumniweekend %}
                     {% if alumniweekend.category == alumniweekendnav and alumniweekend.order >= 2 %}
                       <li><a href="{{ site.baseurl }}{{ alumniweekend.url }}" aria-label="{{ alumniweekend.title }}">{{ alumniweekend.title }}</a></li>
                     {% endif %}
