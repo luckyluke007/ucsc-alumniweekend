@@ -3,7 +3,6 @@ title: Places to stay
 description: 'Lodgin deals and discounts for Alumni Weekend 2022'
 layout: page
 
-category: aw-2022
 
 published: true
 search: exclude

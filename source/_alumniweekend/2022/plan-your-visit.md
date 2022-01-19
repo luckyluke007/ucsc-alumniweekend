@@ -3,7 +3,7 @@ title: Plan your visit
 description: 'Plan your Alumni Weekend 2020 with hotel deals and discounts, parking information, interactive map, and directions'
 layout: page
 category: aw-2022
-order: 5
+order: 3
 
 plan:
   - headline: Places to stay
