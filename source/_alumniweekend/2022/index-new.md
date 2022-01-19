@@ -4,6 +4,13 @@ description: "Celebrating Alumni Week in true 2022 style. Have fun, remember you
 
 category: aw-2022
 
+billboard:
+  date: "April 19-22, 2022"
+  hero-title: "Alumni Week 2022"
+  description: "Virtual & In Person"
+  action-text: Register Now
+  register-url: '#'
+
 ---
 
 <section class="heading">
