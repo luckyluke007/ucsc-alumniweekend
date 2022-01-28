@@ -13,7 +13,7 @@ plan:
   - headline: Parking information
     description: All you need to know about parking on campus for Alumni Weekend. Check back often for updated information as the weekend draws closer.
     image: /assets/images/parking.jpg
-    link: /alumniweekend/2020/parking
+    link: /alumniweekend/2022/parking
   - headline: Campus interactive map
     description: This interactive map will help you find your way around campus.
     image: /assets/images/interactive-map.jpg
