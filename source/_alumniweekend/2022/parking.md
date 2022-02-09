@@ -3,6 +3,8 @@ title: Parking information
 description: 'General parking information for Alumni Weekend 2022'
 layout: page
 
+category: aw-2022
+
 published: true
 search: exclude
 ---
