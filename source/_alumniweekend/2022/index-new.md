@@ -13,7 +13,61 @@ billboard:
   action-text: Register Now
   register-url: '#'
 
+featured:
+  - title: "University Forum with Julia Calderone & Nicholas St. Fleur"
+    date: "2022-04-19"
+    starttime: "5:30pm"
+    endtime: "7:00pm"
+    image: "/assets/images/2021/terri-mccullough.jpg"
+    description: "Details to come"
+    url: "https://calendar.ucsc.edu/event/university_forum_featuring_julia_calderone_nicholas_st_fleur#.YfrQrS-cbOQ"
+  - title: "University Forum with Arts Dean"
+    date: "2022-04-20"
+    starttime: "5:30pm"
+    endtime: "7:00pm"
+    image: "/assets/images/2021/va-banner.jpg"
+    description: "Details to come"
+    url: "https://calendar.ucsc.edu/event/university_forum_with_arts_dean_celine_parrenas_shimizu#.YfrRMS-cbOQ"
+  - title: "Strange Weather Alumni Reception at the MAH"
+    date: "2022-04-22"
+    starttime: "6:00pm"
+    endtime: "8:00pm"
+    image: "/assets/images/2021/uf-banner.jpg"
+    description: "Details to come"
+    url: "https://calendar.ucsc.edu/event/strange_weather_alumni_reception_at_the_mah#.YfrRfS-cbOQ"
+  - title: 'Confronting Climate Change Conference - Community Fair'
+    date: "2022-04-23"
+    starttime: "10:00am"
+    endtime: "4:00pm"
+    image: "/assets/images/2021/comedy-errors-banner.jpg"
+    description: "The Confronting Climate Change is an annual public lecture series that brings together scientists, artists, policy experts, and community members to discuss our planet’s wellbeing and share solutions for our future."
+    url: "https://calendar.ucsc.edu/event/confronting_climate_change_conference_-_community_fair#.YfrSAi-cbOQ"
+  - title: 'Kraw Lecture: The past, present, and future of DNA-based forensics'
+    date: "2021-04-22"
+    starttime: "5:30pm"
+    endtime: "7:00pm"
+    image: "/assets/images/2021/kraw-banner.jpg"
+    description: "New technologies are being brought to bear in criminal justice. The existence of community databases of DNA information have enabled a new approach, forensic genetic genealogy, for identifying suspects in violent crimes."
+    url: "https://calendar.ucsc.edu/event/kraw_lecture_the_past_present_and_future_of_dna-based_forensics#.YFjxqy2cbOR"
+  - title: "Annual Beer & Wine Reception"
+    date: "2022-04-23"
+    starttime: "4:00pm"
+    endtime: "6:00pm"
+    image: "/assets/images/2021/seal-male.jpg"
+    description: "The annual Beer & Wine Reception, celebrating the 30th anniversary of the Alumni Association Scholarship, on Saturday afternoon in the beautiful setting of Quarry Amphitheater. Sponsored by the Alumni Association."
+    url: "https://calendar.ucsc.edu/event/elephant_seals_at_ucscs_ano_nuevo_reserve#.YGYLii2cbOS"
+
 ---
+
+<div class="component-wrapper">
+  <section class="content-centered">
+    <div class="grid-container large">
+        <h2>{{ page.title }}</h2>
+        <p>Celebrating Alumni Voices with both virtual and in-person events—a mixtape of our favorite hits we've made just for you!</p>
+    </div>
+  </section>
+</div>
+
 
 <section class="heading">
   <h2 class="underline">Featured Events</h2>

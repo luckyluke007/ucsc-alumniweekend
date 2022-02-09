@@ -34,7 +34,7 @@
 
   .cloud,
   .cloud-small {
-    animation: l-to-r 60s linear infinite;
+    animation: l-to-r 90s linear infinite;
   }
 
   .cloud {
@@ -43,7 +43,7 @@
 
   .cloud-right,
   .cloud-small-right {
-    animation: r-to-l 60s linear infinite;
+    animation: r-to-l 90s linear infinite;
   }
 
   .cloud-right {
@@ -109,9 +109,9 @@
     position: absolute;
     text-align: center;
     text-transform: uppercase;
-    top: 28%;
+    top: 20%;
     width: 100%;
-    z-index: 1;
+    z-index: 4;
   }
 
   .title-container h1 {
@@ -136,7 +136,6 @@
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-size: 2.25em;
-    font-weight: 600;
     margin: 0;
   }
 
@@ -146,6 +145,25 @@
     font-size: 1.35em;
     font-weight: 300;
     margin: 0;
+  }
+
+  .title-container .btn,
+  .title-container .btn:active {
+    background: #003c6c;
+    border-radius: .25em;
+    color: #fff;
+    display: block;
+    font-weight: 500;
+    margin: .25em auto;
+    padding: .5em;
+    text-decoration: none;
+    width: 25%;
+  }
+
+  .title-container .btn:hover,
+  .title-container .btn:focus {
+    background: #fdc700;
+    color: #003c6c;
   }
 
   @media screen and (max-width: 31.125em) {
@@ -173,6 +191,18 @@
     }
     .title-container span {
       font-size: 1em;
+    }
+    .title-container .btn,
+    .title-container .btn:active {
+      background: #fdc700;
+      color: #003c6c;
+      width: 35%;
+    }
+
+    .title-container .btn:hover,
+    .title-container .btn:focus {
+      background: #da216d;
+      color: #fff;
     }
   }
 
@@ -202,6 +232,18 @@
     .title-container span {
       font-size: 1em;
     }
+    .title-container .btn,
+    .title-container .btn:active {
+      background: #fdc700;
+      color: #003c6c;
+      width: 35%;
+    }
+
+    .title-container .btn:hover,
+    .title-container .btn:focus {
+      background: #da216d;
+      color: #fff;
+    }
   }
 
   @media screen and (min-width: 37.5em) {
@@ -229,6 +271,18 @@
     }
     .title-container span {
       font-size: 1.15em;
+    }
+    .title-container .btn,
+    .title-container .btn:active {
+      background: #fdc700;
+      color: #003c6c;
+      width: 35%;
+    }
+
+    .title-container .btn:hover,
+    .title-container .btn:focus {
+      background: #da216d;
+      color: #fff;
     }
   }
 
@@ -258,6 +312,18 @@
     .title-container span {
       font-size: 1.35em;
     }
+    .title-container .btn,
+    .title-container .btn:active {
+      background: #003c6c;
+      color: #fff;
+      width: 25%;
+    }
+
+    .title-container .btn:hover,
+    .title-container .btn:focus {
+      background: #fdc700;
+      color: #003c6c;
+    }
   }
 
   @media screen and (min-width: 60em) {
@@ -285,6 +351,18 @@
     .title-container span {
       font-size: 1.35em;
     }
+    .title-container .btn,
+    .title-container .btn:active {
+      background: #003c6c;
+      color: #fff;
+      width: 25%;
+    }
+
+    .title-container .btn:hover,
+    .title-container .btn:focus {
+      background: #fdc700;
+      color: #003c6c;
+    }
   }
 </style>
 
@@ -297,6 +375,7 @@
         <div class="subhead">{{ page.billboard.subhead }}</div>
         <h2>{{ page.billboard.date }}</h2>
         <span>{{ page.billboard.description }}</span>
+        <a href="https://connect.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4157&content_id=5016" class="btn">Register Now</a>
       </div>
       <!-- End title -->
     <div class="container-billboard">
