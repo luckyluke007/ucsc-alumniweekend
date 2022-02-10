@@ -123,3 +123,15 @@
   to = "https://calendar.ucsc.edu/banana-slug-share-sessions"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/alumniweekend/2022/alumni-week-events"
+  to = "https://calendar.ucsc.edu/alumni_week"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/alumniweekend/2022/make-a-gift"
+  to = "https://crowdfund.ucsc.edu/project/29511"
+  status = 301
+  force = true
