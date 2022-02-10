@@ -5,18 +5,6 @@
   force = true
 
 [[redirects]]
-  from = "/alumniweekend/2021"
-  to = "/"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/alumniweekend/2021"
-  to = "/"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/alumniweekend/"
   to = "/"
   status = 301
