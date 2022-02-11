@@ -46,7 +46,7 @@ featured:
     date: "2022-04-23"
     starttime: "4:00pm"
     endtime: "6:00pm"
-    image: "/assets/images/2021/seal-male.jpg"
+    image: "/assets/images/2022/alumni-week-art-featured.jpg"
     description: "The annual Beer & Wine Reception, celebrating the 30th anniversary of the Alumni Association Scholarship, on Saturday afternoon in the beautiful setting of Quarry Amphitheater. Sponsored by the Alumni Association."
     url: "https://calendar.ucsc.edu/event/elephant_seals_at_ucscs_ano_nuevo_reserve#.YGYLii2cbOS"
   - title: ' Keynote Lecture TBD'
