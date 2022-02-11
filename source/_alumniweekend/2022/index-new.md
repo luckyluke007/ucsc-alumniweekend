@@ -42,20 +42,20 @@ featured:
     image: "/assets/images/2021/comedy-errors-banner.jpg"
     description: "The Confronting Climate Change is an annual public lecture series that brings together scientists, artists, policy experts, and community members to discuss our planet’s wellbeing and share solutions for our future."
     url: "https://calendar.ucsc.edu/event/confronting_climate_change_conference_-_community_fair#.YfrSAi-cbOQ"
-  - title: 'Kraw Lecture: The past, present, and future of DNA-based forensics'
-    date: "2021-04-22"
-    starttime: "5:30pm"
-    endtime: "7:00pm"
-    image: "/assets/images/2021/kraw-banner.jpg"
-    description: "New technologies are being brought to bear in criminal justice. The existence of community databases of DNA information have enabled a new approach, forensic genetic genealogy, for identifying suspects in violent crimes."
-    url: "https://calendar.ucsc.edu/event/kraw_lecture_the_past_present_and_future_of_dna-based_forensics#.YFjxqy2cbOR"
-  - title: "Annual Beer & Wine Reception"
+  - title: "Cheers to 30 Years: Celebrating Alumni Supporting Students"
     date: "2022-04-23"
     starttime: "4:00pm"
     endtime: "6:00pm"
     image: "/assets/images/2021/seal-male.jpg"
     description: "The annual Beer & Wine Reception, celebrating the 30th anniversary of the Alumni Association Scholarship, on Saturday afternoon in the beautiful setting of Quarry Amphitheater. Sponsored by the Alumni Association."
     url: "https://calendar.ucsc.edu/event/elephant_seals_at_ucscs_ano_nuevo_reserve#.YGYLii2cbOS"
+  - title: ' Keynote Lecture TBD'
+    date: "2021-04-23"
+    starttime: ""
+    endtime: ""
+    image: "/assets/images/2021/kraw-banner.jpg"
+    description: "Details to come"
+    url: "#"  
 
 ---
 
