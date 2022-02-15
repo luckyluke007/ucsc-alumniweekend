@@ -40,7 +40,7 @@ featured:
     starttime: "6:00pm"
     endtime: "8:00pm"
     image: "/assets/images/2022/mah-featured.jpg"
-    description: "Details to come"
+    description: "Join us at the Santa Cruz Museum of Art & History for refreshments, mingling, and viewing the exhibit Strange Weather, which brings together works by influential artists from the 20th and 21st century that creatively illuminate and reframe the boundaries of bodies and the environment."
     url: "https://calendar.ucsc.edu/event/strange_weather_alumni_reception_at_the_mah#.YfrRfS-cbOQ"
   - title: 'Confronting Climate Change Conference - Community Fair'
     date: "2022-04-23"
