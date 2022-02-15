@@ -135,3 +135,9 @@
   to = "https://crowdfund.ucsc.edu/project/29511"
   status = 301
   force = true
+
+  [[redirects]]
+    from = "/alumniweekend/2022/index-new"
+    to = "/alumniweekend/2022/index"
+    status = 301
+    force = true
