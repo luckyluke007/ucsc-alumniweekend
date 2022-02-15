@@ -22,7 +22,7 @@ search: exclude
 Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz.
 
 
-**Phone Reservation**: (844) 236-8186 or [book online](https://www.marriott.com/events/start.mi?id=1579052459854&key=GRP)
+**Phone Reservation**: (844) 236-8186
 
 ---
 
