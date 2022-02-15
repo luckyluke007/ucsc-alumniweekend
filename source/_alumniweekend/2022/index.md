@@ -28,7 +28,7 @@ featured:
     image: "/assets/images/2022/uf-banner.jpg"
     description: "Details to come"
     url: "https://calendar.ucsc.edu/event/university_forum_featuring_julia_calderone_nicholas_st_fleur#.YfrQrS-cbOQ"
-  - title: "University Forum with Arts Dean"
+  - title: "University Forum with Arts Dean Celine Parreñas Shimizu"
     date: "2022-04-20"
     starttime: "5:30pm"
     endtime: "7:00pm"
