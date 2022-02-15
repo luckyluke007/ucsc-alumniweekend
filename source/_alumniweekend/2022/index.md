@@ -32,7 +32,7 @@ featured:
     date: "2022-04-22"
     starttime: "6:00pm"
     endtime: "8:00pm"
-    image: "/assets/images/2021/mah-featured.jpg"
+    image: "/assets/images/2022/mah-featured.jpg"
     description: "Details to come"
     url: "https://calendar.ucsc.edu/event/strange_weather_alumni_reception_at_the_mah#.YfrRfS-cbOQ"
   - title: 'Confronting Climate Change Conference - Community Fair'
