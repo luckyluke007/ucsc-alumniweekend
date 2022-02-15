@@ -14,7 +14,7 @@ search: exclude
 {: .underline}
 ## {{ page.title }}
 
-### Hotel Paradox
+### [Hotel Paradox](https://www.hotelparadox.com)
 ![Hotel Paradox](/assets/images/hotels/hotel-paradox.jpg){:class="img-full"}
 
 **611 Ocean St., Santa Cruz, CA 95060**
@@ -26,7 +26,7 @@ Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beache
 
 ---
 
-### Fairfield Inn and Suites Santa Cruz
+### [Fairfield Inn and Suites Santa Cruz](https://www.marriott.com/hotels/maps/travel/sjccr-fairfield-inn-and-suites-santa-cruz/)
 ![Fairfield Inn and Suites Santa Cruz hotel](/assets/images/hotels/fairfield-inn.jpg){:class="img-full"}
 
 **2956 Mission Street, Santa Cruz, CA 95060**
@@ -37,7 +37,7 @@ Overlooking Monterey Bay, this informal, contemporary hotel is a 10-minute walk 
 
 ---
 
-### Dream Inn
+### [Dream Inn](https://www.dreaminnsantacruz.com)
 ![Fairfield Inn and Suites Santa Cruz hotel](/assets/images/hotels/dream-inn.jpg){:class="img-full"}
 
 **175 W. Cliff Dr., Santa Cruz, CA 95060**
@@ -49,14 +49,14 @@ A Santa Cruz favorite for surfing, sunsets and the freshest seafood, the Dream I
 
 ---
 
-### Hampton Inn Santa Cruz West
+### [Hampton Inn Santa Cruz West](https://www.hilton.com/en/hotels/sjcmshx-hampton-santa-cruz-west/?SEO_id=GMB-HX-SJCMSHX&y_source=1_MTk4ODM1NTYtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl)
 ![Hampton Inn Santa Cruz West/Santa Cruz](/assets/images/hotels/hampton.jpg){:class="img-full"}
 
 **2424 Mission Street, Santa Cruz, CA 95060**
 
 We are off State hwy 1 in Santa Cruz. Mitchell Cove, Natural Bridges, and Lighthouse Field State beaches are all within a two-mile radius. The Santa Cruz Beach Boardwalk is a ten-minute drive away. Visit the Surfing Museum and Surfers Memorial two miles away. Enjoy the sun on our outdoor patio.
 
-**Phone Reservation:** (831) 316-3500 or [book online](https://www.hilton.com/en/hotels/sjcmshx-hampton-santa-cruz-west/?SEO_id=GMB-HX-SJCMSHX&y_source=1_MTk4ODM1NTYtNzE1LWxvY2F0aW9uLmdvb2dsZV93ZWJzaXRlX292ZXJyaWRl)
+**Phone Reservation:** (831) 316-3500
 
 
 
