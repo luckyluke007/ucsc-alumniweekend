@@ -14,6 +14,13 @@ billboard:
   register-url: '#'
 
 featured:
+  - title: 'Banana Slug Trivia Night!'
+    date: "2022-04-19"
+    starttime: "6:00pm"
+    endtime: "7:00pm"
+    image: "/assets/images/2022/trivia-night-featured.jpg"
+    description: "A virtual trivia night for all alumni."
+    url: "https://calendar.ucsc.edu/event/banana_slug_trivia_night_117#.Ygv8Dy-cbOQ"
   - title: "University Forum with Julia Calderone & Nicholas St. Fleur"
     date: "2022-04-19"
     starttime: "5:30pm"
@@ -49,13 +56,6 @@ featured:
     image: "/assets/images/2022/alumni-week-art-featured.jpg"
     description: "The annual Beer & Wine Reception, celebrating the 30th anniversary of the Alumni Association Scholarship, on Saturday afternoon in the beautiful setting of Quarry Amphitheater. Sponsored by the Alumni Association."
     url: "https://calendar.ucsc.edu/event/elephant_seals_at_ucscs_ano_nuevo_reserve#.YGYLii2cbOS"
-  - title: ' Keynote Lecture TBD'
-    date: "2021-04-23"
-    starttime: ""
-    endtime: ""
-    image: "/assets/images/2021/kraw-banner.jpg"
-    description: "Details to come"
-    url: "#"  
 
 ---
 
