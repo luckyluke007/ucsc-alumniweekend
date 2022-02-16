@@ -16,7 +16,7 @@ search: exclude
 
 **Q: Will all the events be in person this year?**
 
-**A:** This year will be a hybrid Alumni Week with events offered virtually and in person. Check out the list of events for details for each event. 
+**A:** This year will be a hybrid Alumni Week with events offered virtually and in person. [Check out the list of events for details for each event](https://calendar.ucsc.edu/alumni_week). 
 
 **Q: What platform will be used for virtual events?**
 
