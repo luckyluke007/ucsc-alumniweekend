@@ -26,7 +26,7 @@ featured:
     starttime: "5:30pm"
     endtime: "7:00pm"
     image: "/assets/images/2022/uf-banner.jpg"
-    description: "Journalism has been critical to helping society understand and react to the COVID pandemic, which has spurred an unprecedented demand for accurate science communication. But how do journalists separate facts from misinformation when scientific knowledge changes constantly? And how do journalists remain focused when themselves living through the disruption of the pandemic? Two alums of UC Santa Cruz's prestigious Science Communication Program share what they have learned by covering the biggest science and health story of our lifetimes."
+    description: "Journalism has been critical to helping society understand and react to the COVID pandemic, which has spurred an unprecedented demand for accurate science communication. Two alums of UC Santa Cruz's prestigious Science Communication Program share what they have learned by covering the biggest science and health story of our lifetimes."
     url: "https://calendar.ucsc.edu/event/university_forum_featuring_julia_calderone_nicholas_st_fleur#.Yg0spS-cbOQ"
   - title: "Art at Work in the World: Justice, Decolonization, and Collaboration in the New EASP MFA"
     date: "2022-04-20"
