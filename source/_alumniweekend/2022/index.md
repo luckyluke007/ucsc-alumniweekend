@@ -33,7 +33,7 @@ featured:
     starttime: "5:30pm"
     endtime: "7:00pm"
     image: "/assets/images/2022/uf-banner.jpg"
-    description: "Art, the systems and institutions that surround and support art, and the people who make art are constantly evolving in relation to worlds in flux. In these uncertain times of climate crisis and of the persistence of extreme racial and other social inequities, art’s boundary-crossing, associative and connective possibilities can reach across perceived divisions and create new forms for understanding and action. Tonight, we share with you a few examples of some of the practice-based research projects already underway among our first cohort of our new Graduate MFA in Environmental Art and Social Practice."
+    description: "In these uncertain times of climate crisis and the persistence of extreme racial and other social inequities, art’s boundary-crossing, associative, and connective possibilities can reach across perceived divisions and create new forms for understanding and action. Tonight, we share examples of some of the practice-based research projects underway among the first cohort of our new graduate MFA in Environmental Art and Social Practice."
     url: "https://calendar.ucsc.edu/event/university_forum_with_arts_dean_celine_parreas_shimizu#.Yg0s9S-cbOQ"
   - title: "Strange Weather Alumni Reception at the MAH"
     date: "2022-04-22"
