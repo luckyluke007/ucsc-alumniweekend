@@ -13,7 +13,7 @@ billboard:
   subhead: "Celebrating Alumni Voices"
   description: "Virtual & In Person"
   action-text: Register Now
-  register-url: '#'
+  register-url: 'https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4202&cid=8750'
 
 featured:
   - title: 'Banana Slug Trivia Night!'
@@ -57,7 +57,7 @@ featured:
     endtime: "6:00pm"
     image: "/assets/images/2022/alumni-week-art-featured.jpg"
     description: "Cheers to 30 years! Celebrating three decades of alumni supporting students. Join us for our annual Alumni Week reception, celebrating the 30th anniversary of the Alumni Association Scholarship, on Saturday afternoon in the beautiful setting of the Cowell Courtyard. Sponsored by the Alumni Association."
-    url: "https://calendar.ucsc.edu/event/elephant_seals_at_ucscs_ano_nuevo_reserve#.YGYLii2cbOS"
+    url: "https://calendar.ucsc.edu/event/annual_beer_and_wine_reception#.Yg6m4i-cbOQ"
 
 ---
 
