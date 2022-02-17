@@ -5,7 +5,6 @@ layout: page
 order: 3
 
 published: true
-search: exclude
 
 ---
 {: .underline}

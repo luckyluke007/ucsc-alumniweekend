@@ -26,7 +26,6 @@ plan:
 nav: yes
 
 published: true
-search: exclude
 ---
 {: .underline}
 ## {{ page.title }}
