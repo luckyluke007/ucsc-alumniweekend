@@ -48,7 +48,7 @@ featured:
     endtime: "4:00pm"
     image: "/assets/images/2022/climate-conference.jpg"
     description: "The Confronting Climate Change is an annual public lecture series that brings together scientists, artists, policy experts, and community members to discuss our planet’s wellbeing and share solutions for our future."
-    url: "https://calendar.ucsc.edu/event/confronting_climate_change_conference_-_community_fair#.YfrSAi-cbOQ"
+    url: "https://calendar.ucsc.edu/event/confronting_climate_change_conferencencommunity_fair#.Yg5jki-cbOQ"
   - title: "Cheers to 30 Years: Celebrating Alumni Supporting Students"
     date: "2022-04-23"
     starttime: "4:00pm"
