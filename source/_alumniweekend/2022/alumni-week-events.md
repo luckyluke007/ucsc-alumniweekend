@@ -6,7 +6,6 @@ category: aw-2022
 order: 2
 
 published: true
-search: exclude
 
 ---
 {: .underline}

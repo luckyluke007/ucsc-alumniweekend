@@ -6,7 +6,7 @@ layout: page
 category: aw-2022
 
 published: true
-search: exclude
+
 ---
 {: .underline}
 ## {{ page.title }}
