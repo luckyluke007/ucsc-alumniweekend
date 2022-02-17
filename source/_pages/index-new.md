@@ -49,7 +49,7 @@ featured:
     starttime: "10:00am"
     endtime: "4:00pm"
     image: "/assets/images/2022/climate-conference.jpg"
-    description: "The Confronting Climate Change is an annual public lecture series that brings together scientists, artists, policy experts, and community members to discuss our planet’s wellbeing and share solutions for our future."
+    description: "Cap of the weekend with a family-friendly festival at the Seymour Marine Discovery. Dozens of researchers, nonprofits, businesses, and public agencies will set up booths so that you can learn what environmental work is happening right here in our community and how you can get involved. Enjoy food, music, and games alongside science and climate action."
     url: "https://calendar.ucsc.edu/event/confronting_climate_change_conferencencommunity_fair#.Yg5jki-cbOQ"
   - title: "Cheers to 30 Years: Celebrating Alumni Supporting Students"
     date: "2022-04-23"
