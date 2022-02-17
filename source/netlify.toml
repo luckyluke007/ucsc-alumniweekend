@@ -136,8 +136,14 @@
   status = 301
   force = true
 
-  [[redirects]]
-    from = "/alumniweekend/2022/index-new.html"
-    to = "/alumniweekend/2022/index.html"
-    status = 301
-    force = true
+[[redirects]]
+  from = "/alumniweekend/2022/index-new.html"
+  to = "/alumniweekend/2022/index.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/alumniweekend/2022/"
+  to = "/"
+  status = 301
+  force = true
