@@ -13,7 +13,7 @@ billboard:
   subhead: "Celebrating Alumni Voices"
   description: "Virtual & In Person"
   action-text: Register Now
-  register-url: '#'
+  register-url: 'https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4202&cid=8750'
 
 featured:
   - title: 'Banana Slug Trivia Night!'
