@@ -18,6 +18,7 @@ featured:
     date: "2022-04-19"
     starttime: "6:00pm"
     endtime: "7:00pm"
+    location: "Virtual Event"
     image: "/assets/images/2022/trivia-night-featured.jpg"
     description: "A virtual trivia night for all alumni."
     url: "https://calendar.ucsc.edu/event/banana_slug_trivia_night_117#.Ygv8Dy-cbOQ"
@@ -25,6 +26,7 @@ featured:
     date: "2022-04-19"
     starttime: "5:30pm"
     endtime: "7:00pm"
+    location: "Virtual Event"
     image: "/assets/images/2022/uf-banner.jpg"
     description: "Journalism has been critical to helping society understand and react to the COVID pandemic, which has spurred an unprecedented demand for accurate science communication. Two alums of UC Santa Cruz's prestigious Science Communication Program share what they have learned by covering the biggest science and health story of our lifetimes."
     url: "https://calendar.ucsc.edu/event/university_forum_featuring_julia_calderone_nicholas_st_fleur#.Yg0spS-cbOQ"
@@ -32,6 +34,7 @@ featured:
     date: "2022-04-20"
     starttime: "5:30pm"
     endtime: "7:00pm"
+    location: "Virtual Event"
     image: "/assets/images/2022/uf-banner.jpg"
     description: "In these uncertain times of climate crisis and the persistence of extreme racial and other social inequities, art’s boundary-crossing, associative, and connective possibilities can reach across perceived divisions and create new forms for understanding and action. Tonight, we share examples of some of the practice-based research projects underway among the first cohort of our new graduate MFA in Environmental Art and Social Practice."
     url: "https://calendar.ucsc.edu/event/university_forum_with_arts_dean_celine_parreas_shimizu#.Yg0s9S-cbOQ"
@@ -39,6 +42,7 @@ featured:
     date: "2022-04-22"
     starttime: "6:00pm"
     endtime: "8:00pm"
+    location: "Museum of Art and History"
     image: "/assets/images/2022/mah-featured.jpg"
     description: "Join us at the Santa Cruz Museum of Art & History for refreshments, mingling, and viewing the exhibit Strange Weather, which brings together works by influential artists from the 20th and 21st century that creatively illuminate and reframe the boundaries of bodies and the environment."
     url: "https://calendar.ucsc.edu/event/strange_weather_alumni_reception_at_the_mah#.YfrRfS-cbOQ"
@@ -46,6 +50,7 @@ featured:
     date: "2022-04-23"
     starttime: "10:00am"
     endtime: "4:00pm"
+    location: "Seymour Marine Discovery Center"
     image: "/assets/images/2022/climate-conference.jpg"
     description: "The Confronting Climate Change is an annual public lecture series that brings together scientists, artists, policy experts, and community members to discuss our planet’s wellbeing and share solutions for our future."
     url: "https://calendar.ucsc.edu/event/confronting_climate_change_conferencencommunity_fair#.Yg5jki-cbOQ"
@@ -53,6 +58,7 @@ featured:
     date: "2022-04-23"
     starttime: "4:00pm"
     endtime: "6:00pm"
+    location: "Cowell Courtyard"
     image: "/assets/images/2022/alumni-week-art-featured.jpg"
     description: "Cheers to 30 years! Celebrating three decades of alumni supporting students. Join us for our annual Alumni Week reception, celebrating the 30th anniversary of the Alumni Association Scholarship, on Saturday afternoon in the beautiful setting of the Cowell Courtyard. Sponsored by the Alumni Association."
     url: "https://calendar.ucsc.edu/event/annual_beer_and_wine_reception#.Yg6m4i-cbOQ"
@@ -94,7 +100,7 @@ featured:
                 {% if featured.endtime != null %} to {{ featured.endtime }} {% endif %}
                 </div>
                 <div class="location">
-                  <i class="fa fa-map-marker turquiose-text"></i> Virtual Event
+                  <i class="fa fa-map-marker turquiose-text"></i> {{ featured.location }}
                 </div>
               </span>
             </div>
