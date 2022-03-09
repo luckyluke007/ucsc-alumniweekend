@@ -7,7 +7,7 @@ category: aw-2022
 permalink: /
 
 billboard:
-  date: "April 19-22, 2022"
+  date: "April 19-24, 2022"
   hero-title: "Alumni Week 2022"
   subhead: "Celebrating Alumni Voices"
   description: "Virtual & In Person"
