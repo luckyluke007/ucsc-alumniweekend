@@ -131,6 +131,12 @@
   force = true
 
 [[redirects]]
+  from = "/alumniweekend/2022/who"
+  to = "https://connect.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4203&cid=8753&fid=8750"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/alumniweekend/2022/make-a-gift"
   to = "https://crowdfund.ucsc.edu/project/29511"
   status = 301
