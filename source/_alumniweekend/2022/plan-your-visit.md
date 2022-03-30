@@ -1,9 +1,10 @@
 ---
 title: Plan Your Visit
-description: 'Plan your Alumni Weekend 2020 with hotel deals and discounts, parking information, interactive map, and directions'
+description: 'Plan your Alumni Week 2022 with hotel, parking information, interactive map, and directions'
 layout: page
 category: aw-2022
 order: 4
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
 
 plan:
   - headline: Places to stay

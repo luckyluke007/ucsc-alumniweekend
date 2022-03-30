@@ -20,4 +20,26 @@
   <link rel='stylesheet' href='https://fonts.gstatic.com'>
   <!-- search -->
   <script src="https://unpkg.com/lunr/lunr.js"></script>
+
+  <meta content="{{page.title}}" property="og:title"/>
+  <meta content="{{ page.url }}" property="og:url"/>
+  <meta content="{{page.description}}" property="og:description"/>
+  <meta content="website" property="og:type"/>
+  {% if page.billboard.image != "" %}
+  <meta content="{{ site.url }}{{ page.image }}" property="og:image"/>
+  {% endif %}
+  <meta content="UC Santa Cruz Alumni Week" property="og:site_name"/>
+  <meta content="1322847221,508316988" property="fb:admins"/>
+  <meta content="https://www.facebook.com/ucsantacruz" property="article:publisher"/>
+
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@ucsc" name="twitter:site"/>
+  <meta content="{{ page.url }}" name="twitter:url"/>
+  <meta content="{{page.title}}" name="twitter:title"/>
+  <meta content="{{page.description}}" name="twitter:description"/>
+  {% if page.billboard.image != "" %}
+    <meta content="{{ site.url }}{{ page.image }}" name="twitter:image"/>
+  {% endif %}
+
+
 </head>
