@@ -1,9 +1,10 @@
 ---
 title: Places to stay
-description: 'Lodgin deals and discounts for Alumni Weekend 2022'
+description: 'Find Place to Stay for Alumni Week 2022'
 layout: page
 
 category: aw-2022
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
 
 
 published: true

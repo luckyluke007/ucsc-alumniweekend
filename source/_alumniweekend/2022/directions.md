@@ -4,6 +4,7 @@ description: 'Hop in the car—several major highways run to Santa Cruz. Or come
 layout: page
 
 category: aw-2022
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
 
 published: true
 ---

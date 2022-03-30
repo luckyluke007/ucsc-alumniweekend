@@ -5,6 +5,7 @@ description: "Save the date for Alumni Week 2022: A mix of virtual and in-person
 
 published: false
 search: exclude
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
 
 ---
 <div class="wrap">
