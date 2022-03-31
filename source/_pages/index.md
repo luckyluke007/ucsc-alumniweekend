@@ -72,7 +72,8 @@ featured:
   <section class="content-centered">
     <div class="grid-container large">
         <h2>{{ page.title }}</h2>
-        <p>Celebrating Alumni Voices with both virtual and in-person events—a mixtape of our favorite hits we've made just for you!</p>
+        <p>Celebrating Alumni Voices with both virtual and in-person events—a mixtape of our favorite hits we've made just for you!<br/>
+          <strong>All alumni and the community are warmly invited.</strong></p>
     </div>
   </section>
 </div>
