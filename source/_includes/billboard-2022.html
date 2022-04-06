@@ -167,6 +167,10 @@
     color: #003c6c;
   }
 
+  .component-wrapper {
+    padding:  0 30px;
+  }
+
   @media screen and (max-width: 31.125em) {
     .cloud,
     .cloud-right {
@@ -365,7 +369,23 @@
       color: #003c6c;
     }
   }
+
+  @media screen and (min-width: 64em) {
+    .hero-viewport.inner-page-standard {
+      padding: 0 0 1rem;
+    }
+  }
 </style>
+
+<div class="component-wrapper">
+  <section class="content-centered">
+    <div class="grid-container large">
+      <p><strong>Join us for Alumni Week!</strong> We will be Celebrating Alumni Voices all week long with virtual and in-person events—a mixtape of our favorite hits we've made just for you!</p>
+        <p>Check out the <a href="https://calendar.ucsc.edu/alumni_week">lineup of exciting events</a> we're offering throughout the week, pick and choose which events to attend, and most importantly have fun connecting with your fellow Banana Slugs and UCSC friends! All alumni and the community are warmly invited”. </p>
+    </div>
+  </section>
+</div>
+
 
 {% if page.billboard.hero-title != '' %}
 <div class="hero-viewport inner-page-standard wave-pattern blue">
