@@ -119,10 +119,10 @@
           <div class="cell large-3">
             <div class="subsite-brand-container">
               <a href="{{ site.baseurl }}/" aria-label="Return to Home">
-                {% if page.category == "aw-2020" %}
-                  <h1>{{ site.title }}</h1>
-                {% else %}
+                {% if page.category == "aw-2021" or  page.category == "aw-2022" %}
                   <h1>Alumni Week</h1>
+                {% else %}
+                  <h1>Alumni Weekend</h1>
                 {% endif %}
               </a>
             </div>

@@ -4,10 +4,10 @@
   <meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0" />
   <link href="{{ site.baseurl }}/favicon.ico" rel="shortcut icon"/>
   <link href="{{ site.baseurl }}/apple-touch-icon.png" rel="apple-touch-icon"/>
-  {% if page.category != "aw-2021" %}
-    <title>{{ page.title }}</title>
-  {% else %}
+  {% if page.category == "aw-2021" or  page.category == "aw-2022" %}
     <title>Alumni Week</title>
+  {% else %}
+    <title>{{ page.title }}</title>
   {% endif %}
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
       integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">

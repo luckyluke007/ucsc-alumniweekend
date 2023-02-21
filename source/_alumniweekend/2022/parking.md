@@ -3,7 +3,6 @@ title: Parking information
 description: 'General parking information for Alumni Week 2022'
 layout: page
 
-category: aw-2022
 og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
 
 published: true
