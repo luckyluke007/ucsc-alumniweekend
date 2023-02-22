@@ -57,7 +57,7 @@ How We’re Still Changing the World
 Heat! Climate Change and Human Health
 </h4>
           <p class="event-description">AJoin this discussion about the health effects of climate change. Presenters will discuss the social and economic transformations that will be required in order to address the health impacts of climate change, and together we will think about how climate change might inspire us to work towards a more livable future.</p>
-<p class="event-description">You will hear from esteemed panel speakers: Julie Livingston, New York University; Matthew Huber, Purdue University; and Bharat Venkat, UC Los Angeles. The event will be moderated by Andrew Mathews, UC Santa Cruz</p>
+<p class="event-description">You will hear from <a href="https://confrontingclimatechange.ucsc.edu/program/speakers.html">esteemed panel speakers</a>: Julie Livingston, New York University; Matthew Huber, Purdue University; and Bharat Venkat, UC Los Angeles. The event will be moderated by Andrew Mathews, UC Santa Cruz</p>
           <div class="tags">
               <span class="topics-title">
                   <div class="time">
