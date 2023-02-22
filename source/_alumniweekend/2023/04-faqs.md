@@ -4,7 +4,7 @@ description: 'FAQs Alumni Weekend 2023'
 layout: page
 category: "aw-2023"
 order: 5
-og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 published: true
 

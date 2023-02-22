@@ -4,7 +4,7 @@ description: 'We will be building a special photo wall compiled of the photos fr
 layout: page
 order: 8
 category: aw-2023
-og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 published: true
 

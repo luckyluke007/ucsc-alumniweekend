@@ -4,7 +4,7 @@ description: 'Alumni Week 2023 events and register for your events'
 layout: page
 category: aw-2023
 order: 2
-og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 published: true
 

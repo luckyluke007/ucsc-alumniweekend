@@ -5,7 +5,7 @@ layout: page
 
 category: aw-2023
 
-og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 published: true
 

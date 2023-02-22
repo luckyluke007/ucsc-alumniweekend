@@ -5,7 +5,7 @@ description: "Celebrating Alumni Week in true 2022 style. Have fun, remember you
 
 category: "aw-2023"
 order: 1
-og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 
 welcome:
