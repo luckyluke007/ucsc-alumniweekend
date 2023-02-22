@@ -4,7 +4,7 @@ description: 'Plan your Alumni Week 2022 with hotel, parking information, intera
 layout: page
 category: "aw-2023"
 order: 3
-og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
+og-image: "hhttps://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 plan:
   - headline: Places to stay
