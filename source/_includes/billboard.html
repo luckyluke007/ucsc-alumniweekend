@@ -1,21 +1,7 @@
+
 {% if page.billboard.image != '' and page.category != "aw-2021" %}
-  <div class="hero-viewport inner-page-standard wave-pattern blue">
-    <div class="grid-container large">
-      <div class="hero-container">
-        <div id="hero" class="hero hero-text-left">
-          <img src="{{ page.billboard.image }}" alt="{{ page.billboard.alt-text }}" />
-          <div class="hero-text">
-              <p class="category"><large>{{ page.billboard.subtitle }}</large></p>
-              <h1 class="hero-header underline">{{ page.title }} {{ page.billboard.year }}</h1>
-              <p class="hero-body">{{ page.billboard.day }}, {{ page.billboard.month }} {{ page.billboard.date }}</p>
-               <p><a class="button primary expanded" href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=3896&cid=7843&fid=7843&gfid=9161">Register Now</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-{% else %}
-  {% if page.billboard.image != '' %}
+  {%- include custom-billboard.html -%}
+{% else page.billboard.image != '' %}
     <div class="hero-viewport yellow">
       <div class="hero-container">
         <div id="hero" class="hero hero-text-right">
@@ -32,5 +18,4 @@
         </div>
       </div>
     </div>
-  {% endif %}
 {% endif %}

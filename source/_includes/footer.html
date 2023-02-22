@@ -4,10 +4,10 @@
         <div class="grid-x grid-margin-x grid-padding-x large-padding-collapse large-margin-collapse">
           <div class="large-4 small-order-2 large-order-1 cell">
             <div class="contact-card">
-              {% if page.category == "aw-2020" %}
-                <h3>{{ site.title }}</h3>
+              {% if page.category == "aw-2021" or  page.category == "aw-2022" %}
+                <h1>Alumni Week</h1>
               {% else %}
-                <h3>Alumni Week</h3>
+                <h1>Alumni Weekend</h1>
               {% endif %}
               <strong>Email:</strong> <a href="mailto:specialevents@ucsc.edu" class="whitelink">specialevents@ucsc.edu</a><br>
               <strong>Phone:</strong> (831)459-5003<br>
@@ -42,8 +42,6 @@
                   {% endif %}
                 {% endfor %}
               {% endif %}
-              <li><a href="https://crowdfund.ucsc.edu/project/29511" aria-label="Make a Gift">Make a Gift</a></li>
-              <li><a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4202&cid=8750" aria-label="Register for Alumni Week">Register Now</a></li>
               <!--<li><a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=3896&cid=7843&fid=7843&gfid=9161" aria-label="Register Now">Register Now</a></li>-->
               </ul>
             </div>

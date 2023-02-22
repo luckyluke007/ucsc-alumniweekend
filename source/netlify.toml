@@ -149,6 +149,12 @@
   force = true
 
 [[redirects]]
+  from = "/alumniweekend/2023/register"
+  to = "https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4506&cid=9935&fid=9935&gfid=12816"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/alumniweekend/2022/"
   to = "/"
   status = 301
