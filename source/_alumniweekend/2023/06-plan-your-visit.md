@@ -1,6 +1,6 @@
 ---
 title: Plan Your Visit
-description: 'Plan your Alumni Week 2022 with hotel, parking information, interactive map, and directions'
+description: 'Plan your Alumni Week 2023 with hotel, parking information, interactive map, and directions'
 layout: page
 category: "aw-2023"
 order: 3

@@ -1,7 +1,7 @@
 ---
 layout: front-page
 title: Alumni Reunion Weekend
-description: "Celebrating Alumni Week in true 2022 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
+description: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973."
 
 category: "aw-2023"
 order: 1
