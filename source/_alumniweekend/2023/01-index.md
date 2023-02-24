@@ -46,7 +46,16 @@ welcome:
   title: "Alumni Reunion Weekend"
   message: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973. This meaningful weekend will be filled with college-specific events and special moments to honor alumni celebrating their 50th or greater reunion milestones. We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
   date: "Friday, April 14 - Saturday, April 15, 2023"
-  note: "<strong>Invite your classmates and schedule your weekend to reconnect and remember in the way most meaningful for you.</strong></p><p>Peruse the weekend event schedule and register! Reach out to classmates and encourage them to join you at Alumni Reunion Weekend."
+
+information:
+  - title: "Volunteer"
+    description: 'We have many <a href="https://alumni.ucsc.edu/volunteer/arw-volunteers.html">volunteer opportunities</a> for you to get involved now and during the weekend. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe91dHZ5027XdMNNU__YX4gXrwRCdAH3tKNmfLz6kkxdz5bog/viewform">Sign-up to volunteer</a>.'
+    image: '/assets/images/2023/volunteer-photo.jpg'
+    layout: right
+  - title: "Share Your UCSC Photos"
+    description: 'We will be building a special photo wall compiled of images you and your classmates send in from your student days on campus as a student at UCSC. Please email us your photos in any format to <a href="mailto:alumni@ucsc.edu">alumni@ucsc.edu</a>.'
+    image: '/assets/images/2023/share-photo-1.jpg' 
+    layout: left
 
 
 permalink: /alumniweekend/2023/
@@ -105,33 +114,21 @@ permalink: /alumniweekend/2023/
 </div>
 
 
-<section class="content-w-media right">
+{% for information in page.information %}
+<section class="content-w-media {{ information.layout }}">
   <div class="grid-container large">
     <div class="inner">
       <div class="content">
-        <h2 class="underline">Volunteer</h2>
-        <p>We have many <a href="https://alumni.ucsc.edu/volunteer/arw-volunteers.html">volunteer opportunities</a> for you to get involved now and during the weekend. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe91dHZ5027XdMNNU__YX4gXrwRCdAH3tKNmfLz6kkxdz5bog/viewform">Sign-up to volunteer</a>.</p>
+        <h2 class="underline">{{ information.title }}</h2>
+        <p>{{ information.description }}</p>
       </div>
       <div class="media">
-          <img src="/assets/images/2023/volunteer-photo.jpg">
+          <img src="{{ information.image }}">
       </div>
     </div>
   </div>
 </section>
-
-<section class="content-w-media left">
-  <div class="grid-container large">
-    <div class="inner">
-      <div class="content">
-        <h2 class="underline">Share Your UCSC Photos</h2>
-        <p>We will be building a special photo wall compiled of images you and your classmates send in from your student days on campus as a student at UCSC. Please email us your photos in any format to <a href="mailto:alumni@ucsc.edu">alumni@ucsc.edu</a>.</p>
-      </div>
-      <div class="media">
-          <img src="/assets/images/2023/share-photo-1.jpg">
-      </div>
-    </div>
-  </div>
-</section>
+{% endfor %}
 
 
 
