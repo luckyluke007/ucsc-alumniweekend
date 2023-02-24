@@ -3,7 +3,6 @@ title: Volunteer
 description: 'There are exciting volunteer opportunities available to help with outreach, planning and fundraising.'
 layout: page
 
-category: "aw-2023"
 order: 5
 og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 

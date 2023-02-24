@@ -24,7 +24,7 @@ permalink: /alumniweekend/2023/events
     </div>
     <div class="inner">
       <div class="card-content">
-          <h4 class="header">Class of ‘73 Virtual Kick-Off<br/>
+          <a id="featured-1"></a><h4 class="header">Class of ‘73 Virtual Kick-Off<br/>
 How We’re Still Changing the World
 </h4>
           <p class="event-description">As the Class of ‘73 celebrates its 50th anniversary, classmates will come together to reflect on how they are still changing the world. Hear and share more about how the Class of ‘73 has been at the forefront of progress over the past 50 years. Come celebrate the transformative impact of fellow classmates and colleagues.</p>
@@ -113,7 +113,7 @@ Heat! Climate Change and Human Health
     </div>
     <div class="inner">
       <div class="card-content">
-          <h4 class="header">50+ Year Reunion Celebration<br/><em>Celebrating and honoring our Golden Slug alumni from the Classes of 1965-1973</em></h4>
+          <a id="featured-2"></a><h4 class="header">50+ Year Reunion Celebration<br/><em>Celebrating and honoring our Golden Slug alumni from the Classes of 1965-1973</em></h4>
           <p class="event-description">This is the weekend’s main event where alumni from graduating classes 1965 to 1973 will gather together to celebrate their milestone reunion. They will be presented with the distinct recognition for their part in the history of UC Santa Cruz.</p>
           <p class="event-description">The evening will bring us together to remember our history, celebrate what we have done, and enjoy who we are today. Chancellor Larive will recognize UCSC’s Golden Slug Alumni for their historical contributions in the universities foundation, for the path they helped forge for more than 140,000 students, and for their contributions to the university and the world.</p>
           <p class="event-description">Come enjoy each other’s company, hors d'oeuvres, beverages, wine, beer, music, great conversations, photos from your student days on campus, and a moment to remember classmates.</p>
