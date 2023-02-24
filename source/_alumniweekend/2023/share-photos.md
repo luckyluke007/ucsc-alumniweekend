@@ -3,7 +3,6 @@ title: Share Your Photos
 description: 'We will be building a special photo wall compiled of the photos from your days'
 layout: page
 order: 8
-category: aw-2023
 og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 published: true
