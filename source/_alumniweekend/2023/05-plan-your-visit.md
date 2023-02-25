@@ -8,11 +8,11 @@ og-image: "hhttps://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 plan:
   - headline: Places to stay
-    description: Several local hotels have set aside rooms for Alumni Weekend guests, with some offering special rates.
+    description: Several local hotels have set aside rooms for Alumni Reunion Weekend guests, with some offering special rates.
     image: /assets/images/hotels.jpg
     link: /alumniweekend/2023/hotels
   - headline: Parking information
-    description: All you need to know about parking on campus for Alumni Weekend. Check back often for updated information as the weekend draws closer.
+    description: All you need to know about parking on campus for Alumni Reunion Weekend. Check back often for updated information as the weekend draws closer.
     image: /assets/images/parking.jpg
     link: /alumniweekend/2023/parking
   - headline: Directions to campus
