@@ -18,7 +18,7 @@ featured:
     starttime: "5:30pm"
     endtime: "7:00pm"
     location: "Virtual Event"
-    image: "/assets/images/2022/trivia-night-featured.jpg"
+    image: "/assets/images/2023/class-73.jpg"
     description: "As the Class of ’73 celebrates its 50th anniversary, classmates will come together to reflect on how they are still changing the world. Hear and share about how the Class of ’73 has been at the forefront of progress over the past 50 years. Come celebrate the transformative impact of fellow classmates and colleagues."
     url: "/alumniweekend/2023/events#featured-1"
   - title: '50+ Year Reunion Celebrating and honoring our Golden Slug alumni from the classes of 1965-1973 Stevenson Events Center'
@@ -26,7 +26,7 @@ featured:
     starttime: "6:00pm"
     endtime: "9:00pm"
     location: "Stevenson Event Center"
-    image: "/assets/images/2022/trivia-night-featured.jpg"
+    image: "/assets/images/2023/50-celebration.jpg"
     description: "This is the weekend’s main event where alumni from graduating classes 1965 to 1973 will gather together to celebrate their milestone reunion. Alumni will be presented with the distinct recognition for their part in the history of UC Santa Cruz."
     url: "/alumniweekend/2023/events#featured-2"
   - title: 'College Gatherings'
@@ -34,7 +34,7 @@ featured:
     starttime: ""
     endtime: ""
     location: "Stevenson Event Center"
-    image: "/assets/images/2022/trivia-night-featured.jpg"
+    image: "/assets/images/2023/college-gathering.jpg"
     description: "Attend one of the many college hosted events to gather with classmates from your college in the libraries, dining halls and lounges you once called home. Review the full event listings to see events organized by college."
     url: "#"
   - title: 'Then and Now Rolling Tours of UCSC'
@@ -42,7 +42,7 @@ featured:
     starttime: "1:00pm"
     endtime: "3:00pm"
     location: "Meet in the Cowell Circle "
-    image: "/assets/images/2022/trivia-night-featured.jpg"
+    image: "/assets/images/2023/then-now-tours.jpg"
     description: "Hop aboard and join Larry Pageler (Crown, ’77) on a driving tour of campus to learn campus history, explore what is new and reminisce about our time as students."
     url: "#"
 
