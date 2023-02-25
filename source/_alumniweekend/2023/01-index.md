@@ -71,7 +71,7 @@ permalink: /alumniweekend/2023/
 
 
 <section class="heading">
-  <h2 class="underline">Featured Events</h2>
+  <h2 class="underline">Highlighted Events</h2>
 </section>
 <div class="events-card-list fade-out-siblings">
   {% for featured in page.featured %}
