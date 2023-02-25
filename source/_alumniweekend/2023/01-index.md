@@ -31,7 +31,7 @@ featured:
     location: "Stevenson Event Center"
     image: "/assets/images/2022/trivia-night-featured.jpg"
     description: "Attend one of the many college hosted events to gather with classmates from your college in the libraries, dining halls and lounges you once called home. Review the full event listings to see events organized by college."
-    url: "/alumniweekend/2023/events#featured-3"
+    url: "#"
   - title: 'Then and Now Rolling Tours of UCSC'
     date: "2023-04-15"
     starttime: "1:00pm"
@@ -39,7 +39,7 @@ featured:
     location: "Meet in the Cowell Circle "
     image: "/assets/images/2022/trivia-night-featured.jpg"
     description: "Hop aboard and join Larry Pageler (Crown, ’77) on a driving tour of campus to learn campus history, explore what is new and reminisce about our time as students."
-    url: "/alumniweekend/2023/events#featured-4"
+    url: "#"
 
 
 welcome:
