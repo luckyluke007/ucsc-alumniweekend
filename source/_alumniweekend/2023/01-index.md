@@ -7,6 +7,11 @@ category: "aw-2023"
 order: 1
 og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
+welcome:
+  title: "Alumni Reunion Weekend"
+  message: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973. <br/><br/>This meaningful weekend will be filled with college-specific events and <br/><br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/><br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
+  date: "Friday, April 14 - Saturday, April 15, 2023"
+
 featured:
   - title: 'Class of ‘73 Virtual Kick-Off, How We’re Still Changing the World'
     date: "2023-04-13"
@@ -40,12 +45,6 @@ featured:
     image: "/assets/images/2022/trivia-night-featured.jpg"
     description: "Hop aboard and join Larry Pageler (Crown, ’77) on a driving tour of campus to learn campus history, explore what is new and reminisce about our time as students."
     url: "#"
-
-
-welcome:
-  title: "Alumni Reunion Weekend"
-  message: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973. This meaningful weekend will be filled with college-specific events and special moments to honor alumni celebrating their 50th or greater reunion milestones. We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
-  date: "Friday, April 14 - Saturday, April 15, 2023"
 
 information:
   - title: "Volunteer"
