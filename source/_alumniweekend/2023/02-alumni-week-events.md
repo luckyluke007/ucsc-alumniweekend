@@ -1,5 +1,5 @@
 ---
-title: Events Listing
+title: Events Schedule
 description: 'Alumni Week 2023 events and register for your events'
 layout: page
 category: aw-2023
