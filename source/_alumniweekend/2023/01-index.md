@@ -9,7 +9,7 @@ og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 welcome:
   title: "Alumni Reunion Weekend"
-  message: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973. <br/><br/>This meaningful weekend will be filled with college-specific events and <br/><br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/><br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
+  message: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973. <br/>This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
   date: "Friday, April 14 - Saturday, April 15, 2023"
 
 featured:
@@ -33,7 +33,7 @@ featured:
     date: "2023-04-15"
     starttime: ""
     endtime: ""
-    location: "Stevenson Event Center"
+    location: "Colleges"
     image: "/assets/images/2023/college-gathering.jpg"
     description: "Attend one of the many college hosted events to gather with classmates from your college in the libraries, dining halls and lounges you once called home. Review the full event listings to see events organized by college."
     url: "#"
@@ -90,8 +90,8 @@ permalink: /alumniweekend/2023/
             <div class="tags">
               <span class="topics-title">
                 <div class="time">
-                <i class="fa fa-clock-o turquiose-text"></i>{{ featured.date | date: "%A, %B %e, %Y" }} {% if featured.starttime != null %} at {% endif %}{{ featured.starttime }}
-                {% if featured.endtime != null %} to {{ featured.endtime }} {% endif %}
+                <i class="fa fa-clock-o turquiose-text"></i> {{ featured.date | date: "%A, %B %e, %Y" }} {% if featured.starttime != '' %} at {{ featured.starttime }} {% endif %}
+                {% if featured.endtime != '' %} to {{ featured.endtime }} {% endif %}
                 </div>
                 <div class="location">
                   <i class="fa fa-map-marker turquiose-text"></i> {{ featured.location }}
@@ -114,7 +114,7 @@ permalink: /alumniweekend/2023/
 
 
 {% for information in page.information %}
-<section class="content-w-media {{ information.layout }}">
+<section class="content-w-media {{ information.layout }}" style="margin: 0">
   <div class="grid-container large">
     <div class="inner">
       <div class="content">

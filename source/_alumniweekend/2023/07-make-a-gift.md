@@ -22,3 +22,5 @@ In honor of your 50th reunion milestone, please consider making a gift to suppor
 - Your college, the place you once called home as a living learning community
 - The Student Success Initiative to support current students
 - UCSC fund, providing resources for the University to fund its central priorities 
+
+<a class="button success large" href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=761&cid=1722">Make a Gift</a>
