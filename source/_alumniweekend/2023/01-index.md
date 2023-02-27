@@ -9,7 +9,8 @@ og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
 welcome:
   title: "Alumni Reunion Weekend"
-  message: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973. <br/>This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
+  subhead: "Celebrating our Golden Slug alumni from the classes of 1965-1973."
+  message: "This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
   date: "Friday, April 14 - Saturday, April 15, 2023"
 
 featured:
