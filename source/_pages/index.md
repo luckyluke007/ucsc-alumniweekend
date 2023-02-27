@@ -54,7 +54,7 @@ information:
     layout: left
 
 
-permalink: /alumniweekend/2023/
+permalink: /
 
 ---
 
