@@ -30,7 +30,7 @@ permalink: /alumniweekend/2023/plan-your-visit
 
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
 {% if page.plan %}
 <div class="generic-card-list fade-out-siblings">

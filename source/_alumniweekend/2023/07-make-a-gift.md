@@ -12,7 +12,7 @@ permalink: /alumniweekend/2023/make-a-gift
 
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
 
 We are honored to share that alumni who graduated in 1973 or before have given a collective total of over $28 million in support of UC Santa Cruz. Pioneer alumni are tremendous supporters. Over 60% of founding alumni have made a financial gift to the university. We are grateful for your dedication and philanthropic spirit.

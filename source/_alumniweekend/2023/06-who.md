@@ -12,7 +12,7 @@ permalink: /alumniweekend/2023/who
 
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
 
 Who’s coming to Alumni Reunion Weekend? 
