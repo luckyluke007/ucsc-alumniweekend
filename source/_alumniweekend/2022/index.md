@@ -4,7 +4,8 @@ title: Alumni Week 2022
 description: "Celebrating Alumni Week in true 2022 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
 
 category: aw-2022
-order: 1
+
+
 og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
 
 billboard:
@@ -66,6 +67,7 @@ featured:
     url: "https://calendar.ucsc.edu/event/annual_beer_and_wine_reception#.Yg6m4i-cbOQ"
 
 ---
+
 
 <section class="heading">
   <h2 class="underline">Featured Events</h2>
