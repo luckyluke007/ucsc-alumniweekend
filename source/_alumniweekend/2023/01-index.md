@@ -15,16 +15,14 @@ welcome:
 featured:
   - title: 'Class of ‘73 Virtual Kick-Off, How We’re Still Changing the World'
     date: "2023-04-13"
-    starttime: "5:30pm"
-    endtime: "7:00pm"
+    time: "5:30 - 7:00 p.m."
     location: "Virtual Event"
     image: "/assets/images/2023/class-73.jpg"
     description: "As the Class of ’73 celebrates its 50th anniversary, classmates will come together to reflect on how they are still changing the world. Hear and share about how the Class of ’73 has been at the forefront of progress over the past 50 years. Come celebrate the transformative impact of fellow classmates and colleagues."
     url: "/alumniweekend/2023/events#featured-1"
   - title: '50+ Year Reunion Celebrating and honoring our Golden Slug alumni from the classes of 1965-1973 Stevenson Events Center'
     date: "2023-04-14"
-    starttime: "6:00pm"
-    endtime: "9:00pm"
+    time: "6:00 - 9:00pm"
     location: "Stevenson Event Center"
     image: "/assets/images/2023/50-celebration.jpg"
     description: "This is the weekend’s main event where alumni from graduating classes 1965 to 1973 will gather together to celebrate their milestone reunion. Alumni will be presented with the distinct recognition for their part in the history of UC Santa Cruz."
@@ -36,15 +34,14 @@ featured:
     location: "Colleges"
     image: "/assets/images/2023/college-gathering.jpg"
     description: "Attend one of the many college hosted events to gather with classmates from your college in the libraries, dining halls and lounges you once called home. Review the full event listings to see events organized by college."
-    url: "#"
+    url: "/alumniweekend/2023/events#featured-3"
   - title: 'Then and Now Rolling Tours of UCSC'
     date: "2023-04-15"
-    starttime: "1:00pm"
-    endtime: "3:00pm"
+    time: "10:00 - 1:00 p.m. and 1:00 p.m. - 3:00 p.m."
     location: "Meet in the Cowell Circle "
     image: "/assets/images/2023/then-now-tours.jpg"
     description: "Hop aboard and join Larry Pageler (Crown, ’77) on a driving tour of campus to learn campus history, explore what is new and reminisce about our time as students."
-    url: "#"
+    url: "/alumniweekend/2023/events#featured-4"
 
 information:
   - title: "Volunteer"
@@ -90,8 +87,7 @@ permalink: /alumniweekend/2023/
             <div class="tags">
               <span class="topics-title">
                 <div class="time">
-                <i class="fa fa-clock-o turquiose-text"></i> {{ featured.date | date: "%A, %B %e, %Y" }} {% if featured.starttime != '' %} at {{ featured.starttime }} {% endif %}
-                {% if featured.endtime != '' %} to {{ featured.endtime }} {% endif %}
+                <i class="fa fa-clock-o turquiose-text"></i> {{ featured.date | date: "%A, %B %e, %Y" }} {% if featured.time != null %} at {{ featured.time }} {% endif %}
                 </div>
                 <div class="location">
                   <i class="fa fa-map-marker turquiose-text"></i> {{ featured.location }}
