@@ -22,7 +22,7 @@ published: true
 
 Brand new Marriott hotel located two-blocks to sandy beaches and the Santa Cruz Boardwalk. This facility is located 3 miles from campus and walking distance to downtown Santa Cruz. 
 
-**Phone Reservation:** (831) 419-8700 | [Online reservation](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675291598972&key=CORP&app=resvlink)
+**Phone Reservation:** (831) 419-8700 or [Online reservation](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675291598972&key=CORP&app=resvlink)
 
 ---
 
@@ -45,4 +45,4 @@ Hilton is offering a 15% discount if [booked through this link](https://www.hilt
 Hotel Paradox is a boutique downtown hotel near the Boardwalk. Santa Cruz beaches and downtown shopping and dining are minutes from our door. Located just off Highway 1 and Highway 17 in downtown Santa Cruz.
 
 
-**Phone Reservation**: (844) 236-8186 | [Online reservation](https://www.marriott.com/events/start.mi?id=1663102249630&key=CORP)
+**Phone Reservation**: (844) 236-8186 or [Online reservation](https://www.marriott.com/events/start.mi?id=1663102249630&key=CORP)
