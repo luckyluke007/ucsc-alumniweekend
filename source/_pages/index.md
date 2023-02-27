@@ -1,76 +1,73 @@
 ---
-layout: front-page-2022
-title: Alumni Week 2022
-description: "Celebrating Alumni Week in true 2022 style. Have fun, remember your roots, reignite your passions, and connect like never before as our first virtual Alumni Week zooms you back to campus."
+layout: front-page
+title: Alumni Reunion Weekend
+description: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973."
 
-category: aw-2022
-permalink: /
+category: "aw-2023"
+order: 1
+og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 
-og-image: "https://alumniweekend.ucsc.edu/assets/images/2022/og-image.jpg"
-
-billboard:
-  date: "April 19-24, 2022"
-  hero-title: "Alumni Week 2022"
-  subhead: "Celebrating Alumni Voices"
-  description: "Virtual & In Person"
-  action-text: Register Now
-  register-url: '#'
+welcome:
+  title: "Alumni Reunion Weekend"
+  message: "Alumni Reunion Weekend will celebrate our Golden Slug alumni from the classes of 1965-1973. <br/>This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
+  date: "Friday, April 14 - Saturday, April 15, 2023"
 
 featured:
-  - title: 'Banana Slug Trivia Night!'
-    date: "2022-04-19"
-    starttime: "6:00pm"
-    endtime: "7:00pm"
+  - title: 'Class of ‘73 Virtual Kick-Off, How We’re Still Changing the World'
+    date: "2023-04-13"
+    time: "5:30 - 7:00 p.m."
     location: "Virtual Event"
-    image: "/assets/images/2022/trivia-night-featured.jpg"
-    description: "A virtual trivia night for all alumni."
-    url: "https://calendar.ucsc.edu/event/banana_slug_trivia_night_117#.Ygv8Dy-cbOQ"
-  - title: "Global data, personal stories: Journalists documenting the COVID-19 pandemic"
-    date: "2022-04-19"
-    starttime: "5:30pm"
-    endtime: "7:00pm"
-    location: "Virtual Event"
-    image: "/assets/images/2022/uf-banner.jpg"
-    description: "Journalism has been critical to helping society understand and react to the COVID pandemic, which has spurred an unprecedented demand for accurate science communication. Two alums of UC Santa Cruz's prestigious Science Communication Program share what they have learned by covering the biggest science and health story of our lifetimes."
-    url: "https://calendar.ucsc.edu/event/university_forum_featuring_julia_calderone_nicholas_st_fleur#.Yg0spS-cbOQ"
-  - title: "Art at Work in the World: Justice, Decolonization, and Collaboration in the New EASP MFA"
-    date: "2022-04-20"
-    starttime: "5:30pm"
-    endtime: "7:00pm"
-    location: "Virtual Event"
-    image: "/assets/images/2022/uf-banner.jpg"
-    description: "In these uncertain times of climate crisis and the persistence of extreme racial and other social inequities, art’s boundary-crossing, associative, and connective possibilities can reach across perceived divisions and create new forms for understanding and action. Tonight, we share examples of some of the practice-based research projects underway among the first cohort of our new graduate MFA in Environmental Art and Social Practice."
-    url: "https://calendar.ucsc.edu/event/university_forum_with_arts_dean_celine_parreas_shimizu#.Yg0s9S-cbOQ"
-  - title: "Strange Weather Alumni Reception at the MAH"
-    date: "2022-04-22"
-    starttime: "6:00pm"
-    endtime: "8:00pm"
-    location: "Museum of Art and History"
-    image: "/assets/images/2022/mah-featured.jpg"
-    description: "Join us at the Santa Cruz Museum of Art & History for refreshments, mingling, and viewing the exhibit Strange Weather, which brings together works by influential artists from the 20th and 21st century that creatively illuminate and reframe the boundaries of bodies and the environment."
-    url: "https://calendar.ucsc.edu/event/strange_weather_alumni_reception_at_the_mah#.YfrRfS-cbOQ"
-  - title: 'Confronting Climate Change Conference—Climate Action Market'
-    date: "2022-04-23"
-    starttime: "10:00am"
-    endtime: "4:00pm"
-    location: "Seymour Marine Discovery Center"
-    image: "/assets/images/2022/climate-conference.jpg"
-    description: "The Confronting Climate Change is an annual public lecture series that brings together scientists, artists, policy experts, and community members to discuss our planet’s wellbeing and share solutions for our future."
-    url: "https://calendar.ucsc.edu/event/confronting_climate_change_conferencencommunity_fair#.Yg5jki-cbOQ"
-  - title: "Cheers to 30 Years: Celebrating Alumni Supporting Students"
-    date: "2022-04-23"
-    starttime: "4:00pm"
-    endtime: "6:00pm"
-    location: "Cowell Courtyard"
-    image: "/assets/images/2022/alumni-week-art-featured.jpg"
-    description: "Cheers to 30 years! Celebrating three decades of alumni supporting students. Join us for our annual Alumni Week reception, celebrating the 30th anniversary of the Alumni Association Scholarship, on Saturday afternoon in the beautiful setting of the Cowell Courtyard. Sponsored by the Alumni Association."
-    url: "https://calendar.ucsc.edu/event/annual_beer_and_wine_reception#.Yg6m4i-cbOQ"
+    image: "/assets/images/2023/class-73.jpg"
+    description: "As the Class of ’73 celebrates its 50th anniversary, classmates will come together to reflect on how they are still changing the world. Hear and share about how the Class of ’73 has been at the forefront of progress over the past 50 years. Come celebrate the transformative impact of fellow classmates and colleagues."
+    url: "/alumniweekend/2023/events#featured-1"
+  - title: '50+ Year Reunion Celebrating and honoring our Golden Slug alumni from the classes of 1965-1973 Stevenson Events Center'
+    date: "2023-04-14"
+    time: "6:00 - 9:00pm"
+    location: "Stevenson Event Center"
+    image: "/assets/images/2023/50-celebration.jpg"
+    description: "This is the weekend’s main event where alumni from graduating classes 1965 to 1973 will gather together to celebrate their milestone reunion. Alumni will be presented with the distinct recognition for their part in the history of UC Santa Cruz."
+    url: "/alumniweekend/2023/events#featured-2"
+  - title: 'College Gatherings'
+    date: "2023-04-15"
+    starttime: ""
+    endtime: ""
+    location: "Colleges"
+    image: "/assets/images/2023/college-gathering.jpg"
+    description: "Attend one of the many college hosted events to gather with classmates from your college in the libraries, dining halls and lounges you once called home. Review the full event listings to see events organized by college."
+    url: "/alumniweekend/2023/events#featured-3"
+  - title: 'Then and Now Rolling Tours of UCSC'
+    date: "2023-04-15"
+    time: "10:00 - 1:00 p.m. and 1:00 p.m. - 3:00 p.m."
+    location: "Meet in the Cowell Circle "
+    image: "/assets/images/2023/then-now-tours.jpg"
+    description: "Hop aboard and join Larry Pageler (Crown, ’77) on a driving tour of campus to learn campus history, explore what is new and reminisce about our time as students."
+    url: "/alumniweekend/2023/events#featured-4"
+
+information:
+  - title: "Volunteer"
+    description: 'We have many <a href="https://alumni.ucsc.edu/volunteer/arw-volunteers.html">volunteer opportunities</a> for you to get involved now and during the weekend. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe91dHZ5027XdMNNU__YX4gXrwRCdAH3tKNmfLz6kkxdz5bog/viewform">Sign-up to volunteer</a>.'
+    image: '/assets/images/2023/volunteer-photo.jpg'
+    layout: right
+  - title: "Share Your UCSC Photos"
+    description: 'We will be building a special photo wall compiled of images you and your classmates send in from your student days on campus as a student at UCSC. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO1ruW2zO4p54UZ1XFC4MsGW_ii59kW4brb6PEa3a75GDgeg/viewform?fbzx=-5191569494008880752">Upload your old photos from your time at UCSC as a student for the Alumni Reunion Weekend photo wall.</a>'
+    image: '/assets/images/2023/share-photo-1.jpg' 
+    layout: left
+
+
+permalink: /alumniweekend/2023/
 
 ---
 
 
+<style>
+  .page-utilities {
+    display: none;
+  }
+</style>
+
+
 <section class="heading">
-  <h2 class="underline">Featured Events</h2>
+  <h2 class="underline">Highlighted Events</h2>
 </section>
 <div class="events-card-list fade-out-siblings">
   {% for featured in page.featured %}
@@ -90,8 +87,7 @@ featured:
             <div class="tags">
               <span class="topics-title">
                 <div class="time">
-                <i class="fa fa-clock-o turquiose-text"></i>{{ featured.date | date: "%A, %B %e, %Y" }} {% if featured.starttime != null %} at {% endif %}{{ featured.starttime }}
-                {% if featured.endtime != null %} to {{ featured.endtime }} {% endif %}
+                <i class="fa fa-clock-o turquiose-text"></i> {{ featured.date | date: "%A, %B %e, %Y" }} {% if featured.time != null %} at {{ featured.time }} {% endif %}
                 </div>
                 <div class="location">
                   <i class="fa fa-map-marker turquiose-text"></i> {{ featured.location }}
@@ -104,9 +100,30 @@ featured:
     </a>
   {% endfor %}
 </div>
+
 <!-- End three current events: Tag Home to display -->
 <div class="more no-border">
-  <a href="https://calendar.ucsc.edu/alumni_week" class="button primary">
+  <a href="/alumniweekend/2023/events" class="button primary">
     View more events
   </a>
 </div>
+
+
+{% for information in page.information %}
+<section class="content-w-media {{ information.layout }}" style="margin: 0">
+  <div class="grid-container large">
+    <div class="inner">
+      <div class="content">
+        <h2 class="underline">{{ information.title }}</h2>
+        <p>{{ information.description }}</p>
+      </div>
+      <div class="media">
+          <img src="{{ information.image }}">
+      </div>
+    </div>
+  </div>
+</section>
+{% endfor %}
+
+
+
