@@ -11,7 +11,7 @@ published: true
 
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
 **Friday,  April 14**
 

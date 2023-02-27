@@ -12,7 +12,7 @@ permalink: /alumniweekend/2023/events
 
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
 ### **Thursday**
 

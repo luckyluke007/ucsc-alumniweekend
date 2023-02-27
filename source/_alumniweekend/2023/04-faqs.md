@@ -12,7 +12,7 @@ permalink: /alumniweekend/2023/faqs
 
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
 
 **Q: Will all the events be in person this year?**

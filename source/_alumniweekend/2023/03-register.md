@@ -12,5 +12,5 @@ permalink: /alumniweekend/2023/register
 
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 

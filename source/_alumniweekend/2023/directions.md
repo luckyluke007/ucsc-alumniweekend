@@ -10,7 +10,7 @@ og-image: "https://alumniweekend.ucsc.edu/assets/images/2023/og-image.jpg"
 published: true
 ---
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
 ![Sign map at Alumni Weekend](/assets/images/2020/directions.jpg){:class="img-right-50"}
 **From Southern and Central California:**

@@ -13,9 +13,9 @@ published: true
 ---
 
 {: .underline}
-## {{ page.title }}
+# {{ page.title }}
 
-### [Courtyard by Marriott, Santa Cruz](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675291598972&key=CORP&app=resvlink)
+## [Courtyard by Marriott, Santa Cruz](https://www.marriott.com/event-reservations/reservation-link.mi?id=1675291598972&key=CORP&app=resvlink)
 ![Hampton Inn Santa Cruz West/Santa Cruz](/assets/images/hotels/courtyard.jpg){:class="img-full"}
 
 **313 Riverside Ave, Santa Cruz, CA 95060**
@@ -26,7 +26,7 @@ Brand new Marriott hotel located two-blocks to sandy beaches and the Santa Cruz 
 
 ---
 
-### [Hilton Santa Cruz/Scotts Valley](https://www.hilton.com/en/hotels/sjcsvhf-hilton-santa-cruz-scotts-valley/?SEO_id=GMB-AMER-HH-SJCSVHF&y_source=1_MTIyMDkzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
+## [Hilton Santa Cruz/Scotts Valley](https://www.hilton.com/en/hotels/sjcsvhf-hilton-santa-cruz-scotts-valley/?SEO_id=GMB-AMER-HH-SJCSVHF&y_source=1_MTIyMDkzOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D)
 ![Hilton Santa Cruz/Scotts Valley hotel](/assets/images/hotels/hilton-hotel.jpg){:class="img-full"}
 
 **6001 La Madrona Drive, Santa Cruz, CA 95060**
@@ -37,7 +37,7 @@ Hilton is offering a 15% discount if [booked through this link](https://www.hilt
 
 ---
 
-### [Hotel Paradox](https://www.marriott.com/event-reservations/reservation-link.mi?id=1663102249630&key=CORP&app=resvlink)
+## [Hotel Paradox](https://www.marriott.com/event-reservations/reservation-link.mi?id=1663102249630&key=CORP&app=resvlink)
 ![Hotel Paradox](/assets/images/hotels/hotel-paradox.jpg){:class="img-full"}
 
 **611 Ocean St., Santa Cruz, CA 95060**
