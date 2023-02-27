@@ -52,7 +52,7 @@ information:
     image: '/assets/images/2023/volunteer-photo.jpg'
     layout: right
   - title: "Share Your UCSC Photos"
-    description: 'We will be building a special photo wall compiled of images you and your classmates send in from your student days on campus as a student at UCSC. Please email us your photos in any format to <a href="mailto:alumni@ucsc.edu">alumni@ucsc.edu</a>.'
+    description: 'We will be building a special photo wall compiled of images you and your classmates send in from your student days on campus as a student at UCSC. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO1ruW2zO4p54UZ1XFC4MsGW_ii59kW4brb6PEa3a75GDgeg/viewform?fbzx=-5191569494008880752">Upload your old photos from your time at UCSC as a student for the Alumni Reunion Weekend photo wall.</a>'
     image: '/assets/images/2023/share-photo-1.jpg' 
     layout: left
 
