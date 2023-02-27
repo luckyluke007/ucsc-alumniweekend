@@ -68,7 +68,7 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     time: "12:00 - 1:00 pm"
     month: "Apr"
     date: 15 
-  - title: "Then and Now Rolling Tours of UCSC"
+  - title: '<a id="featured-4"></a>Then and Now Rolling Tours of UCSC'
     location: Meet in the Cowell Circle
     description: '<p class="event-description">Hop aboard and join Larry Pageler (Crown, ’77) on a driving tour of campus to learn campus history, explore what is new and reminisce about our time as students. After graduation, Larry worked on campus from 1983-2019 and became the Director of Transportation and Parking Services in 1990. He has been deeply involved in the last three Long Range Development Plans and well versed in campus history.</p>'
     time: "1:00 - 3:00 pm"
