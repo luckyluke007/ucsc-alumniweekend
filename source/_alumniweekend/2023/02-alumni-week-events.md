@@ -178,7 +178,7 @@ permalink: /alumniweekend/2023/events
           <div class="tags">
               <span class="topics-title">
                   <div class="time">
-                      <i class="fa fa-clock-o turquiose-text"></i> Friday, Apr 134at {{ friday.time }}
+                      <i class="fa fa-clock-o turquiose-text"></i> Friday, Apr 14 at {{ friday.time }}
                   </div>
                   <div class="location">
                       <i class="fa fa-map-marker turquiose-text"></i> {{ friday.location }}
