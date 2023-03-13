@@ -44,7 +44,7 @@ saturday:
     date: 15
   - title: "Connecting with Friends and Families at Cowell College"
     location: Eloise Pickard Smith Gallery at Cowell College
-    description: '<p class="event-description">Reception to celebrate alumni, students and Cowell affiliated families while honoring the opening of the spring exhibit with Robert Curio and Richard Deutch (Cowell ’76).</p>'
+    description: '<p class="event-description">Reception to celebrate alumni, students and Cowell affiliated families while honoring the opening of the spring exhibit with Robert Chiarito (Cowell ’70) and Richard Deutch (Cowell ’76).</p>'
     time: "10:00 - 12:00 pm"
     month: "Apr"
     date: 15
