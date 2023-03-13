@@ -94,7 +94,7 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     date: 15
   - title: "The John Dizikes Concert "
     location: 'Cowell Provost House'
-    description: '<p class="event-description">This treasured tradition of enjoying beautiful music in the company of friends promises a special moment to soak in so much that reflects UCSC and its impact in our lives in honor of a beloved founding faculty, John Dizikes.</p>'
+    description: '<p class="event-description">With an unbeatable view of the Monterey Bay, come join us at the Cowell Provost House for music, conversation, and libations. We will be closing out a day full of reaffirming past friendships and forging new ones while indulging in one of John Dizike’s passions; music.</p>'
     time: "3:00 - 5:00 pm"
     month: "Apr"
     date: 15
