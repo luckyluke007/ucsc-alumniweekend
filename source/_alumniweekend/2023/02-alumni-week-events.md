@@ -116,12 +116,6 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     time: "3:00 - 5:00 pm"
     month: "Apr"
     date: 15
-  - title: "Banana Slug Day"
-    location: 'N/A'
-    description: '<p class="event-description">This is a one day event on Saturday, April 15, 2023 hosted by Undergraduate Admissions. This event is  for admitted students and their families to visit the UC Santa Cruz campus. </p>'
-    time: "3:00 - 5:00 pm"
-    month: "Apr"
-    date: 15
 
 permalink: /alumniweekend/2023/events
 

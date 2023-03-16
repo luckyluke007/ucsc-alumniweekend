@@ -11,6 +11,10 @@ plan:
     description: Several local hotels have set aside rooms for Alumni Reunion Weekend guests, with some offering special rates.
     image: /assets/images/hotels.jpg
     link: /alumniweekend/2023/hotels
+  - headline: Other things to do
+    description: Check out other things you can do at Alumni Reunion Weekend 2023.
+    image: /assets/images/2023/other-things-to-do.jpg
+    link: /alumniweekend/2023/other-things
   - headline: Parking information
     description: All you need to know about parking on campus for Alumni Reunion Weekend. Check back often for updated information as the weekend draws closer.
     image: /assets/images/parking.jpg
