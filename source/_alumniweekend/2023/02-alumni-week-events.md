@@ -220,7 +220,7 @@ permalink: /alumniweekend/2023/events
 <hr>
 {% endfor %}
 
-[Other things to do](/alumniweekend/2023/other-things){:.button .primary}
+**While on campus, [check-out these additional offerings](/alumniweekend/2023/other-things)**.
 
 <style>
   .event-description {
