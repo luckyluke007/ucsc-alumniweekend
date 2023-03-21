@@ -49,8 +49,8 @@ information:
     description: 'We have many <a href="https://alumni.ucsc.edu/volunteer/arw-volunteers.html">volunteer opportunities</a> for you to get involved now and during the weekend. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe91dHZ5027XdMNNU__YX4gXrwRCdAH3tKNmfLz6kkxdz5bog/viewform">Sign-up to volunteer</a>.'
     image: '/assets/images/2023/volunteer-photo.jpg'
     layout: right
-  - title: "Share Your UCSC Photos"
-    description: 'We will be building a special photo wall compiled of images you and your classmates send in from your student days on campus as a student at UCSC. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO1ruW2zO4p54UZ1XFC4MsGW_ii59kW4brb6PEa3a75GDgeg/viewform?fbzx=-5191569494008880752">Upload your old photos from your time at UCSC as a student for the Alumni Reunion Weekend photo wall.</a>'
+  - title: "Digital Memory Book"
+    description: 'Share your UCSC memories and update classmates on where you are now. If you haven’t received an email invite to access the digital memory book, contact <a href="mailto:kjudd@ucsc.edu?subject=Digital%20Memory%20Book">Kayla Judd</a>.'
     image: '/assets/images/2023/share-photo-1.jpg' 
     layout: left
   - title: "Help Find Lost Alumni!"
