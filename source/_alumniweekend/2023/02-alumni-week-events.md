@@ -98,6 +98,12 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     time: "1:00 - 3:00 pm"
     month: "Apr"
     date: 15
+  - title: "Alumni Reception at the Porter Sesnon Gallery of Remove by X: UC Santa Cruz Arts Ephemera from the 20th Century"
+    location: 'Porter Sesnon Gallery'
+    description: "Join us for a special gallery reception of our current exhibition at the Sesnon Galleries, hosted by Keith Muscutt, Assistant Dean of the Arts from 1978-2007. Since the days of the pioneer Slugs, Keith has been collecting paper announcements posted around campus, amassing an archive of thousands of posters and flyers for art happenings come and gone. Come have a drink and reconnect with fellow alumni against the backdrop of a selection of Keith's archive, celebrating the vibrancy of the arts at UC Santa Cruz."
+    time: "3:00 - 5:00 pm"
+    month: "Apr"
+    date: 15
   - title: "The John Dizikes Concert "
     location: 'Cowell Provost House'
     description: "<p class='event-description'>With an unbeatable view of the Monterey Bay, come join us at the Cowell Provost House for music, conversation, and libations. We will be closing out a day full of reaffirming past friendships and forging new ones while indulging in one of John Dizike's passions; music.</p>"
