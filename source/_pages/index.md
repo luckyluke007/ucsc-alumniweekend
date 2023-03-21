@@ -53,6 +53,10 @@ information:
     description: 'We will be building a special photo wall compiled of images you and your classmates send in from your student days on campus as a student at UCSC. <a href="https://docs.google.com/forms/d/e/1FAIpQLSdO1ruW2zO4p54UZ1XFC4MsGW_ii59kW4brb6PEa3a75GDgeg/viewform?fbzx=-5191569494008880752">Upload your old photos from your time at UCSC as a student for the Alumni Reunion Weekend photo wall.</a>'
     image: '/assets/images/2023/share-photo-1.jpg' 
     layout: left
+  - title: "Help Find Lost Alumni!"
+    description: 'Over the years people move, change phone numbers, retire, create new email addresses and launch new social media profiles. We are asking for your help to find classmates we’ve lost touch with. If you have updated contact information for <a href="https://docs.google.com/spreadsheets/d/1_zyvwBJYMLJgws400imNdzGXCeQFGeYgqNrhnuLWTis/edit#gid=0">anyone on this list</a>, please reach out to <a href="mailto:alumni@ucsc.edu?subject=Help%20find%20lost%20alumni">alumni@ucsc.edu</a> so we can send them an invite to the weekend.'
+    image: '/assets/images/2023/lost-alumni.jpg'
+    layout: right
 
 
 permalink: /
@@ -125,14 +129,3 @@ permalink: /
   </div>
 </section>
 {% endfor %}
-
-<section class="content-centered">
-  <div class="grid-container large">
-      <h2>Help find lost alumni!</h2>
-      <p>Over the years people move, change phone numbers, retire, create new email addresses and launch new social media profiles. We are asking for your help to find classmates we’ve lost touch with. If you have updated contact information for <a href="https://docs.google.com/spreadsheets/d/1_zyvwBJYMLJgws400imNdzGXCeQFGeYgqNrhnuLWTis/edit#gid=0">anyone on this list</a>, please reach out to <a href="mailto:alumni@ucsc.edu?subject=Help%20find%20lost%20alumni">alumni@ucsc.edu</a> so we can send them an invite to the weekend. </p>
-      
-  </div>
-</section>
-
-
-
