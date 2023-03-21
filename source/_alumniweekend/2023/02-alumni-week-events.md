@@ -100,7 +100,7 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     date: 15
   - title: "Alumni Reception at the Porter Sesnon Gallery of Remove by X: UC Santa Cruz Arts Ephemera from the 20th Century"
     location: 'Porter Sesnon Gallery'
-    description: "Join us for a special gallery reception of our current exhibition at the Sesnon Galleries, hosted by Keith Muscutt, Assistant Dean of the Arts from 1978-2007. Since the days of the pioneer Slugs, Keith has been collecting paper announcements posted around campus, amassing an archive of thousands of posters and flyers for art happenings come and gone. Come have a drink and reconnect with fellow alumni against the backdrop of a selection of Keith's archive, celebrating the vibrancy of the arts at UC Santa Cruz."
+    description: "Join us for a special gallery reception of our current exhibition at the Sesnon Galleries, hosted by Keith Muscutt, Assistant Dean of the Arts from 1978-2007. Since the days of the pioneer Slugs, Keith has been collecting paper announcements posted around Porter College, then known as College Five, amassing an archive of thousands of posters and flyers for art happenings come and gone. Come have a drink and reconnect with fellow alumni against the backdrop of a selection of Keith's archive, celebrating the vibrancy of the arts at UC Santa Cruz."
     time: "3:00 - 5:00 pm"
     month: "Apr"
     date: 15
