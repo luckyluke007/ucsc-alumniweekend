@@ -220,6 +220,8 @@ permalink: /alumniweekend/2023/events
 <hr>
 {% endfor %}
 
+[Other things to do](/alumniweekend/2023/other-things){:.button .primary}
+
 <style>
   .event-description {
     font-size: 16px;
