@@ -21,7 +21,13 @@ thursday:
     time: "6:00 - 7:30 pm"
     month: "Apr"
     date: 13
-friday: 
+friday:
+  - title: 'Reception at McHenry Library'
+    location: McHenry Library, Gabriel Zimmerman Library Administrative Suite, Room 4221
+    description: 'We cordially invite you to a reception to celebrate and reminisce with old friends and start your Alumni Reunion Weekend. This is an opportunity to meet University Librarian Elizabeth Cowell, as well as other senior campus leadership, and connect with your former classmates. We will have a wonderful selection of photos from the Pictures and Progress: the Black Panther 1966-2016 exhibit, part of the Campus’ incredible <a href="https://news.ucsc.edu/2016/10/jones-baruch-gift.html">Pirkle Jones and Ruth-Marion Baruch collection</a>, on display. Every guest will receive a complimentary copy of the popular book <a href="https://exhibits.library.ucsc.edu/exhibits/show/seeds/home">Seeds of Something Different: An Oral History of the University of California, Santa Cruz</a>, which weaves together first-person accounts of the campus’s evolution, from the origins of an audacious dream through the sea changes of five decades.'
+    time: "4:30 - 5:30 pm"
+    month: "Apr"
+    date: 14
   - title: '<a id="featured-2"></a>50+ Class Reunion Celebration'
     location: Stevenson Events Center
     description: '<p class="event-description"><em>Celebrating and honoring our Golden Slug alumni from the classes of 1965-1973.</em></p><p class="event-description">This is the weekend’s main event where alumni from graduating classes 1965 to 1973 will gather together to celebrate their milestone reunion. Alumni will be presented with the distinct recognition for their part in the history of UC Santa Cruz.</p><p class="event-description">The evening will bring us together to remember our history, celebrate what we have done, and enjoy who we are today. Chancellor Larive will recognize UCSC’s Golden Slug Alumni for their historical contributions to the university’s foundation, for the path they helped forge for more than 140,000 students, and for their contributions to the university and the world.</p><p class="event-description">Come enjoy each other’s company, hors d’oeuvres, beverages, wine, beer, music, great conversations, photos from your student days on campus, and a moment to remember classmates.</p><p class="event-description">Join this special event as we celebrate you and your part in the first decade of UCSC.</p>'
@@ -92,6 +98,12 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     time: "1:00 - 3:00 pm"
     month: "Apr"
     date: 15
+  - title: "Alumni Reception at the Porter Sesnon Gallery of Remove by X: UC Santa Cruz Arts Ephemera from the 20th Century"
+    location: 'Porter Sesnon Gallery'
+    description: "Join us for a special gallery reception of our current exhibition at the Sesnon Galleries, hosted by Keith Muscutt, Assistant Dean of the Arts from 1978-2007. Since the days of the pioneer Slugs, Keith has been collecting paper announcements posted around campus, amassing an archive of thousands of posters and flyers for art happenings come and gone. Come have a drink and reconnect with fellow alumni against the backdrop of a selection of Keith's archive, celebrating the vibrancy of the arts at UC Santa Cruz."
+    time: "3:00 - 5:00 pm"
+    month: "Apr"
+    date: 15
   - title: "The John Dizikes Concert "
     location: 'Cowell Provost House'
     description: "<p class='event-description'>With an unbeatable view of the Monterey Bay, come join us at the Cowell Provost House for music, conversation, and libations. We will be closing out a day full of reaffirming past friendships and forging new ones while indulging in one of John Dizike's passions; music.</p>"
@@ -111,7 +123,7 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     month: "Apr"
     date: 15
   - title: "Kresge Alumni Wine & Cheese Reception"
-    location: 'Kresge College Piazza'
+    location: 'Kresge Piazzetta'
     description: '<p class="event-description">Kresge College will host a wine and cheese reception for alumni to share their memories and wisdom with the Kresge community as we build a vibrant future for the college!</p>'
     time: "3:00 - 5:00 pm"
     month: "Apr"
