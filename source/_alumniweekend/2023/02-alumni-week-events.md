@@ -104,9 +104,15 @@ Buffet<br/> lunch will be served as we honor this year’s Pricilla Parker Schol
     time: "3:00 - 5:00 pm"
     month: "Apr"
     date: 15
-  - title: "The John Dizikes Concert "
+  - title: "The John Dizikes Concert"
     location: 'Cowell Provost House'
     description: "<p class='event-description'>With an unbeatable view of the Monterey Bay, come join us at the Cowell Provost House for music, conversation, and libations. We will be closing out a day full of reaffirming past friendships and forging new ones while indulging in one of John Dizike's passions; music.</p>"
+    time: "3:00 - 5:00 pm"
+    month: "Apr"
+    date: 15
+  - title: "Oakes Alumni Reception"
+    location: 'J Herman Black Provost House'
+    description: "Come reminisce and catch up with us Oakes alumni! You are invited to join Provost Ochoa in enjoying some wine and cheese and taking in the stunning vista from the J Herman Blake Provost House."
     time: "3:00 - 5:00 pm"
     month: "Apr"
     date: 15
