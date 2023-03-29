@@ -69,7 +69,7 @@ saturday:
   - title: "Enjoy one of these lunch options"
     location: View description for location
     description: '<ul class="event-description"><li><strong>Lunch in one of the dining halls (included with your registration fee):</strong><ul><li>Cowell/Stevenson Dining Hall</li><li>Porter/Kresge Dining Hall</li><li>College 9/John R. Lewis Dining Hall</li></ul></li><li><strong>Food Trucks</strong> at the Athletics and Recreation Center (formerly OPERS) are available. Attendees are responsible for this additional cost. </li><li><strong>Iveta Cafe</strong>, a coffee and sandwich shop is located in Quarry Plaza. Attendees are responsible for this additional cost. </li><li><strong>Crown Priscilla Parkin Luncheon</strong><p>Crown/Merrill Dining Hall 
-Buffet<br/>Included in your registration, buffet lunch will be served as we honor this year’s Pricilla Parker Priscilla Parkin Awardees. Through the love and dedication of her parents and friends, The Pricilla Parker Priscilla Parkin Scholarship was established and continues to be offered in memory of Crown Pioneer student, Pricilla Parker Priscilla Parkin, who passed away in her freshman year. This event is hosted by Crown College.</p>
+Buffet<br/>Included in your registration, buffet lunch will be served as we honor this year’s Pricilla Parker Priscilla Parkin Awardees. Through the love and dedication of her parents and friends, The Pricilla Parker Priscilla Parkin Scholarship was established and continues to be offered in memory of Crown Pioneer student, Pricilla Parker Priscilla Parkin, who passed away in her freshman year. <em>This event is hosted by Crown College</em>.</p>
 </li></ul>'
     time: "12:00 - 1:00 pm"
     month: "Apr"
