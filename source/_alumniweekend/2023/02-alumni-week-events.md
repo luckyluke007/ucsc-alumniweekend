@@ -110,7 +110,7 @@ saturday:
     month: "Apr"
     date: 15
   - title: "Oakes Alumni Reception"
-    location: 'J Herman Black Provost House'
+    location: 'J. Herman Blake Provost House'
     description: "Come reminisce and catch up with us Oakes alumni! You are invited to join Provost Ochoa in enjoying some wine and cheese and taking in the stunning vista from the J Herman Blake Provost House."
     time: "3:00 - 5:00 pm"
     month: "Apr"
