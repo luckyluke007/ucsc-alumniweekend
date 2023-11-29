@@ -60,18 +60,14 @@ information:
 
 ---
 
-
-<a href="https://secure.ucsc.edu/s/1069/bp18/interior.aspx?sid=1069&gid=1001&pgid=4506&cid=9935&fid=9935&gfid=12816"> 
-  <img src="https://alumniweekend.ucsc.edu/assets/images/2024/banner.png" class="img-full" alt="UC Santa Cruz | Alumni: Alumni Reunion Weekend: April 14-15, 2023">
-</a>
-
+<img src="https://alumniweekend.ucsc.edu/assets/images/2024/banner.png" class="img-full" alt="UC Santa Cruz | Alumni: Alumni Reunion Weekend: April 14-15, 2023">
 <section class="content-centered" style="padding: 0">
   <div class="grid-container large">
-      <h1 style="font-size: 2em;"><strong>Save the date<br />Alumni Reunion Weekend</strong></h1>
-      <h2 style="font-size: 1.5em; display: block;"><strong>{{page.welcome.date}}</strong></h2>
-      <span style="font-size: 1.35em; display: block;">{{page.welcome.subhead}}</span>
-      <p class="lead" style="margin-top: 1em;"> {{page.welcome.message}}</p>
-      <h3>Registration coming soon</h3>
+    <h1 style="font-size: 2em;"><strong>Save the date<br />Alumni Reunion Weekend</strong></h1>
+    <h2 style="font-size: 1.5em; display: block;"><strong>{{page.welcome.date}}</strong></h2>
+    <span style="font-size: 1.35em; display: block;">{{page.welcome.subhead}}</span>
+    <p class="lead" style="margin-top: 1em;"> {{page.welcome.message}}</p>
+    <h3>Registration coming soon</h3>
   </div>
 </section>
 
