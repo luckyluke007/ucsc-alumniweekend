@@ -12,7 +12,7 @@
       <h4>
           {% if page.category == "aw-2021" or  page.category == "aw-2022" %}
             <h4>Alumni Week</h4>
-          {% elsif page.category == "aw-2023" %}
+          {% elsif page.category == "aw-2023" or page.category == "aw-2024"  %}
             <h4>Alumni Reunion Weekend</h4>
           {% else %}
             <h4>Alumni Weekend</h4>
@@ -130,7 +130,7 @@
               <a href="{{ site.baseurl }}/" aria-label="Return to Home">
                 {% if page.category == "aw-2021" or  page.category == "aw-2022" %}
                   <h1>Alumni Week</h1>
-                {% elsif page.category == "aw-2023" %}
+                {% elsif page.category == "aw-2023" or page.category == "aw-2024" %}
                   <h1>Alumni Reunion Weekend</h1>
                 {% else %}
                   <h1>Alumni Weekend</h1>
