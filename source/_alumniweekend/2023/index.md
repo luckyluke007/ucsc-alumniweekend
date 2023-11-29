@@ -57,6 +57,7 @@ information:
     description: 'Over the years people move, change phone numbers, retire, create new email addresses and launch new social media profiles. We are asking for your help to find classmates we’ve lost touch with. If you have updated contact information for <a href="https://docs.google.com/spreadsheets/d/1_zyvwBJYMLJgws400imNdzGXCeQFGeYgqNrhnuLWTis/edit#gid=0">anyone on this list</a>, please reach out to <a href="mailto:alumni@ucsc.edu?subject=Help%20find%20lost%20alumni">alumni@ucsc.edu</a> so we can send them an invite to the weekend.'
     image: '/assets/images/2023/lost-alumni.jpg'
     layout: right
+
 ---
 
 
