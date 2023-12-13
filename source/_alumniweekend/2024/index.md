@@ -1,7 +1,7 @@
 ---
 layout: front-page
 title: "Save the date Alumni Reunion Weekend"
-description: "Celebrating our Golden Slug alumni from the classes of 1963 - 1974."
+description: "Celebrating our Golden Slug alumni from the classes of 1965-1973:"
 
 category: "aw-2024"
 order: 1
@@ -10,39 +10,8 @@ og-image: "https://alumniweekend.ucsc.edu/assets/images/2024/banner.png"
 welcome:
   title: "Alumni Reunion Weekend"
   subhead: "Celebrating our Golden Slug alumni from the classes of 1963 - 1974."
-  ##message: "This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
+  message: "This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
   date: "Friday, April 12 - Saturday, April 13, 2024"
-
-featured:
-  - title: 'Class of ‘73 Virtual Kick-Off, How We’re Still Changing the World'
-    date: "2023-04-13"
-    time: "5:30 - 7:00 p.m."
-    location: "Virtual Event"
-    image: "/assets/images/2023/class-73.jpg"
-    description: "As the Class of ’73 celebrates its 50th anniversary, classmates will come together to reflect on how they are still changing the world. Hear and share about how the Class of ’73 has been at the forefront of progress over the past 50 years. Come celebrate the transformative impact of fellow classmates and colleagues."
-    url: "/alumniweekend/2023/events#featured-1"
-  - title: '50+ Year Reunion Celebrating and honoring our Golden Slug alumni from the classes of 1965-1973 Stevenson Events Center'
-    date: "2023-04-14"
-    time: "6:00 - 9:00pm"
-    location: "Stevenson Event Center"
-    image: "/assets/images/2023/50-celebration.jpg"
-    description: "This is the weekend’s main event where alumni from graduating classes 1965 to 1973 will gather together to celebrate their milestone reunion. Alumni will be presented with the distinct recognition for their part in the history of UC Santa Cruz."
-    url: "/alumniweekend/2023/events#featured-2"
-  - title: 'College Gatherings'
-    date: "2023-04-15"
-    starttime: ""
-    endtime: ""
-    location: "Colleges"
-    image: "/assets/images/2023/college-gathering.jpg"
-    description: "Attend one of the many college hosted events to gather with classmates from your college in the libraries, dining halls and lounges you once called home. Review the full event listings to see events organized by college."
-    url: "/alumniweekend/2023/events#featured-3"
-  - title: 'Then and Now Rolling Tours of UCSC'
-    date: "2023-04-15"
-    time: "10:00 - 1:00 p.m. and 1:00 p.m. - 3:00 p.m."
-    location: "Meet in the Cowell Circle "
-    image: "/assets/images/2023/then-now-tours.jpg"
-    description: "Hop aboard and join Larry Pageler (Crown, ’77) on a driving tour of campus to learn campus history, explore what is new and reminisce about our time as students."
-    url: "/alumniweekend/2023/events#featured-4"
 
 information:
   - title: "Volunteer"
@@ -63,7 +32,7 @@ information:
 <img src="https://alumniweekend.ucsc.edu/assets/images/2024/banner.png" class="img-full" alt="UC Santa Cruz | Alumni: Alumni Reunion Weekend: April 14-15, 2023">
 <section class="content-centered" style="padding: 0">
   <div class="grid-container large">
-    <h1 style="font-size: 2em;"><strong>Save the date<br />Alumni Reunion Weekend</strong></h1>
+    <h1 style="font-size: 2em;"><strong>Save the Date<br />Alumni Reunion Weekend</strong></h1>
     <h2 style="font-size: 1.5em; display: block;"><strong>{{page.welcome.date}}</strong></h2>
     <span style="font-size: 1.35em; display: block;">{{page.welcome.subhead}}</span>
     <p class="lead" style="margin-top: 1em;"> {{page.welcome.message}}</p>
@@ -79,41 +48,6 @@ information:
   }
 </style>
 
-
-<section class="heading">
-  <h2 class="underline">Last Year's Events</h2>
-</section>
-<div class="events-card-list fade-out-siblings">
-  {% for featured in page.featured %}
-    <a class="events-card" href="{{ featured.url }}">
-      <div class="events-card-content">
-        <div class="date">
-          <div class="month">{{ featured.date | date: "%b" }}</div>
-          <div class="day">{{ featured.date | date: "%d" }}</div>
-        </div>
-          <div class="inner">
-            <div class="image">
-            <img src="{{ featured.image }}" alt="{{ featured.title }}"/>
-            </div>
-            <div class="card-content">
-              <h4 class="header underline">{{ featured.title }}</h4>
-              <p class="event-description">{{ featured.description }}</p>
-            <div class="tags">
-              <span class="topics-title">
-                <div class="time">
-                <i class="fa fa-clock-o turquiose-text"></i> {{ featured.date | date: "%A, %B %e, %Y" }} {% if featured.time != null %} at {{ featured.time }} {% endif %}
-                </div>
-                <div class="location">
-                  <i class="fa fa-map-marker turquiose-text"></i> {{ featured.location }}
-                </div>
-              </span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </a>
-  {% endfor %}
-</div>
 
 <!-- End three current events: Tag Home to display -->
 <div class="more no-border">
