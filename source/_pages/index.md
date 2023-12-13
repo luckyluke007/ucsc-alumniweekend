@@ -52,11 +52,11 @@ permalink: /
 
 
 <!-- End three current events: Tag Home to display -->
-<div class="more no-border">
+<!--div class="more no-border">
   <a href="/alumniweekend/2023/events" class="button primary">
     View more events
   </a>
-</div>
+</div>-->
 
 
 {% for information in page.information %}
