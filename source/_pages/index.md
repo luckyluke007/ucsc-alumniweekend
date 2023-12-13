@@ -1,7 +1,7 @@
 ---
 layout: front-page
 title: "Save the date Alumni Reunion Weekend"
-description: "Celebrating our Golden Slug alumni from the classes of 1965-1973:"
+description: "Celebrating our Golden Slug alumni from the classes of 1963-1974."
 
 category: "aw-2024"
 order: 1
