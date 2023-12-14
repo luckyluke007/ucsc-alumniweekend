@@ -10,12 +10,12 @@ og-image: "https://alumniweekend.ucsc.edu/assets/images/2024/banner.png"
 welcome:
   title: "Alumni Reunion Weekend"
   subhead: "Celebrating our Golden Slug alumni from the classes of 1963 - 1974."
-  message: "This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome these pioneers back to UC Santa Cruz for this special weekend."
+  message: "This meaningful weekend will be filled with college-specific events and <br/>special moments to honor alumni celebrating their 50th or greater reunion milestones. <br/>We are excited to welcome our pioneers back to UC Santa Cruz for this special weekend."
   date: "Friday, April 12 - Saturday, April 13, 2024"
 
 information:
   - title: "Volunteer"
-    description: 'We have many <a href="https://alumni.ucsc.edu/volunteer/arw-volunteers.html">volunteer opportunities</a> for you to get involved now and during the weekend. <a href="https://docs.google.com/forms/d/e/1FAIpQLSe91dHZ5027XdMNNU__YX4gXrwRCdAH3tKNmfLz6kkxdz5bog/viewform">Sign-up to volunteer</a>.'
+    description: "We're always looking for volunteers and there are plenty of opportunities to get involved. If you'd like to help with reunion planning or outreach to your classmates, <a href='https://form.asana.com/?k=fuWpPv7-LPHEep8su8vNNQ&d=758852180640843&utm_source=MarketingCloud&utm_medium=email&utm_campaign=_ARW+2024+First+Save+the+Date&utm_content=contact+us.'>please contact us.</a>"
     image: '/assets/images/2023/volunteer-photo.jpg'
     layout: right
   - title: "Digital Memory Book"
@@ -38,7 +38,7 @@ permalink: /
     <h2 style="font-size: 1.5em; display: block;"><strong>{{page.welcome.date}}</strong></h2>
     <span style="font-size: 1.35em; display: block;">{{page.welcome.subhead}}</span>
     <p class="lead" style="margin-top: 1em;"> {{page.welcome.message}}</p>
-    <h3>Registration coming soon</h3>
+    <h3>More details on the weekend festivities will be coming soon</h3>
   </div>
 </section>
 
